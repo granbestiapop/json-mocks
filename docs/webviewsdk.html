@@ -1,0 +1,52 @@
+<html>
+	<head>
+		<script type='text/javascript' src='https://http2.mlstatic.com/resources/frontend/statics/mobile/webkit/v1.21.0/mobilewebkit.js'></script>
+
+		<script type="text/javascript">
+			function closeWebview() {
+				MobileWebKit.executeNative({
+					"method": 'close',
+					"callback": function(result, error) {
+						document.getElementById("textareaContent").value = JSON.stringify({result:result, error:error}, null, 4);
+					}
+				});
+			}
+            function closeWebviewWithResult() {
+				MobileWebKit.executeNative({
+					"method": 'close',
+                    "args": {
+                        "result": {
+                            "info_key": "info_value"
+                        }
+                    },
+					"callback": function(result, error) {
+						document.getElementById("textareaContent").value = JSON.stringify({result:result, error:error}, null, 4);
+					}
+				});
+            }
+            
+            function closeWebviewWithError() {
+				MobileWebKit.executeNative({
+					"method": 'close',
+                    "args": {
+                        "result": "an invalid string when a json object was expected"
+                    },
+					"callback": function(result, error) {
+						document.getElementById("textareaContent").value = JSON.stringify({result:result, error:error}, null, 4);
+					}
+				});
+			}
+		</script>
+	</head>
+
+	<body>
+		Pantalla 0 <br/>
+        <button onclick="javascript: closeWebview();">Cerrar webview</button><br/>
+        <button onclick="javascript: closeWebviewWithResult();">Cerrar webview con resultado</button><br/>
+        <button onclick="javascript: closeWebviewWithError();">Fallar cerrar webview</button><br/>
+
+
+        Response: <br/>
+        <textarea id="textareaContent" style="width:100%; height:70%"></textarea>  <br/>
+	</body>
+</html>
