@@ -3,6 +3,8 @@
 		<script type='text/javascript' src='https://http2.mlstatic.com/resources/frontend/statics/mobile/webkit/v1.21.0/mobilewebkit.js'></script>
 
 		<script type="text/javascript">
+
+
 			function closeWebview() {
 				MobileWebKit.executeNative({
 					"method": 'close',
@@ -36,6 +38,288 @@
 					}
 				});
 			}
+
+			function openVariationsModal() {
+				MobileWebKit.executeNative({
+					method: 'openVariationsModal',
+                    args: {
+                        productID: 'MLA9652755',
+                        variations: {
+							"id": "variations",
+							"state": "VISIBLE",
+							"modal_type": "FULL",
+							"pickers": [{
+								"id": "INTERNAL_MEMORY",
+								"has_details": false,
+								"disabled": false,
+								"label": {
+									"text": "Memoria interna:",
+									"color": "GRAY"
+								},
+								"selected_option": {
+									"text": "32 GB",
+									"color": "BLACK"
+								},
+								"products": [{
+									"id": "MLA9652755",
+									"label": {
+										"text": "32 GB",
+										"color": "BLACK"
+									},
+									"selected": true,
+									"disabled": false,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9652755",
+												"picker_id": "INTERNAL_MEMORY",
+												"picker_disabled": false
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "INTERNAL_MEMORY-32 GB"
+										}
+									}
+								}, {
+									"id": "MLA9707911",
+									"label": {
+										"text": "64 GB",
+										"color": "BLACK"
+									},
+									"selected": false,
+									"disabled": false,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9707911",
+												"picker_id": "INTERNAL_MEMORY",
+												"picker_disabled": true
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "INTERNAL_MEMORY-64 GB"
+										}
+									},
+									"disabled_text": "Sin stock."
+								}]
+							}, {
+								"id": "IS_DUAL_SIM",
+								"has_details": false,
+								"disabled": false,
+								"label": {
+									"text": "Es Dual SIM:",
+									"color": "GRAY"
+								},
+								"selected_option": {
+									"text": "No",
+									"color": "BLACK"
+								},
+								"products": [{
+									"id": "MLA9652755",
+									"label": {
+										"text": "No",
+										"color": "BLACK"
+									},
+									"selected": true,
+									"disabled": false,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9652755",
+												"picker_id": "IS_DUAL_SIM",
+												"picker_disabled": false
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "IS_DUAL_SIM-No"
+										}
+									}
+								}, {
+									"id": "MLA9707917",
+									"label": {
+										"text": "Sí",
+										"color": "BLACK"
+									},
+									"selected": false,
+									"disabled": true,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9707917",
+												"picker_id": "IS_DUAL_SIM",
+												"picker_disabled": true
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "IS_DUAL_SIM-Sí"
+										}
+									},
+									"disabled_text": "Sin stock."
+								}]
+							}, {
+								"id": "COLOR",
+								"has_details": true,
+								"disabled": false,
+								"label": {
+									"text": "Color:",
+									"color": "GRAY"
+								},
+								"selected_option": {
+									"text": "Plata",
+									"color": "BLACK"
+								},
+								"thumbnail": {
+									"id": "996680-MLA30693619148_052019"
+								},
+								"products": [{
+									"id": "MLA9652756",
+									"label": {
+										"text": "Blush",
+										"color": "BLACK"
+									},
+									"picture": {
+										"id": "938303-MLA30691424789_052019"
+									},
+									"selected": false,
+									"disabled": true,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9652756",
+												"picker_id": "COLOR",
+												"picker_disabled": true
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "COLOR-Blush"
+										}
+									},
+									"disabled_text": "Sin stock."
+								}, {
+									"id": "MLA9652757",
+									"label": {
+										"text": "Negro",
+										"color": "BLACK"
+									},
+									"picture": {
+										"id": "620349-MLA30718665384_052019"
+									},
+									"selected": false,
+									"disabled": true,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9652757",
+												"picker_id": "COLOR",
+												"picker_disabled": true
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "COLOR-Negro"
+										}
+									},
+									"disabled_text": "Sin stock."
+								}, {
+									"id": "MLA9652755",
+									"label": {
+										"text": "Plata",
+										"color": "BLACK"
+									},
+									"picture": {
+										"id": "996680-MLA30693619148_052019"
+									},
+									"selected": true,
+									"disabled": false,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9652755",
+												"picker_id": "COLOR",
+												"picker_disabled": false
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "COLOR-Plata"
+										}
+									}
+								}, {
+									"id": "MLA9652754",
+									"label": {
+										"text": "Índigo oscuro",
+										"color": "BLACK"
+									},
+									"picture": {
+										"id": "710117-MLA30694048041_052019"
+									},
+									"selected": false,
+									"disabled": false,
+									"track": {
+										"melidata_event": {
+											"path": "/pdp/picker_selection",
+											"event_data": {
+												"catalog_product_id": "MLA9652754",
+												"picker_id": "COLOR",
+												"picker_disabled": false
+											}
+										},
+										"analytics_event": {
+											"section": "/PDP/",
+											"action": "PICKER_SELECTION",
+											"category": "PDP",
+											"label": "COLOR-Índigo oscuro"
+										}
+									}
+								}]
+							}],
+							"picture_config": {
+								"template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.webp",
+								"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.webp",
+								"template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.webp",
+								"template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.webp",
+								"template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.webp"
+							},
+							"apply_action": {
+								"target": "/products/MLA9652755",
+								"label": {
+									"text": "Aplicar"
+								}
+							}
+						}
+                    },
+					callback: function(result, error) {
+						// reload webview with product id
+						document.getElementById("textareaContent").value = JSON.stringify({result:result, error:error}, null, 4);
+					}
+				});
+			}
 		</script>
 	</head>
 
@@ -44,7 +328,7 @@
         <button onclick="javascript: closeWebview();">Cerrar webview</button><br/>
         <button onclick="javascript: closeWebviewWithResult();">Cerrar webview con resultado</button><br/>
         <button onclick="javascript: closeWebviewWithError();">Fallar cerrar webview</button><br/>
-
+        <button onclick="javascript: openVariationsModal();">Open variations modal</button><br/>
 
         Response: <br/>
         <textarea id="textareaContent" style="width:100%; height:70%"></textarea>  <br/>
