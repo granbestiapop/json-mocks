@@ -1,0 +1,258 @@
+{
+	"id": "MLA9919983",
+	"components": [{
+		"id": "reviews",
+		"type": "reviews",
+		"state": "VISIBLE",
+		"title": "Opiniones sobre Motorola Moto G5S Plus",
+		"rating": "4.7",
+		"stars": "4.5",
+		"subtitle": "Promedio entre 995 opiniones",
+		"rating_levels": [{
+			"value": 749,
+			"percentage": 75,
+			"label": {
+				"text": "5 estrellas"
+			}
+		}, {
+			"value": 204,
+			"percentage": 20,
+			"label": {
+				"text": "4 estrellas"
+			}
+		}, {
+			"value": 26,
+			"percentage": 2,
+			"label": {
+				"text": "3 estrellas"
+			}
+		}, {
+			"value": 5,
+			"percentage": 0,
+			"label": {
+				"text": "2 estrellas"
+			}
+		}, {
+			"value": 11,
+			"percentage": 1,
+			"label": {
+				"text": "1 estrella"
+			}
+		}],
+		"tabs": [{
+			"label": {
+				"text": "Todas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 13625278,
+				"title": "La ye yompe vieja!",
+				"content": "Primer vista: apariencia. Es muy bueno su diseño y su peso. Es dorado pero no llamativo o exagerado, muy elegante. Uso: funcionalidad. Perfecto! total fluidez en el traspaso de escritorios, al menú principal y a las apps. Ligero gracias a sus 8 núcleos y ayudados de 2 gigas de ram se logra un sistema estable. Capacidad media alta, basta de pensar en la falta de espacio, 22 gigas aprovechables que sobran. Volumen de altavoz medio bajo, el micrófono es aceptable/bueno en grabaciones de voz. Cámara frontal y trasera aceptables/buena. Buen software, con muy poco programa basura de fábrica. Con juegos pesados sobrecalienta bastante. Cargador una luz! rapidísimo. No trae auriculares, aceptable por su bajo costo. La batería dura día completo (lo uso con bajo brillo) utilizándolo con alto brillo, bluethoot, y spotify obviamente la autonomía baja y llegas a la tarde noche con un 15 % de batería, pero te olvidas con el lindo cargador que trae. La pantalla es bastante nítida, responde muy rápido al táctil, buen teclado, hay algunos celus que te dan ganas de romperlos con teclados tan mal programados. Conclución: por 5 lucas tenes un celu que la rompe toda!! y le compite a los gama alta tocándole los talones. No hay puntos a mejorar, el equipo dispone de lo necesario para ser un buen teléfono. Mas que recomendado, al igual que sus antecesores, motorola viene con una linea impecable (salvando algunas excepciones que salieron malísimas).",
+				"rate": 5,
+				"likes": 95,
+				"dislikes": 78
+			}],
+			"action": {
+				"target": "/products/MLA9919983/reviews?limit=10&offset=3&parent_id=MLA8054606"
+			}
+		}, {
+			"label": {
+				"text": "Positivas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 13625278,
+				"title": "La ye yompe vieja!",
+				"content": "Primer vista: apariencia. Es muy bueno su diseño y su peso. Es dorado pero no llamativo o exagerado, muy elegante. Uso: funcionalidad. Perfecto! total fluidez en el traspaso de escritorios, al menú principal y a las apps. Ligero gracias a sus 8 núcleos y ayudados de 2 gigas de ram se logra un sistema estable. Capacidad media alta, basta de pensar en la falta de espacio, 22 gigas aprovechables que sobran. Volumen de altavoz medio bajo, el micrófono es aceptable/bueno en grabaciones de voz. Cámara frontal y trasera aceptables/buena. Buen software, con muy poco programa basura de fábrica. Con juegos pesados sobrecalienta bastante. Cargador una luz! rapidísimo. No trae auriculares, aceptable por su bajo costo. La batería dura día completo (lo uso con bajo brillo) utilizándolo con alto brillo, bluethoot, y spotify obviamente la autonomía baja y llegas a la tarde noche con un 15 % de batería, pero te olvidas con el lindo cargador que trae. La pantalla es bastante nítida, responde muy rápido al táctil, buen teclado, hay algunos celus que te dan ganas de romperlos con teclados tan mal programados. Conclución: por 5 lucas tenes un celu que la rompe toda!! y le compite a los gama alta tocándole los talones. No hay puntos a mejorar, el equipo dispone de lo necesario para ser un buen teléfono. Mas que recomendado, al igual que sus antecesores, motorola viene con una linea impecable (salvando algunas excepciones que salieron malísimas).",
+				"rate": 5,
+				"likes": 95,
+				"dislikes": 78
+			}],
+			"action": {
+				"target": "/products/MLA9919983/reviews?relevance=positive&limit=10&offset=3&parent_id=MLA8054606"
+			}
+		}, {
+			"label": {
+				"text": "Negativas",
+				"color": "BLACK"
+			},
+			"message":{
+				"title": {
+					"text": "Nada por aquí"
+				},
+				"subtitle": {
+					"text": "Este producto no tiene reseñas negativas"
+				}
+			},
+			"preview_reviews": [],
+			"action": {
+				"target": "/products/MLA9919983/reviews?relevance=negative&limit=10&offset=3&parent_id=MLA8054606"
+			}
+		}],
+		"all_reviews": {
+			"type": "url",
+			"label": {
+				"text": "Ver todas las opiniones",
+				"color": "BLUE"
+			}
+		}
+	}],
+	"share": {
+		"id": "share",
+		"type": "share",
+		"state": "VISIBLE",
+		"share_title": {
+			"text": "Comparte este producto",
+			"color": "BLACK"
+		},
+		"permalink": "https://www.mercadolibre.com.ar/p/MLA9919983",
+		"action": {
+			"label": {
+				"text": "Compartir"
+			},
+			"icon": {
+				"id": "SHARE"
+			}
+		},
+		"share_actions": []
+	},
+	"bookmark": {
+		"id": "bookmark",
+		"type": "bookmark",
+		"state": "VISIBLE",
+		"item_id": "MLA806345897",
+		"is_bookmarked": false,
+		"add": {
+			"label": {
+				"text": "Agregar a favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			}
+		},
+		"delete": {
+			"label": {
+				"text": "Quitar de favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			}
+		}
+	},
+	"history": {
+		"id": "MLA806345897"
+	},
+	"track": {
+		"melidata_event": {
+			"path": "/pdp",
+			"event_data": {
+				"catalog_parent_id": "MLA8054606",
+				"catalog_product_id": "MLA9919983",
+				"item_id": "MLA806345897",
+				"vertical": "core",
+				"domain_id": "MLA-CELLPHONES",
+				"review_rate": 4,
+				"item_condition": "new",
+				"listing_type_id": "gold_pro",
+				"cart_content": true,
+				"price": 16999.99,
+				"currency_id": "ARS",
+				"seller_id": 309453406,
+				"seller_name": "BAZA 10",
+				"reputation_level": "5_green",
+				"power_seller_status": "platinum",
+				"installment_info": "6f",
+				"free_shipping": true,
+				"shipping_mode": "me2",
+				"local_pick_up": false,
+				"store_pick_up": false,
+				"logistic_type": "cross_docking",
+				"shipping_conditions": "free_mandatory",
+				"pushing_puis": false,
+				"showing_puis": false,
+				"bo_pick_up_conditions": "no_bo_pick_up",
+				"loyalty_level": 1,
+				"pickers": {
+					"INTERNAL_MEMORY": [{
+						"catalog_product_id": "MLA9919983",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA8054611",
+						"selected": false,
+						"disabled": false
+					}],
+					"COLOR": [{
+						"catalog_product_id": "MLA8054608",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA8054607",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA9919983",
+						"selected": true,
+						"disabled": false
+					}],
+					"IS_DUAL_SIM": [{
+						"catalog_product_id": "MLA9919983",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA8054601",
+						"selected": false,
+						"disabled": false
+					}],
+					"RAM": [{
+						"catalog_product_id": "MLA9919983",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14340943",
+						"selected": false,
+						"disabled": false
+					}]
+				}
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"custom_dimensions": {
+				"129": "Motorola G5S Plus 32 GB Nimbus 3 GB RAM",
+				"130": "MLA9919983",
+				"3": "{'MLA1051':'Celulares y Teléfonos'}",
+				"132": "free_mandatory",
+				"4": "{'MLA1051':'Celulares y Teléfonos','MLA1055':'Celulares y Smartphones'}",
+				"7": "MARKETPLACE",
+				"71": "platinum",
+				"8": "core",
+				"72": "5_green",
+				"73": "NO",
+				"19": "gold_pro",
+				"85": "NO",
+				"86": "MLA-CELLPHONES",
+				"35": "normal",
+				"37": "me2",
+				"39": "active",
+				"106": "NO",
+				"42": "6x",
+				"43": "YES",
+				"45": "NO",
+				"111": "NO",
+				"49": "MLA806345897",
+				"51": "new",
+				"119": "309453406",
+				"120": "BAZA 10",
+				"58": "normal",
+				"63": "1"
+			}
+		}
+	},
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+		"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+		"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+	}
+}

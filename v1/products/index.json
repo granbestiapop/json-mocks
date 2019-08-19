@@ -1,0 +1,22 @@
+{
+  "cases":[
+    {
+    	"name": "Reviews 1",
+        "id": "reviews_1",
+    	"description": "Reviews with empty view on first tab",
+        "test": "Check empty view on last tab"
+    },
+    {
+    	"name": "Reviews 2",
+        "id": "reviews_2",
+    	"description": "Reviews with empty view on second tab",
+        "test": "Check empty view on second tab"
+    },
+    {
+    	"name": "Reviews 3",
+        "id": "reviews_3",
+    	"description": "Reviews one comment positive and empty negative",
+        "test": "Check fist tab has 1 review, last empty design"
+    }
+  ]
+}
