@@ -1,5 +1,6 @@
 const express = require('express');
 const axios = require('axios');
+const port = process.env.PORT || 3000;
 
 const getFile = (path, extension = '.json') => {
   return axios(`https://raw.githubusercontent.com/granbestiapop/json-mocks/pdp-json/v1/${path}${extension}`)
@@ -14,6 +15,6 @@ app.get('/*', function (req, res) {
     .catch((err)=>res.status(500).send(err));
 });
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+app.listen(port, function () {
+  console.log(`Example app listening on port ${port}!`);
 });
