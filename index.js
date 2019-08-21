@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 
 const getFile = (path, extension = '.json') => {
-  return axios(`https://raw.githubusercontent.com/granbestiapop/json-mocks/pdp/v1/${path}${extension}`)
+  return axios(`https://raw.githubusercontent.com/granbestiapop/json-mocks/pdp-json/v1/${path}${extension}`)
 }
 //axios('https://raw.githubusercontent.com/granbestiapop/json-mocks/pdp/v1/products/MLA1').then((res)=>console.log(res.data))
 
