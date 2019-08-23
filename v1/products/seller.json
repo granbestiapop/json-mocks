@@ -308,7 +308,7 @@
 				}
 			},
 			"action": {
-				"target": "meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fp%2FMLA6408698%2Fs%3Fwebview%3Dtrue",
+				"target": "meli://products/seller/sellers",
 				"track": {
 					"melidata_event": {
 						"path": "/pdp/other_buying_options",
