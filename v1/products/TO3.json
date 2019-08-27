@@ -1,5 +1,5 @@
 {
-        "description": "Should not show power status on seller view"
+        "description": "Should not show power status on seller view",
 	"id": "MLA14063506",
 	"components": [{
 		"id": "header",
