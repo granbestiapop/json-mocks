@@ -1,0 +1,683 @@
+{
+	"description": "Should show stock",
+	"id": "MLA14141087",
+	"components": [{
+		"id": "header",
+		"type": "header",
+		"title": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+		"reviews": {
+			"rating": 4.8,
+			"amount": 891,
+			"action": {}
+		}
+	}, {
+		"id": "gallery",
+		"type": "gallery",
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+			"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+			"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+		},
+		"pictures": [{
+			"id": "678913-MLA31238918799_062019",
+			"alt": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+			"width": 598,
+			"height": 1200
+		}, {
+			"id": "870320-MLA31252125459_062019",
+			"alt": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+			"width": 597,
+			"height": 1200
+		}, {
+			"id": "722362-MLA31002769350_062019",
+			"alt": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+			"width": 928,
+			"height": 845
+		}, {
+			"id": "742026-MLA31002756395_062019",
+			"alt": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+			"width": 996,
+			"height": 1200
+		}, {
+			"id": "847489-MLA31002760380_062019",
+			"alt": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+			"width": 580,
+			"height": 1200
+		}, {
+			"id": "692028-MLA31002756397_062019",
+			"alt": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+			"width": 582,
+			"height": 1200
+		}]
+	}, {
+		"id": "variations",
+		"type": "variations",
+		"state": "VISIBLE",
+		"modal_type": "FULL",
+		"pickers": [{
+			"id": "INTERNAL_MEMORY",
+			"has_details": false,
+			"disabled": false,
+			"label": {
+				"text": "Memoria interna:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "64 GB",
+				"color": "BLACK"
+			},
+			"products": [{
+				"id": "MLA14321132",
+				"label": {
+					"text": "128 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14321132",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-128 GB"
+					}
+				}
+			}, {
+				"id": "MLA14141081",
+				"label": {
+					"text": "32 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141081",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-32 GB"
+					}
+				}
+			}, {
+				"id": "MLA14141087",
+				"label": {
+					"text": "64 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141087",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-64 GB"
+					}
+				}
+			}]
+		}, {
+			"id": "RAM",
+			"has_details": false,
+			"disabled": false,
+			"label": {
+				"text": "Memoria RAM:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "6 GB",
+				"color": "BLACK"
+			},
+			"products": [{
+				"id": "MLA14141081",
+				"label": {
+					"text": "3 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141081",
+							"picker_id": "RAM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "RAM-3 GB"
+					}
+				}
+			}, {
+				"id": "MLA14141084",
+				"label": {
+					"text": "4 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141084",
+							"picker_id": "RAM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "RAM-4 GB"
+					}
+				}
+			}, {
+				"id": "MLA14141087",
+				"label": {
+					"text": "6 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141087",
+							"picker_id": "RAM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "RAM-6 GB"
+					}
+				}
+			}]
+		}, {
+			"id": "COLOR",
+			"has_details": true,
+			"disabled": false,
+			"label": {
+				"text": "Color:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "Dream blue",
+				"color": "BLACK"
+			},
+			"thumbnail": {
+				"id": "870320-MLA31252125459_062019"
+			},
+			"products": [{
+				"id": "MLA14141088",
+				"label": {
+					"text": "Bright black",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "911128-MLA31182385597_062019"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141088",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Bright black"
+					}
+				}
+			}, {
+				"id": "MLA14141087",
+				"label": {
+					"text": "Dream blue",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "870320-MLA31252125459_062019"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141087",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Dream blue"
+					}
+				}
+			}, {
+				"id": "MLA14141086",
+				"label": {
+					"text": "Twilight gold",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "959237-MLA31152885992_062019"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14141086",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Twilight gold"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}]
+		}],
+		"title": {
+			"text": "Elige otra versión"
+		},
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+			"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+			"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+		},
+		"apply_action": {
+			"id": "MLA14141087",
+			"label": {
+				"text": "Aplicar"
+			}
+		}
+	}, {
+		"id": "price",
+		"type": "price",
+		"state": "HIDDEN"
+	}, {
+		"id": "no_stock_status",
+		"type": "warning_message",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Sin stock",
+			"color": "RED"
+		},
+		"subtitle": {
+			"text": "Seleccioná otro modelo",
+			"color": "BLACK"
+		}
+	}, {
+		"id": "payment_summary",
+		"type": "generic_summary",
+		"state": "HIDDEN"
+	}, {
+		"id": "shipping_summary",
+		"type": "generic_summary",
+		"state": "HIDDEN"
+	}, {
+		"id": "pick_up_summary",
+		"type": "generic_summary",
+		"state": "HIDDEN"
+	}, {
+		"id": "seller",
+		"type": "seller",
+		"state": "HIDDEN"
+	}, {
+		"id": "available_quantity",
+		"type": "available_quantity",
+		"state": "HIDDEN"
+	}, {
+		"id": "main_actions",
+		"type": "main_actions",
+		"state": "HIDDEN"
+	}, {
+		"id": "returns",
+		"type": "returns",
+		"state": "HIDDEN"
+	}, {
+		"id": "buy_benefits",
+		"type": "buy_benefits",
+		"state": "HIDDEN",
+		"benefits": []
+	}, {
+		"id": "others_products",
+		"type": "others_products",
+		"state": "HIDDEN"
+	}, {
+		"id": "all_features",
+		"type": "all_features",
+		"state": "VISIBLE",
+		"main_features": {
+			"title": "Características principales",
+			"type": "LIST",
+			"attributes": ["Liberado", "Procesador Qualcomm Snapdragon 660 - 6 GB", "Pantalla Pantalla FHD+ de 6.3\" con notch de gota", "Cámara trasera 13MP", "Cámara delantera 48MP + 5MP", "Bateria de 4,000 mAh", "Memoria expandible hasta 256 GB", "Sensor de huella digital"]
+		},
+		"specs": [{
+			"title": "Información del producto",
+			"type": "STRIPED",
+			"attributes": [{
+				"id": "Marca",
+				"text": "Xiaomi"
+			}, {
+				"id": "Línea",
+				"text": "Redmi"
+			}, {
+				"id": "Modelo",
+				"text": "Note 7"
+			}, {
+				"id": "Es Dual SIM",
+				"text": "Sí"
+			}, {
+				"id": "Color",
+				"text": "Dream blue"
+			}, {
+				"id": "Memoria interna",
+				"text": "64 GB"
+			}, {
+				"id": "Memoria RAM",
+				"text": "6 GB"
+			}]
+		}],
+		"action": {
+			"target": "meli://products/MLA14141087/specifications",
+			"label": {
+				"text": "Ver más características",
+				"color": "BLUE"
+			}
+		},
+		"bullet": "•"
+	}, {
+		"id": "description",
+		"type": "description",
+		"state": "VISIBLE",
+		"title": "Descripción",
+		"content": "Procesador:\nEl uso de Snapdragon™ 660 significa que Redmi Note 7 ha alcanzado un estatus casi flagship. Además, esta edición especial del procesador con IA proporciona una velocidad de reloj de la CPU más rápida para un funcionamiento increíblemente suave y juegos con alta capacidad de respuesta.\n\nPantalla:\nLa pantalla con notch de gota se ha convertido en una solución común para maximizar la visualización de la pantalla gracias a la forma en la que aloja la cámara frontal. Con una resolución de 2340 x 1080, esta pantalla supera a la mayoría de los televisores de alta definición. En conjunto, este teléfono tiene una pantalla de gran tamaño que mantiene su claridad hasta en los detalles más pequeños.\n\nCámara:\nCámara a nivel de un flagship. Cuantos más píxeles, más clara será la imagen. Redmi Note 7 utiliza un sensor de 48MP, es decir, con cuatro veces más número de píxeles que un teléfono típico de 12MP. Equipada con un gran sensor de 1/2 pulgada, la cámara puede capturar más luz en entornos más oscuros originando fotos más brillantes con menos ruido. ¡Se acabó el uso del trípode, el poder lo tienes ahora tú!\n\nGran duración de la batería:\nUna batería ultragrande significa una resistencia ultralarga y una carga súper rápida. Este es el tipo de poder que estás acostumbrado a ver en los modelos flagship.\n\n4 veces más resistente a caídas:\nEste smartphone esta equipado con Corning Gorilla Glass 5, que es 4 veces más resistente que las generaciones anteriores. Asimismo, cuenta con métodos innovadores de refuerzo para proteger las esquinas. ",
+		"max_pages": 1.5,
+		"action": {
+			"label": {
+				"text": "Ver descripción completa"
+			}
+		}
+	}, {
+		"id": "comparator_product",
+		"type": "comparator_product",
+		"state": "HIDDEN"
+	}, {
+		"id": "reviews",
+		"type": "reviews",
+		"state": "VISIBLE",
+		"title": "Opiniones sobre Xiaomi Redmi Note 7",
+		"rating": "4.8",
+		"stars": "5",
+		"subtitle": "Promedio entre 891 opiniones",
+		"rating_levels": [{
+			"value": 735,
+			"percentage": 82,
+			"label": {
+				"text": "5 estrellas"
+			}
+		}, {
+			"value": 136,
+			"percentage": 15,
+			"label": {
+				"text": "4 estrellas"
+			}
+		}, {
+			"value": 11,
+			"percentage": 1,
+			"label": {
+				"text": "3 estrellas"
+			}
+		}, {
+			"value": 3,
+			"percentage": 0,
+			"label": {
+				"text": "2 estrellas"
+			}
+		}, {
+			"value": 6,
+			"percentage": 0,
+			"label": {
+				"text": "1 estrella"
+			}
+		}],
+		"tabs": [{
+			"label": {
+				"text": "Todas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 39848328,
+				"title": "Muy bueno con sus precauciones",
+				"content": "Es un buen equipo, relación precio calidad, pero confirmen que sea el modelo global de verdad, porque algunos dicen versión global y es mentira, el modelo es7g figura como global y es mentira, después no funciona el 4g, aclaro esto porque el que me vendieron era así. Y a pesar de haber molestado incansablemente  a movistar y claro, no tienen solución  y me tengo  que conformar con 3g. \nPor todo lo demás es un excelente equipo con grandes prestaciones.",
+				"rate": 4,
+				"likes": 73,
+				"dislikes": 43
+			}, {
+				"id": 43646294,
+				"title": "Buen telefono",
+				"version": "Bright black | 32 GB",
+				"content": "Buen producto. Moderno. Recien empiezo a probarlo pero me gusta. Lo recomiendo.",
+				"rate": 4,
+				"likes": 4,
+				"dislikes": 0
+			}, {
+				"id": 44152730,
+				"title": "Excelente",
+				"version": "Dream blue | 32 GB",
+				"content": "Un caño 2 días de uso y todavía me sigue sorprendiendo la cantidad de cosas que tiene la verdad super recomendable el note 7 es maquina.",
+				"rate": 5,
+				"likes": 4,
+				"dislikes": 6
+			}],
+			"action": {
+				"target": "/products/MLA14141087/reviews?limit=10&offset=3&parent_id=MLA14141079"
+			}
+		}, {
+			"label": {
+				"text": "Positivas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 45021157,
+				"title": "opinion no tan corta , pero es un buen celular",
+				"version": "Bright black | 64 GB",
+				"content": "Hola , mercadolibre no me deja hacer opiniones cortas , asique les pasare la receta de una torta frita ingredientes. \n. \n1 taza mediana de harina leudante. \n1/2 kilo de harina común. \n1/4 taza mediana de aceite. \nAgua tibia para mezclar. \n1 cucharadita de sal. \n1 cucharada de azúcar. \nAceite. \nPara la preparación. \n. \nPara hacer la masa, primero tenés que colocar en un bol la harina leudante, la harina común, la sal, el azúcar y luego agregar el aceite y el agua tibia. \nAmasarlo enérgicamente hasta que la masa forme ampollas en su superficie. \nConsejo: el secreto para que te salgan geniales está en el amasado. \nTerminado este paso, dejá reposar hasta que la masa aumente su volumen al menos media hora. Pasado ese tiempo, agarrá la masa, estirala y cortá pequeñas pelotitas. En este punto podés escoger vos el temaño e incluso la forma. Redondas, triangulares o hasta con formas. Podés usar cualquier molde para hacer tortas fritas caseras con un toque creativo. \nUna vez armados los bollitos, achatalos con la palma de la mano o con un palote, dejando un círculo no muy fino. Es importante no excederse porque si son demasiado finas pueden endurecerse. \nPinchá las pequeñas masas con un tenedor o hacele un tajo en el centro para facilitar la cocción. \nLa cocción de las tortas fritas no tiene ningún misterio, sólo hay que tener cuidado con el aceite caliente. Podés usar aceites más sanos para ahorrar calorías y nunca utilices un aceite que haya sido usado para cocinar otras cosas.",
+				"rate": 5,
+				"likes": 2,
+				"dislikes": 0
+			}, {
+				"id": 43227515,
+				"title": "Recomendable",
+				"version": "Bright black | 64 GB",
+				"content": "Muy buen teléfono. La interfaz miui y las aplicaciones pre instaladas de xiaomi no son una buena combinación, pero al tener bastante memoria interna se pueden bajar las apps que mas te gusten y con la posibilidad de instalar un lanzador como nova launcher hace la experiencia mas que buena. La cámara es bastante buena, la calidad de las fotos me agrada. El diseño general del teléfono es muy bueno, pero así como se ve lindo termina siendo muy frágil. Al momento de la compra no se consiguen fácil los accesorios acordes por mi zona ya que se debe pedir del exterior (sea carcasas, vidrio templado para la pantalla y/o cámara trasera). La funda que trae es muy fina y no protege bajo ningún aspecto a la cámara, la cual tras el primer golpe ya tiene en su vidrio una linea, que mas que  una raspadura parece estar quebrado. Esas son las cosas mas llamativas. En mi opinión es un teléfono recomendable.",
+				"rate": 4,
+				"likes": 8,
+				"dislikes": 3
+			}, {
+				"id": 41224950,
+				"title": "Excelente",
+				"content": "La verdad que al principio dudé debido al cargador, porque no es la versión \"internacional\" de dos patas, (me hubiese gustado igual que no sea la de patas redondas, ya casi no hay esas tomas). Si embargo, al actualizar el producto es 100% el original, es la versión global. El diseño me gusta, es mejor que cualquier gama media tipo motorola que cuesta un montón!! rinde mucho en cuánto a juegos (que era una de las razones por la que lo quería). Los parlantes internos son buenos, se escucha perfectamente. La batería la estoy probando todavía pero a diferencia del moto g5 plus que tenía, dura incluso más. La cámara, en la noche se nota mucho la poca calidad, esperaba más, sin embargo, ante todo lo positivo que tiene esto es lo de menos.",
+				"rate": 5,
+				"likes": 27,
+				"dislikes": 24
+			}],
+			"action": {
+				"target": "/products/MLA14141087/reviews?relevance=positive&limit=10&offset=3&parent_id=MLA14141079"
+			}
+		}, {
+			"label": {
+				"text": "Negativas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 35383955,
+				"title": "No es a estrenar!!!",
+				"content": "El producto parece bueno , hasta ahora (semana y media) no me ha dado problemas , lo que quiero decir es que no es un producto a estrenar, al encenderlo no me dio la posibilidad de configurarlo, (seleccionar idioma, etc) osea ya lo habían hecho, traía unos auriculares que de fábrica no trae y al ver la configuración de la batería marcaba horas de uso, no recuerdo cuántas. \nDe saber que no era nuevo de fabrica no lo compraba.",
+				"rate": 2,
+				"likes": 39,
+				"dislikes": 52
+			}, {
+				"id": 41797714,
+				"title": "Medio mierda. ",
+				"content": "Es un lindo celular, con una cámara que no destaca a pesar de sus 48mp, una pantalla tactil mediocre y unos colores aceptables, es un celular que ronda los 15mil mangos y no pagaría más por este xiaomi. Por otro lado falla al sonar por distintas notificaciones, no te muestra las mismas en la pantalla de bloqueo, etc. No deja de ser un celular chino. No me gusto.",
+				"rate": 2,
+				"likes": 7,
+				"dislikes": 60
+			}, {
+				"id": 31032547,
+				"title": "Pantalla fantasma",
+				"content": "El producto cumple con las características pero tiene el famoso inconveniente de la pantalla fantasma, toques fantasmas y congelamiento de la misma. Apenas lo usé por 2 semanas y ya me estoy arrepintiendo de la compra.",
+				"rate": 2,
+				"likes": 4,
+				"dislikes": 14
+			}],
+			"action": {
+				"target": "/products/MLA14141087/reviews?relevance=negative&limit=10&offset=3&parent_id=MLA14141079"
+			}
+		}],
+		"all_reviews": {
+			"type": "url",
+			"label": {
+				"text": "Ver todas las opiniones",
+				"color": "BLUE"
+			}
+		}
+	}, {
+		"id": "questions",
+		"type": "questions",
+		"state": "HIDDEN"
+	}],
+	"share": {
+		"id": "share",
+		"type": "share",
+		"state": "HIDDEN"
+	},
+	"bookmark": {
+		"id": "bookmark",
+		"type": "bookmark",
+		"state": "HIDDEN",
+		"is_bookmarked": false
+	},
+	"track": {
+		"melidata_event": {
+			"path": "/pdp",
+			"event_data": {
+				"catalog_parent_id": "MLA14141079",
+				"catalog_product_id": "MLA14141087",
+				"vertical": "core",
+				"domain_id": "MLA-CELLPHONES",
+				"review_rate": 5,
+				"cart_content": false,
+				"free_shipping": false,
+				"local_pick_up": false,
+				"store_pick_up": false,
+				"pushing_puis": false,
+				"showing_puis": false,
+				"loyalty_level": 1,
+				"pickers": {
+					"INTERNAL_MEMORY": [{
+						"catalog_product_id": "MLA14321132",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14141081",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14141087",
+						"selected": true,
+						"disabled": false
+					}],
+					"COLOR": [{
+						"catalog_product_id": "MLA14141088",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14141087",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14141086",
+						"selected": false,
+						"disabled": false
+					}],
+					"RAM": [{
+						"catalog_product_id": "MLA14141081",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14141084",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14141087",
+						"selected": true,
+						"disabled": false
+					}]
+				}
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"custom_dimensions": {
+				"129": "Xiaomi Redmi Note 7 Dual SIM 64 GB Dream blue (6 GB RAM)",
+				"130": "MLA14141087",
+				"39": "active",
+				"7": "MARKETPLACE",
+				"8": "core",
+				"73": "NO",
+				"111": "NO",
+				"85": "NO",
+				"86": "MLA-CELLPHONES",
+				"63": "1"
+			}
+		}
+	},
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+		"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+		"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+	}
+}
