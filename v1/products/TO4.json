@@ -1,0 +1,952 @@
+{
+        "description": "Should not show power status, check square logo",
+	"id": "MLA14063506",
+	"components": [{
+		"id": "header",
+		"type": "header",
+		"title": "Motorola G7 64 GB Ceramic black 4 GB RAM",
+		"subtitle": "Nuevo  |  2 vendidos",
+		"reviews": {
+			"rating": 4.7,
+			"amount": 351,
+			"action": {}
+		}
+	}, {
+		"id": "gallery",
+		"type": "gallery",
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+			"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+			"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+		},
+		"pictures": [{
+			"id": "780760-MLA31818439856_082019",
+			"alt": "Motorola G7 64 GB Ceramic black 4 GB RAM",
+			"width": 500,
+			"height": 1004
+		}, {
+			"id": "786256-MLA31818726140_082019",
+			"alt": "Motorola G7 64 GB Ceramic black 4 GB RAM",
+			"width": 518,
+			"height": 1038
+		}, {
+			"id": "621434-MLA31893871979_082019",
+			"alt": "Motorola G7 64 GB Ceramic black 4 GB RAM",
+			"width": 634,
+			"height": 1302
+		}, {
+			"id": "997120-MLA31894107415_082019",
+			"alt": "Motorola G7 64 GB Ceramic black 4 GB RAM",
+			"width": 1343,
+			"height": 1048
+		}]
+	}, {
+		"id": "variations",
+		"type": "variations",
+		"state": "VISIBLE",
+		"modal_type": "FULL",
+		"pickers": [{
+			"id": "IS_DUAL_SIM",
+			"has_details": false,
+			"disabled": false,
+			"label": {
+				"text": "Es Dual SIM:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "No",
+				"color": "BLACK"
+			},
+			"products": [{
+				"id": "MLA14063506",
+				"label": {
+					"text": "No",
+					"color": "BLACK"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14063506",
+							"picker_id": "IS_DUAL_SIM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "IS_DUAL_SIM-No"
+					}
+				}
+			}, {
+				"id": "MLA14063509",
+				"label": {
+					"text": "Sí",
+					"color": "BLACK"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14063509",
+							"picker_id": "IS_DUAL_SIM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "IS_DUAL_SIM-Sí"
+					}
+				}
+			}]
+		}, {
+			"id": "COLOR",
+			"has_details": true,
+			"disabled": false,
+			"label": {
+				"text": "Color:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "Ceramic black",
+				"color": "BLACK"
+			},
+			"thumbnail": {
+				"id": "786256-MLA31818726140_082019"
+			},
+			"products": [{
+				"id": "MLA14063506",
+				"label": {
+					"text": "Ceramic black",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "786256-MLA31818726140_082019"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14063506",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Ceramic black"
+					}
+				}
+			}, {
+				"id": "MLA14063507",
+				"label": {
+					"text": "Clear white",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "622468-MLA31832222787_082019"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14063507",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Clear white"
+					}
+				}
+			}]
+		}],
+		"title": {
+			"text": "Elige otra versión"
+		},
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+			"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+			"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+		},
+		"apply_action": {
+			"id": "MLA14063506",
+			"label": {
+				"text": "Aplicar"
+			}
+		}
+	}, {
+		"id": "price",
+		"type": "price",
+		"price": {
+			"type": "price",
+			"value": 15899,
+			"currency_symbol": "$"
+		}
+	}, {
+		"id": "payment_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Pagá en hasta 12 cuotas",
+			"color": "BLACK"
+		},
+		"icon": {
+			"id": "CARD",
+			"color": "BLACK"
+		},
+		"subtitles": [],
+		"icons": [{
+			"id": "visa",
+			"size": "small"
+		}, {
+			"id": "master",
+			"size": "small"
+		}, {
+			"id": "amex",
+			"size": "small"
+		}],
+		"action": {
+			"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA810838303%2Fpayments%3Fwebview%3Dtrue",
+			"label": {
+				"text": "Más información"
+			},
+			"modal_title": "Medios de pago"
+		}
+	}, {
+		"id": "shipping_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Envío gratis a todo el país",
+			"color": "GREEN"
+		},
+		"icon": {
+			"id": "TRUCK",
+			"color": "GREEN"
+		},
+		"subtitles": [{
+			"text": "Conocé los tiempos y las formas de envío."
+		}],
+		"action": {
+			"target": "meli://address_hub/",
+			"label": {
+				"text": "Calcular cuándo llega"
+			},
+			"icon": {
+				"id": "LOCATION",
+				"color": "BLUE"
+			}
+		}
+	}, {
+		"id": "pick_up_summary",
+		"type": "generic_summary",
+		"state": "HIDDEN"
+	}, {
+		"id": "seller",
+		"type": "seller",
+		"state": "VISIBLE",
+		"title": "Vendido por:",
+		"title_value": "OVERHARD DIGITAL",
+		"subtitle": "Este vendedor hace Factura A",
+		"seller": {
+			"id": 174556876,
+			"name": "OVERHARD DIGITAL"
+		},
+		"seller_info": {
+			"header": "Información del vendedor",
+			"title": "OVERHARD DIGITAL",
+			"logo": "https://http2.mlstatic.com/static/org-img/apparel/images/mla-fb/109569068-logo-fb.jpg",
+			"thermometer": {
+				"rank": 5,
+				"info": [{
+					"title": "43160",
+					"subtitle": "Ventas en los últimos 4 meses"
+				}, {
+					"icon": {
+						"id": "REP_SELLER_ATTENTION_GOOD"
+					},
+					"subtitle": "Brinda buena atención"
+				}, {
+					"icon": {
+						"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+					},
+					"subtitle": "Despacha sus productos a tiempo"
+				}]
+			},
+			"extra_info": [{
+				"title": "Ubicación",
+				"subtitle": "Villa Crespo, Capital Federal"
+			}, {
+				"title": "Facturación",
+				"subtitle": "Este vendedor hace Factura A"
+			}]
+		},
+		"show_seller_logo": true
+	}, {
+		"id": "available_quantity",
+		"type": "available_quantity",
+		"state": "VISIBLE",
+		"picker": {
+			"title": "Cantidad:",
+			"selected": 1,
+			"description": "(10 disponibles)"
+		},
+		"quantity_selector": {
+			"type": "drop_down_list",
+			"open_title": "Elegí cantidad",
+			"open_subtitle": "10 disponibles",
+			"label": {
+				"singular": "{quantity} unidad",
+				"plural": "{quantity} unidades"
+			},
+			"confirm_button": "Confirmar",
+			"max": 10,
+			"more": "Más de 6 unidades",
+			"length": 6,
+			"no_stock_message": {
+				"text": "Sin stock",
+				"color": "RED"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/pdp/quantity_change",
+					"event_data": {
+						"catalog_product_id": "MLA14063506",
+						"item_id": "MLA810838303",
+						"seller_id": 174556876,
+						"seller_name": "OVERHARD DIGITAL",
+						"quantity": 1
+					}
+				}
+			}
+		}
+	}, {
+		"id": "main_actions",
+		"type": "main_actions",
+		"state": "VISIBLE",
+		"form": {
+			"item_id": "MLA810838303",
+			"context": "pdp"
+		},
+		"actions": [{
+			"type": "primary",
+			"target": "meli://checkoutv2/MLA810838303?quantity={quantity}&context=pdp",
+			"label": {
+				"text": "Comprar ahora"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/pdp/buy_action",
+					"event_data": {
+						"catalog_product_id": "MLA14063506",
+						"item_id": "MLA810838303",
+						"vertical": "core",
+						"domain_id": "MLA-CELLPHONES",
+						"review_rate": 4,
+						"item_condition": "new",
+						"listing_type_id": "gold_special",
+						"cart_content": true,
+						"price": 15899,
+						"currency_id": "ARS",
+						"seller_id": 174556876,
+						"seller_name": "OVERHARD DIGITAL",
+						"reputation_level": "5_green",
+						"power_seller_status": "platinum",
+						"installment_info": "12",
+						"free_shipping": true,
+						"shipping_mode": "me2",
+						"local_pick_up": false,
+						"store_pick_up": false,
+						"logistic_type": "cross_docking",
+						"shipping_conditions": "free_mandatory",
+						"pushing_puis": false,
+						"showing_puis": false,
+						"bo_pick_up_conditions": "no_bo_pick_up",
+						"loyalty_level": 1
+					}
+				},
+				"analytics_event": {
+					"section": "/PDP/",
+					"action": "BUY-INTENTION",
+					"category": "PDP",
+					"label": "MAIN_ACTION"
+				}
+			},
+			"disabled": false
+		}, {
+			"type": "secondary",
+			"target": "meli://cart-congrats?ids=MLA810838303-{quantity}&context=pdp",
+			"label": {
+				"text": "Agregar al carrito"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/pdp/add_to_cart_action",
+					"event_data": {
+						"catalog_product_id": "MLA14063506",
+						"item_id": "MLA810838303",
+						"vertical": "core",
+						"domain_id": "MLA-CELLPHONES",
+						"review_rate": 4,
+						"item_condition": "new",
+						"listing_type_id": "gold_special",
+						"cart_content": true,
+						"price": 15899,
+						"currency_id": "ARS",
+						"seller_id": 174556876,
+						"seller_name": "OVERHARD DIGITAL",
+						"reputation_level": "5_green",
+						"power_seller_status": "platinum",
+						"installment_info": "12",
+						"free_shipping": true,
+						"shipping_mode": "me2",
+						"local_pick_up": false,
+						"store_pick_up": false,
+						"logistic_type": "cross_docking",
+						"shipping_conditions": "free_mandatory",
+						"pushing_puis": false,
+						"showing_puis": false,
+						"bo_pick_up_conditions": "no_bo_pick_up",
+						"loyalty_level": 1
+					}
+				},
+				"analytics_event": {
+					"section": "/PDP/",
+					"action": "ADD-TO-CART",
+					"category": "PDP",
+					"label": "MAIN_ACTION"
+				}
+			},
+			"disabled": false
+		}]
+	}, {
+		"id": "returns",
+		"type": "returns",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Devolución gratis",
+			"color": "GREEN"
+		},
+		"icon": {
+			"id": "RETURNS_ROUNDED",
+			"color": "GREEN"
+		},
+		"subtitles": [{
+			"text": "Tenés 30 días desde que lo recibís",
+			"color": "GRAY"
+		}],
+		"action": {
+			"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA810838303%26quantity%3D1",
+			"label": {
+				"text": "Conocer más",
+				"color": "BLUE"
+			},
+			"modal_title": "¿No te gusta? Devolvelo gratis"
+		},
+		"background_color": "LIGHT_GREEN"
+	}, {
+		"id": "buy_benefits",
+		"type": "buy_benefits",
+		"state": "VISIBLE",
+		"benefits": [{
+			"text": "<a href=\"meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fcompra-protegida\" target=\"_blank\">Compra Protegida</a>, recib&iacute; el producto que esperabas o te devolvemos tu dinero.",
+			"icon": {
+				"id": "PROTECTED_BUY",
+				"color": "GRAY"
+			}
+		}, {
+			"text": "Sum&aacute;s 794 Mercado Puntos.",
+			"icon": {
+				"id": "LOYALTY_POINTS",
+				"color": "GRAY"
+			}
+		}, {
+			"text": "12 meses de garant&iacute;a de f&aacute;brica.",
+			"icon": {
+				"id": "WARRANTY",
+				"color": "GRAY"
+			}
+		}]
+	}, {
+		"id": "others_products",
+		"type": "others_products",
+		"state": "VISIBLE",
+		"products": [{
+			"title": {
+				"text": "8 productos nuevos desde <b>$ 15.899</b>",
+				"color": "BLACK"
+			},
+			"action": {
+				"target": "meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fp%2FMLA14063506%2Fs%3Fwebview%3Dtrue",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/other_buying_options",
+						"event_data": {
+							"catalog_product_id": "MLA14063506",
+							"item_id": "MLA810838303",
+							"item_condition": "new",
+							"listing_type_id": "gold_special",
+							"domain_id": "MLA-CELLPHONES",
+							"product_status": "active",
+							"seller_id": 174556876,
+							"seller_name": "OVERHARD DIGITAL",
+							"filter": "new"
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "OTHER_BUYING_OPTIONS_NEW",
+						"category": "PDP"
+					}
+				}
+			}
+		}]
+	}, {
+		"id": "grouped_share_bookmark",
+		"type": "grouped_share_bookmark",
+		"components": ["bookmark", "share"]
+	}, {
+		"id": "all_features",
+		"type": "all_features",
+		"state": "VISIBLE",
+		"main_features": {
+			"title": "Características principales",
+			"type": "LIST",
+			"attributes": ["Liberado.", "Pantalla LTPS de 6.24\".", "Cámaras traseras de 12Mpx/5Mpx.", "Cámara delantera de 8Mpx.", "Procesador Snapdragon 632 Octa-core de 1.8GHz con 4GB de RAM.", "Batería de 3000mAh.", "Memoria interna de 64GB expandible hasta 1TB.", "Sistema operativo Android 9.0 Pie.", "Con sensor de huella dactilar."]
+		},
+		"specs": [{
+			"title": "Información del producto",
+			"type": "STRIPED",
+			"attributes": [{
+				"id": "Marca",
+				"text": "Motorola"
+			}, {
+				"id": "Línea",
+				"text": "Moto"
+			}, {
+				"id": "Modelo",
+				"text": "G7"
+			}, {
+				"id": "Es Dual SIM",
+				"text": "No"
+			}, {
+				"id": "Color",
+				"text": "Ceramic black"
+			}, {
+				"id": "Memoria interna",
+				"text": "64 GB"
+			}, {
+				"id": "Memoria RAM",
+				"text": "4 GB"
+			}]
+		}],
+		"action": {
+			"target": "meli://products/MLA14063506/specifications",
+			"label": {
+				"text": "Ver más características",
+				"color": "BLUE"
+			}
+		},
+		"bullet": "•"
+	}, {
+		"id": "description",
+		"type": "description",
+		"state": "VISIBLE",
+		"title": "Descripción",
+		"content": "Experiencia de uso inigualable\nGracias al sistema operativo Android 9.0 Pie podrás descargar tus aplicaciones favoritas, navegar sin límites y estar conectado siempre. Utiliza una interfaz muy intuitiva, que te permitirá organizar y gestionar tus tareas de manera rápida y sencilla.\n\nAlto rendimiento\nCon su memoria RAM de 4 GB podrás maximizar tu rendimiento, ya que aumentarás la velocidad de transmisión de contenidos y tendrás mayor capacidad de almacenamiento de datos.\n\nGran capacidad de almacenamiento\nNo te preocupes por el almacenamiento, con sus 64 GB de memoria podrás descargar tus aplicaciones favoritas y guardar todas las fotos y videos que quieras. Si necesitas más, podrás contar con hasta 1 TB mediante una tarjeta microSD opcional.\n\nBatería para todo el día\nCon su potente batería de 3000 mAh, este teléfono se adapta a tu ritmo de vida y te garantiza energía para toda una jornada con una sola carga.\n\nIncreíble efecto bokeh\nSus 2 cámaras traseras de 12 Mpx/5 Mpx te permitirán capturar imágenes con el famoso modo retrato de poca profundidad de campo. Además, el dispositivo cuenta con cámara frontal de 8 Mpx para que puedas tomarte divertidas selfies o realizar videollamadas.\n\nAcceso protegido\nGracias al sensor de huella dactilar, tendrás acceso a tu teléfono de manera segura y podrás desbloquear tu smartphone automáticamente.",
+		"max_pages": 1.5,
+		"action": {
+			"label": {
+				"text": "Ver descripción completa"
+			}
+		}
+	}, {
+		"id": "comparator_product",
+		"type": "comparator_product",
+		"state": "HIDDEN"
+	}, {
+		"id": "reviews",
+		"type": "reviews",
+		"state": "VISIBLE",
+		"title": "Opiniones sobre Motorola Moto G7",
+		"rating": "4.7",
+		"stars": "4.5",
+		"subtitle": "Promedio entre 351 opiniones",
+		"rating_levels": [{
+			"value": 255,
+			"percentage": 72,
+			"label": {
+				"text": "5 estrellas"
+			}
+		}, {
+			"value": 83,
+			"percentage": 23,
+			"label": {
+				"text": "4 estrellas"
+			}
+		}, {
+			"value": 10,
+			"percentage": 2,
+			"label": {
+				"text": "3 estrellas"
+			}
+		}, {
+			"value": 2,
+			"percentage": 0,
+			"label": {
+				"text": "2 estrellas"
+			}
+		}, {
+			"value": 1,
+			"percentage": 0,
+			"label": {
+				"text": "1 estrella"
+			}
+		}],
+		"tabs": [{
+			"label": {
+				"text": "Todas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 19641168,
+				"title": "Experiencia Android 7 puro",
+				"content": "En este rango de precio, creo que es de lo mejor que se puede comprar. Buena pantalla (aunque pierde contraste cuando no se mira de frente), buena batería (removible). Ranura micro-sd para más memoria. Android 7 nougat. Camara razonable para la gama (foco fijo. Flash led frontal y trasero). Buenas fotos con luz, pero regulares con poca luz. Botones capacitivos no retroiluminados.",
+				"rate": 4,
+				"likes": 28,
+				"dislikes": 0
+			}, {
+				"id": 43840241,
+				"title": "Excelente",
+				"version": "Ceramic black | 64 GB",
+				"content": "Muy bueno. \nNo tengo más para decir pero me piden que ponga más. Bueno, hoy fui al colegio, me desperté a las 6:00 y me hice el desayuno, la desperté a mí vieja y nos fuimos.",
+				"rate": 5,
+				"likes": 46,
+				"dislikes": 1
+			}, {
+				"id": 44604555,
+				"title": "Espectacular",
+				"version": "Clear white | 64 GB",
+				"content": "Me encanta!! amo los motorolas. Tiene gran capacidad de memoria. Y responde muy bien con las aplicaciones. Su pantalla grande y su nitidez. La doble camara me asombró. Lo único que debo usar en modo ahorro de bateria para que dure todo el día.",
+				"rate": 5,
+				"likes": 1,
+				"dislikes": 0
+			}],
+			"action": {
+				"target": "/products/MLA14063506/reviews?limit=10&offset=3&parent_id=MLA14063505"
+			}
+		}, {
+			"label": {
+				"text": "Positivas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 44710688,
+				"title": "Excelente",
+				"version": "Ceramic black | 64 GB",
+				"content": "Muy buen celu, ya tiene una semanita de uso casi y esta muy bueno. Para alguien que venía de un moto g4 es un salto bastante grande. La doble camara trasera es interesante. El almacenamiento un lujo, 64gb son más complicadas de llenar a tope. La memoria ram está bien, imposible hacer que se trabe el celu. La batería, para un uso de oficina (wpp, leer pdf o archivos excel, etc) es más que suficiente, dura más de un día. Para un uso más exigente (redes sociales, pantalla full brillo, etc) quizás se queda un poco cortina al final del día, pero con el cargador turbo no hay ningún problema.",
+				"rate": 5,
+				"likes": 1,
+				"dislikes": 0
+			}, {
+				"id": 40383345,
+				"title": "Excelente celular para el dia a dia",
+				"version": "Ceramic black | 64 GB",
+				"content": "Excelente celular. El snapdragon 632 es perfecto para el dia a dia. La bateria dura un dia y medio con uso moderado. El color negro es clasico y sobrio. Incluye funda tpu de buena calidad. Los 4gb de ram los administra muy bien y los 64gb de memoria interna sobran. La camara saca muy buenas fotos y tambien se puede mejorar instalando la gcam sin ser root ni nada raro. Al ser nacional esta version es single sim. El motor de vibracion es excelente. Muy contento con el motorola moto g7.",
+				"rate": 5,
+				"likes": 19,
+				"dislikes": 4
+			}, {
+				"id": 43972971,
+				"title": "Excelente, sólo que...",
+				"content": "Me encanta su diseño, es muy rápido, cómodo, muy buena pantalla, excelente sonido y tiene una buena capacidad de almacenamiento, lo único que es más malo de lo que se menciona es la cámara. No es buena realmente. A mi mucho no me afecta puesto que buscaba las rendimiento. Pero para sacar una foto sensilla, deja mucho que desear. Fuera de eso sí se busca un teléfono cómodo, rápido y eficiente ya un precio accesible, es excelente este celular!.",
+				"rate": 4,
+				"likes": 1,
+				"dislikes": 1
+			}],
+			"action": {
+				"target": "/products/MLA14063506/reviews?relevance=positive&limit=10&offset=3&parent_id=MLA14063505"
+			}
+		}, {
+			"label": {
+				"text": "Negativas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 44880738,
+				"title": "Es un producto por debajo del estandar",
+				"version": "Ceramic black | 64 GB",
+				"content": "No me gusta para nada. La conectividad con otros dispositivos es nula. La cámara de noche no existe, saca pésimas fotos. Ni hablar de la cámara frontal. Bluethoot que me digan con que dispositivo se puede conectar, con mí parlante no, con mí tele no, con mi compu no. Transmitir no. Mejore la capacidad de memoria respecto del moto g5s plus, lo demás pésimo.",
+				"rate": 1,
+				"likes": 1,
+				"dislikes": 0
+			}, {
+				"id": 42390133,
+				"title": "Malo",
+				"content": "No era to lo q me parecía  creía q era la bateria toda lo duración q fdeciab.",
+				"rate": 2,
+				"likes": 0,
+				"dislikes": 1
+			}, {
+				"id": 30174347,
+				"title": "Malo",
+				"content": "Buen producto. Sólo tenemos problemas con el tactil.",
+				"rate": 2,
+				"likes": 0,
+				"dislikes": 1
+			}],
+			"action": {
+				"target": "/products/MLA14063506/reviews?relevance=negative&limit=10&offset=3&parent_id=MLA14063505"
+			}
+		}],
+		"all_reviews": {
+			"type": "url",
+			"label": {
+				"text": "Ver todas las opiniones",
+				"color": "BLUE"
+			}
+		}
+	}, {
+		"id": "questions",
+		"type": "questions",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Preguntas"
+		},
+		"quick_access": {
+			"title": {
+				"text": "¿Qué querés saber?"
+			},
+			"actions": [{
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA810838303%2Fshipping%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Formas de envío y retiro"
+				},
+				"modal_title": "Formas de envío y retiro"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA810838303%2Fpayments%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Medios de pago"
+				},
+				"modal_title": "Medios de pago"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fwarranty%2FMLA810838303%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Garantía"
+				},
+				"modal_title": "Garantía"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA810838303%26quantity%3D1%26webview%3Dtrue",
+				"label": {
+					"text": "Devoluciones"
+				},
+				"modal_title": "¿No te gusta? Devolvelo gratis"
+			}]
+		},
+		"form": {
+			"title": {
+				"text": "Preguntale a OVERHARD DIGITAL"
+			},
+			"confirm": {
+				"target": "/products/question/MLA810838303?site_id=MLA",
+				"label": {
+					"text": "Preguntar"
+				},
+				"item_id": "MLA810838303"
+			},
+			"subtitles": [],
+			"placeholder": {
+				"text": "Escribí tu pregunta..."
+			},
+			"max_length": 2000
+		},
+		"track": {
+			"melidata_event": {
+				"path": "/questions/ask/post",
+				"event_data": {
+					"catalog_product_id": "MLA14063506",
+					"item_id": "MLA810838303",
+					"context": "/pdp"
+				}
+			},
+			"analytics_event": {
+				"section": "/PDP/",
+				"action": "QUESTION",
+				"category": "ITEM",
+				"label": "PDP"
+			}
+		}
+	}],
+	"share": {
+		"id": "share",
+		"type": "share",
+		"state": "VISIBLE",
+		"share_title": {
+			"text": "Comparte este producto",
+			"color": "BLACK"
+		},
+		"permalink": "https://www.mercadolibre.com.ar/p/MLA14063506",
+		"action": {
+			"label": {
+				"text": "Compartir"
+			},
+			"icon": {
+				"id": "SHARE"
+			}
+		},
+		"share_actions": []
+	},
+	"bookmark": {
+		"id": "bookmark",
+		"type": "bookmark",
+		"state": "VISIBLE",
+		"item_id": "MLA810838303",
+		"is_bookmarked": false,
+		"add": {
+			"label": {
+				"text": "Agregar a favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/bookmarks/action/post",
+					"event_data": {
+						"item_id": "MLA810838303",
+						"catalog_product_id": "MLA14063506",
+						"context": "/pdp"
+					}
+				}
+			}
+		},
+		"delete": {
+			"label": {
+				"text": "Quitar de favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/bookmarks/action/delete",
+					"event_data": {
+						"item_id": "MLA810838303",
+						"catalog_product_id": "MLA14063506",
+						"context": "/pdp"
+					}
+				}
+			}
+		}
+	},
+	"history": {
+		"id": "MLA810838303"
+	},
+	"track": {
+		"melidata_event": {
+			"path": "/pdp",
+			"event_data": {
+				"catalog_parent_id": "MLA14063505",
+				"catalog_product_id": "MLA14063506",
+				"item_id": "MLA810838303",
+				"category_id": "MLA1055",
+				"vertical": "core",
+				"domain_id": "MLA-CELLPHONES",
+				"review_rate": 4,
+				"item_condition": "new",
+				"listing_type_id": "gold_special",
+				"cart_content": true,
+				"price": 15899,
+				"currency_id": "ARS",
+				"seller_id": 174556876,
+				"seller_name": "OVERHARD DIGITAL",
+				"reputation_level": "5_green",
+				"power_seller_status": "platinum",
+				"installment_info": "12",
+				"free_shipping": true,
+				"shipping_mode": "me2",
+				"local_pick_up": false,
+				"store_pick_up": false,
+				"logistic_type": "cross_docking",
+				"shipping_conditions": "free_mandatory",
+				"pushing_puis": false,
+				"showing_puis": false,
+				"bo_pick_up_conditions": "no_bo_pick_up",
+				"loyalty_level": 1,
+				"pickers": {
+					"COLOR": [{
+						"catalog_product_id": "MLA14063506",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14063507",
+						"selected": false,
+						"disabled": false
+					}],
+					"IS_DUAL_SIM": [{
+						"catalog_product_id": "MLA14063506",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14063509",
+						"selected": false,
+						"disabled": false
+					}]
+				}
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"custom_dimensions": {
+				"129": "Motorola G7 64 GB Ceramic black 4 GB RAM",
+				"130": "MLA14063506",
+				"3": "{'MLA1051':'Celulares y Teléfonos'}",
+				"132": "free_mandatory",
+				"4": "{'MLA1051':'Celulares y Teléfonos','MLA1055':'Celulares y Smartphones'}",
+				"7": "MARKETPLACE",
+				"71": "platinum",
+				"8": "core",
+				"72": "5_green",
+				"73": "NO",
+				"19": "gold_special",
+				"85": "NO",
+				"86": "MLA-CELLPHONES",
+				"35": "normal",
+				"37": "me2",
+				"39": "active",
+				"106": "NO",
+				"42": "1x",
+				"43": "YES",
+				"45": "NO",
+				"111": "NO",
+				"49": "MLA810838303",
+				"51": "new",
+				"119": "174556876",
+				"120": "OVERHARD DIGITAL",
+				"58": "normal",
+				"63": "1"
+			}
+		}
+	},
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+		"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+		"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+	}
+}
