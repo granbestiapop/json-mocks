@@ -1,0 +1,470 @@
+{
+	"components": [{
+		"id": "header",
+		"type": "header",
+		"title": "Apple iPhone 7 128 GB Oro",
+		"picture": {
+			"id": "855364-MLA31003118592_062019"
+		},
+		"action": {
+			"target": "https://www.mercadolibre.com.ar/p/MLA6240119",
+			"label": {
+				"text": "Ver producto"
+			}
+		},
+		"available_quantity": {
+			"id": "available_quantity",
+			"type": "available_quantity",
+			"state": "VISIBLE",
+			"picker": {
+				"title": "Cant.",
+				"selected": 1
+			},
+			"quantity_selector": {
+				"type": "drop_down_list",
+				"open_title": "Elegí cantidad",
+				"open_subtitle": "2 disponibles",
+				"label": {
+					"singular": "{quantity} unidad",
+					"plural": "{quantity} unidades"
+				},
+				"confirm_button": "Confirmar",
+				"max": 2,
+				"length": 2,
+				"no_stock_message": {
+					"text": "Sin stock",
+					"color": "RED"
+				},
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/sellers/quantity_change",
+						"event_data": {
+							"catalog_product_id": "MLA6240119",
+							"quantity": 1,
+							"available_quantity": 2
+						}
+					}
+				}
+			}
+		},
+		"variations": {
+			"id": "variations",
+			"type": "variations",
+			"state": "VISIBLE",
+			"modal_type": "FULL",
+			"pickers": [{
+				"id": "INTERNAL_MEMORY",
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Memoria interna:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "128 GB",
+					"color": "BLACK"
+				},
+				"products": [{
+					"id": "MLA6240119",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240119/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "128 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240119",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLA6240124",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240124/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "256 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240124",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}, {
+					"id": "MLA6240114",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240114/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "32 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240114",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					}
+				}]
+			}, {
+				"id": "COLOR",
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Color:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "Oro",
+					"color": "BLACK"
+				},
+				"thumbnail": {
+					"id": "660494-MLA31003080135_062019"
+				},
+				"products": [{
+					"id": "MLA6240122",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240122/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "Negro brillante",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "623994-MLA31003118595_062019"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240122",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}, {
+					"id": "MLA6240121",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240121/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "Negro mate",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "758601-MLA31003118594_062019"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240121",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}, {
+					"id": "MLA6240119",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240119/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "Oro",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "660494-MLA31003080135_062019"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240119",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLA6240118",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240118/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "Oro rosa",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "711349-MLA31003091121_062019"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240118",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}, {
+					"id": "MLA14668216",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA14668216/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "PRODUCT(RED)",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "849165-MLA31002756470_062019"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14668216",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}, {
+					"id": "MLA6240120",
+					"permalink": "https://www.mercadolibre.com.ar/p/MLA6240120/s?product_trigger_id=MLA6240119",
+					"label": {
+						"text": "Plata",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "703886-MLA31003118593_062019"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA6240120",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}]
+			}],
+			"title": {
+				"text": "Elige otra versión"
+			},
+			"apply_action": {
+				"id": "MLA6240119",
+				"label": {
+					"text": "Aplicar"
+				}
+			}
+		}
+	}, {
+	  	"id": "seller_item",
+		"type": "seller_item",
+		"product_condition": {
+			"id": "product_condition",
+			"type": "product_condition",
+			"status": "Nuevo",
+			"title": "123 vendidos |  12 disponibles"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"price": {
+				"type": "price",
+				"value": 7299,
+				"original_value": 8999,
+				"currency_symbol": "$"
+			},
+			"discount_label": {
+				"text": "18% OFF",
+				"color": "GREEN"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"list": [{
+				"text": "6 cuotas de $ 1.549 sin interés",
+				"color": "GREEN"
+			}],
+			"bullet": "•"
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"title": "Vendido por:",
+			"title_value": "VISIONR",
+			"subtitle": "Este vendedor hace Factura A",
+			"seller": {
+				"id": 177555884,
+				"name": "VISIONR"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "VISIONR",
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "1580",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Moron, Buenos Aires"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			}
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"actions": [{
+				"type": "primary",
+				"target": "https://www.mercadolibre.com.ar/gz/checkout/buy",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "https://www.mercadolibre.com.ar/gz/cart/item/add",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}],
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.jpg",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.jpg",
+		"template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.jpg",
+		"template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg",
+		"template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg"
+	},
+	"track": {
+		"melidata_event": {
+			"path": "/pdp/sellers",
+			"event_data": {
+				"catalog_parent_id": "MLA6240112",
+				"catalog_product_id": "MLA6240119",
+				"vertical": "core",
+				"domain_id": "MLA-CELLPHONES",
+				"review_rate": 5,
+				"loyalty_level": 1,
+				"pickers": {
+					"INTERNAL_MEMORY": [{
+						"catalog_product_id": "MLA6240119",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA6240124",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA6240114",
+						"selected": false,
+						"disabled": false
+					}],
+					"COLOR": [{
+						"catalog_product_id": "MLA6240122",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA6240121",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA6240119",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA6240118",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14668216",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA6240120",
+						"selected": false,
+						"disabled": false
+					}]
+				},
+				"items": [{
+					"item_id": "MLA807025411",
+					"price": 39995,
+					"currency_id": "ARS",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 0,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 177555884,
+					"seller_name": "VISIONR",
+					"cart_content": true,
+					"has_full_filment": false
+				}]
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"page": "SELLERS/",
+			"custom_dimensions": {
+				"3": "{'MLA1051':'Celulares y Teléfonos'}",
+				"4": "{'MLA1051':'Celulares y Teléfonos','MLA1055':'Celulares y Smartphones'}",
+				"7": "MARKETPLACE",
+				"8": "core",
+				"19": "gold_special",
+				"39": "active",
+				"63": "1",
+				"72": "",
+				"86": "MLA-CELLPHONES",
+				"119": "177555884",
+				"120": "VISIONR",
+				"130": "MLA6240119"
+			}
+		}
+	}
+}
