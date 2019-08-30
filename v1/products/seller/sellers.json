@@ -385,8 +385,7 @@
 		"template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.jpg",
 		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.jpg",
 		"template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.jpg",
-		"template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg",
-		"template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg"
+		"template_icon": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg"
 	},
 
 	"track": {
