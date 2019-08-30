@@ -1,6 +1,7 @@
 {
 	"components": [{
 			"id": "header",
+			"type": "header",
 			"title": "Apple iPhone 7 128 GB Oro",
 			"picture": {
 				"id": "855364-MLA31003118592_062019"
