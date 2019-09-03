@@ -262,12 +262,12 @@
 		"title": "Vendido por:",
 		"title_value": "CELUTEC.NET",
 		"subtitles": [{
-			"text": "Este vendedor hace Factura A",
+			"text": "Este vendedor hace Factura A (small regular)",
 			"color": "GRAY",
 			"font_size": "SMALL",
 			"font_family": "REGULAR"
 		},{
-			"text": "No brinda buena atención",
+			"text": "No brinda buena atención (Medium y regular)",
 			"color": "ORANGE",
 			"font_size": "MEDIUM",
 			"font_family": "REGULAR"
@@ -280,7 +280,7 @@
 			"text": "Otro texto (Large y semibold)",
 			"color": "RED",
 			"font_size": "LARGE",
-			"font_family": "REGULAR"
+			"font_family": "SEMIBOLD"
 		}],
 		"seller": {
 			"id": 331476722,
