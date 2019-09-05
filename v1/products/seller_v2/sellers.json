@@ -465,5 +465,20 @@
 				"130": "MLA6240119"
 			}
 		}
+	},
+	"pager": {
+		"next_page": 2,
+		"track": {
+			"melidata_event": {
+				"path": "/pdp/sellers/page_selection",
+				"event_data": {
+					"catalog_product_id": "MLB14141085",
+					"selected_quantity": 1,
+					"selected_page": 1,
+					"total_pages": 12,
+					"total_items": 118
+				}
+			}
+		}
 	}
 }
