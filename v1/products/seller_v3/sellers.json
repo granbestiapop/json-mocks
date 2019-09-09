@@ -201,7 +201,7 @@
           },
           {
             "id": "COLOR",
-            "has_details": false,
+            "has_details": true,
             "disabled": false,
             "label": {
               "text": "Cor:",
