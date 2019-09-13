@@ -602,15 +602,7 @@
 			},
 			"action": {
 				"label": {
-					"text": "Ver más opciones desde {price}",
-					"values": {
-						"price": {
-							"type": "price",
-							"value": 38199,
-							"currency_symbol": "$",
-							"size": "tiny"
-						}
-					}
+					"text": "Ver más opciones desde $ 38.199"
 				},
 				"target": "/p/MLA14141085/s"
 			},
@@ -638,7 +630,7 @@
 						"id": "summary_list",
 						"type": "summary_list",
 						"list": [{
-							"text": "Pagá en 6 cuotas de {price} sin interés",
+							"text": "Pagá en 6 cuotas de $ 1.549 sin interés",
 							"color": "BLACK",
 							"values": {
 								"price": {
@@ -750,16 +742,8 @@
 						"id": "summary_list",
 						"type": "summary_list",
 						"list": [{
-							"text": "Pagá en 6 cuotas de {price} sin interés",
-							"color": "BLACK",
-							"values": {
-								"price": {
-									"type": "price",
-									"value": 1549,
-									"currency_symbol": "$",
-									"size": "tiny"
-								}
-							}
+							"text": "Pagá en 6 cuotas de $ 1549 sin interés",
+							"color": "BLACK"
 						}, {
 							"text": "Llega gratis hoy",
 							"color": "GREEN",
