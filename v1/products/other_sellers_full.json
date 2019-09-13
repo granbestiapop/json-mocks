@@ -1,1494 +1,1489 @@
 {
 	"id": "MLA6240114",
 	"components": [{
-			"id": "header",
-			"type": "header",
-			"title": "Apple iPhone 7 32 GB Oro",
-			"subtitle": "Nuevo",
-			"reviews": {
-				"rating": 4.8,
-				"amount": 395,
-				"action": {}
-			}
+		"id": "header",
+		"type": "header",
+		"title": "Apple iPhone 7 32 GB Oro",
+		"subtitle": "Nuevo",
+		"reviews": {
+			"rating": 4.8,
+			"amount": 395,
+			"action": {}
+		}
+	}, {
+		"id": "gallery",
+		"type": "gallery",
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+			"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+			"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+		},
+		"pictures": [{
+			"id": "948813-MLA31003000773_062019",
+			"alt": "Apple iPhone 7 32 GB Oro",
+			"width": 536,
+			"height": 1074
 		}, {
-			"id": "gallery",
-			"type": "gallery",
-			"picture_config": {
-				"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
-				"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
-				"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
-				"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+			"id": "711121-MLA31003091111_062019",
+			"alt": "Apple iPhone 7 32 GB Oro",
+			"width": 536,
+			"height": 1074
+		}, {
+			"id": "639292-MLA31251875225_062019",
+			"alt": "Apple iPhone 7 32 GB Oro",
+			"width": 552,
+			"height": 1200
+		}, {
+			"id": "759736-MLA31182756103_062019",
+			"alt": "Apple iPhone 7 32 GB Oro",
+			"width": 584,
+			"height": 1170
+		}]
+	}, {
+		"id": "variations",
+		"type": "variations",
+		"state": "VISIBLE",
+		"modal_type": "FULL",
+		"pickers": [{
+			"id": "INTERNAL_MEMORY",
+			"has_details": false,
+			"disabled": false,
+			"label": {
+				"text": "Memoria interna:",
+				"color": "GRAY"
 			},
-			"pictures": [{
-				"id": "948813-MLA31003000773_062019",
-				"alt": "Apple iPhone 7 32 GB Oro",
-				"width": 536,
-				"height": 1074
-			}, {
-				"id": "711121-MLA31003091111_062019",
-				"alt": "Apple iPhone 7 32 GB Oro",
-				"width": 536,
-				"height": 1074
-			}, {
-				"id": "639292-MLA31251875225_062019",
-				"alt": "Apple iPhone 7 32 GB Oro",
-				"width": 552,
-				"height": 1200
-			}, {
-				"id": "759736-MLA31182756103_062019",
-				"alt": "Apple iPhone 7 32 GB Oro",
-				"width": 584,
-				"height": 1170
-			}]
-		}, {
-			"id": "variations",
-			"type": "variations",
-			"state": "VISIBLE",
-			"modal_type": "FULL",
-			"pickers": [{
-				"id": "INTERNAL_MEMORY",
-				"has_details": false,
-				"disabled": false,
+			"selected_option": {
+				"text": "32 GB",
+				"color": "BLACK"
+			},
+			"products": [{
+				"id": "MLA6240119",
 				"label": {
-					"text": "Memoria interna:",
-					"color": "GRAY"
+					"text": "128 GB",
+					"color": "BLACK"
 				},
-				"selected_option": {
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA6240119",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-128 GB"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}, {
+				"id": "MLA6240124",
+				"label": {
+					"text": "256 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA6240124",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-256 GB"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}, {
+				"id": "MLA6240114",
+				"label": {
 					"text": "32 GB",
 					"color": "BLACK"
 				},
-				"products": [{
-					"id": "MLA6240119",
-					"label": {
-						"text": "128 GB",
-						"color": "BLACK"
-					},
-					"decoration_type": "BLOCKED",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240119",
-								"picker_id": "INTERNAL_MEMORY",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "INTERNAL_MEMORY-128 GB"
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA6240114",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
 						}
 					},
-					"disabled_text": "Sin stock"
-				}, {
-					"id": "MLA6240124",
-					"label": {
-						"text": "256 GB",
-						"color": "BLACK"
-					},
-					"decoration_type": "BLOCKED",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240124",
-								"picker_id": "INTERNAL_MEMORY",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "INTERNAL_MEMORY-256 GB"
-						}
-					},
-					"disabled_text": "Sin stock"
-				}, {
-					"id": "MLA6240114",
-					"label": {
-						"text": "32 GB",
-						"color": "BLACK"
-					},
-					"decoration_type": "SELECTED",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240114",
-								"picker_id": "INTERNAL_MEMORY",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "INTERNAL_MEMORY-32 GB"
-						}
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-32 GB"
 					}
-				}]
-			}, {
-				"id": "COLOR",
-				"has_details": true,
-				"disabled": false,
+				}
+			}]
+		}, {
+			"id": "COLOR",
+			"has_details": true,
+			"disabled": false,
+			"label": {
+				"text": "Color:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "Oro",
+				"color": "BLACK"
+			},
+			"thumbnail": {
+				"id": "711121-MLA31003091111_062019"
+			},
+			"products": [{
+				"id": "MLA6240117",
 				"label": {
-					"text": "Color:",
-					"color": "GRAY"
+					"text": "Negro brillante",
+					"color": "BLACK"
 				},
-				"selected_option": {
+				"picture": {
+					"id": "893702-MLA31003091119_062019"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA6240117",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Negro brillante"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}, {
+				"id": "MLA6240116",
+				"label": {
+					"text": "Negro mate",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "609466-MLA31003091118_062019"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA6240116",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Negro mate"
+					}
+				}
+			}, {
+				"id": "MLA6240114",
+				"label": {
 					"text": "Oro",
 					"color": "BLACK"
 				},
-				"thumbnail": {
+				"picture": {
 					"id": "711121-MLA31003091111_062019"
 				},
-				"products": [{
-					"id": "MLA6240117",
-					"label": {
-						"text": "Negro brillante",
-						"color": "BLACK"
-					},
-					"picture": {
-						"id": "893702-MLA31003091119_062019"
-					},
-					"decoration_type": "BLOCKED",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240117",
-								"picker_id": "COLOR",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "COLOR-Negro brillante"
-						}
-					},
-					"disabled_text": "Sin stock"
-				}, {
-					"id": "MLA6240116",
-					"label": {
-						"text": "Negro mate",
-						"color": "BLACK"
-					},
-					"picture": {
-						"id": "609466-MLA31003091118_062019"
-					},
-					"decoration_type": "NONE",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240116",
-								"picker_id": "COLOR",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "COLOR-Negro mate"
-						}
-					}
-				}, {
-					"id": "MLA6240114",
-					"label": {
-						"text": "Oro",
-						"color": "BLACK"
-					},
-					"picture": {
-						"id": "711121-MLA31003091111_062019"
-					},
-					"decoration_type": "SELECTED",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240114",
-								"picker_id": "COLOR",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "COLOR-Oro"
-						}
-					}
-				}, {
-					"id": "MLA6240113",
-					"label": {
-						"text": "Oro rosa",
-						"color": "BLACK"
-					},
-					"picture": {
-						"id": "859670-MLA31003080126_062019"
-					},
-					"decoration_type": "NONE",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240113",
-								"picker_id": "COLOR",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "COLOR-Oro rosa"
-						}
-					}
-				}, {
-					"id": "MLA14668216",
-					"label": {
-						"text": "PRODUCT(RED)",
-						"color": "BLACK"
-					},
-					"picture": {
-						"id": "849165-MLA31002756470_062019"
-					},
-					"decoration_type": "BLOCKED",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA14668216",
-								"picker_id": "COLOR",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "COLOR-PRODUCT(RED)"
-						}
-					},
-					"disabled_text": "Sin stock"
-				}, {
-					"id": "MLA6240115",
-					"label": {
-						"text": "Plata",
-						"color": "BLACK"
-					},
-					"picture": {
-						"id": "851074-MLA31003091115_062019"
-					},
-					"decoration_type": "NONE",
-					"track": {
-						"melidata_event": {
-							"path": "/pdp/picker_selection",
-							"event_data": {
-								"catalog_product_id": "MLA6240115",
-								"picker_id": "COLOR",
-								"picker_disabled": false
-							}
-						},
-						"analytics_event": {
-							"section": "/PDP/",
-							"action": "PICKER_SELECTION",
-							"category": "PDP",
-							"label": "COLOR-Plata"
-						}
-					}
-				}]
-			}],
-			"title": {
-				"text": "Elige otra versión"
-			},
-			"picture_config": {
-				"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
-				"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
-				"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
-				"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
-			},
-			"apply_action": {
-				"id": "MLA6240114",
-				"label": {
-					"text": "Aplicar"
-				}
-			}
-		}, {
-			"id": "price",
-			"type": "price",
-			"state": "VISIBLE",
-			"price": {
-				"type": "price",
-				"value": 41690,
-				"currency_symbol": "$"
-			}
-		}, {
-			"id": "no_stock_status",
-			"type": "warning_message",
-			"state": "HIDDEN"
-		}, {
-			"id": "payment_summary",
-			"type": "generic_summary",
-			"state": "VISIBLE",
-			"title": {
-				"text": "Pagá en hasta 12 cuotas",
-				"color": "BLACK"
-			},
-			"icon": {
-				"id": "CARD",
-				"color": "BLACK"
-			},
-			"subtitles": [],
-			"icons": [{
-				"id": "visa",
-				"size": "small"
-			}, {
-				"id": "master",
-				"size": "small"
-			}, {
-				"id": "amex",
-				"size": "small"
-			}],
-			"action": {
-				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA801616914%2Fpayments%3Fwebview%3Dtrue",
-				"label": {
-					"text": "Más información"
-				},
-				"modal_title": "Medios de pago"
-			}
-		}, {
-			"id": "shipping_summary",
-			"type": "generic_summary",
-			"state": "VISIBLE",
-			"title": {
-				"text": "Envío gratis a todo el país",
-				"color": "GREEN"
-			},
-			"icon": {
-				"id": "TRUCK",
-				"color": "GREEN"
-			},
-			"subtitles": [{
-				"text": "Conocé los tiempos y las formas de envío."
-			}],
-			"action": {
-				"target": "meli://address_hub/",
-				"label": {
-					"text": "Calcular cuándo llega"
-				},
-				"icon": {
-					"id": "LOCATION",
-					"color": "BLUE"
-				}
-			}
-		}, {
-			"id": "pick_up_summary",
-			"type": "generic_summary",
-			"state": "HIDDEN"
-		}, {
-			"id": "seller",
-			"type": "seller",
-			"state": "VISIBLE",
-			"title": "Vendido por",
-			"title_value": "KASHMIR_MOCHILAS",
-			"subtitles": [],
-			"seller": {
-				"id": 41346155,
-				"name": "KASHMIR_MOCHILAS",
-				"reputation_level": "5_green"
-			},
-			"seller_info": {
-				"header": "Información del vendedor",
-				"title": "KASHMIR_MOCHILAS",
-				"subtitles": [],
-				"power_seller_status": {
-					"title": "MercadoLíder",
-					"subtitle": "¡Es uno de los mejores del sitio!"
-				},
-				"thermometer": {
-					"rank": 5,
-					"info": [{
-						"title": "314",
-						"subtitle": "Ventas en los últimos 4 meses"
-					}, {
-						"icon": {
-							"id": "REP_SELLER_ATTENTION_GOOD"
-						},
-						"subtitle": "Brinda buena atención"
-					}, {
-						"icon": {
-							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
-						},
-						"subtitle": "Despacha sus productos a tiempo"
-					}]
-				},
-				"extra_info": [{
-					"title": "Ubicación",
-					"subtitle": "Almagro, Capital Federal"
-				}]
-			},
-			"show_seller_logo": false
-		}, {
-			"id": "available_quantity",
-			"type": "available_quantity",
-			"state": "VISIBLE",
-			"picker": {
-				"title": "Cantidad:",
-				"selected": 1,
-				"description": "¡Última disponible!"
-			}
-		}, {
-			"id": "main_actions",
-			"type": "main_actions",
-			"state": "VISIBLE",
-			"form": {
-				"item_id": "MLA801616914",
-				"context": "pdp"
-			},
-			"actions": [{
-				"type": "primary",
-				"target": "meli://checkoutv2/MLA801616914?quantity={quantity}&context=pdp",
-				"label": {
-					"text": "Comprar ahora"
-				},
+				"decoration_type": "SELECTED",
 				"track": {
 					"melidata_event": {
-						"path": "/pdp/buy_action",
+						"path": "/pdp/picker_selection",
 						"event_data": {
 							"catalog_product_id": "MLA6240114",
-							"item_id": "MLA801616914",
-							"vertical": "core",
-							"domain_id": "MLA-CELLPHONES",
-							"review_rate": 5,
-							"item_condition": "new",
-							"listing_type_id": "gold_special",
-							"cart_content": true,
-							"price": 41690,
-							"currency_id": "ARS",
-							"seller_id": 41346155,
-							"seller_name": "KASHMIR_MOCHILAS",
-							"reputation_level": "5_green",
-							"power_seller_status": "silver",
-							"installment_info": "12",
-							"free_shipping": true,
-							"shipping_mode": "me2",
-							"local_pick_up": false,
-							"store_pick_up": false,
-							"logistic_type": "drop_off",
-							"shipping_conditions": "free_mandatory",
-							"pushing_puis": false,
-							"showing_puis": false,
-							"bo_pick_up_conditions": "no_bo_pick_up",
-							"loyalty_level": 1
+							"picker_id": "COLOR",
+							"picker_disabled": false
 						}
 					},
 					"analytics_event": {
 						"section": "/PDP/",
-						"action": "BUY-INTENTION",
+						"action": "PICKER_SELECTION",
 						"category": "PDP",
-						"label": "MAIN_ACTION"
+						"label": "COLOR-Oro"
 					}
-				},
-				"disabled": false
+				}
 			}, {
-				"type": "secondary",
-				"target": "meli://cart-congrats?ids=MLA801616914-{quantity}&context=pdp",
+				"id": "MLA6240113",
 				"label": {
-					"text": "Agregar al carrito"
+					"text": "Oro rosa",
+					"color": "BLACK"
 				},
+				"picture": {
+					"id": "859670-MLA31003080126_062019"
+				},
+				"decoration_type": "NONE",
 				"track": {
 					"melidata_event": {
-						"path": "/pdp/add_to_cart_action",
+						"path": "/pdp/picker_selection",
 						"event_data": {
-							"catalog_product_id": "MLA6240114",
-							"item_id": "MLA801616914",
-							"vertical": "core",
-							"domain_id": "MLA-CELLPHONES",
-							"review_rate": 5,
-							"item_condition": "new",
-							"listing_type_id": "gold_special",
-							"cart_content": true,
-							"price": 41690,
-							"currency_id": "ARS",
-							"seller_id": 41346155,
-							"seller_name": "KASHMIR_MOCHILAS",
-							"reputation_level": "5_green",
-							"power_seller_status": "silver",
-							"installment_info": "12",
-							"free_shipping": true,
-							"shipping_mode": "me2",
-							"local_pick_up": false,
-							"store_pick_up": false,
-							"logistic_type": "drop_off",
-							"shipping_conditions": "free_mandatory",
-							"pushing_puis": false,
-							"showing_puis": false,
-							"bo_pick_up_conditions": "no_bo_pick_up",
-							"loyalty_level": 1
+							"catalog_product_id": "MLA6240113",
+							"picker_id": "COLOR",
+							"picker_disabled": false
 						}
 					},
 					"analytics_event": {
 						"section": "/PDP/",
-						"action": "ADD-TO-CART",
+						"action": "PICKER_SELECTION",
 						"category": "PDP",
-						"label": "MAIN_ACTION"
+						"label": "COLOR-Oro rosa"
+					}
+				}
+			}, {
+				"id": "MLA14668216",
+				"label": {
+					"text": "PRODUCT(RED)",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "849165-MLA31002756470_062019"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14668216",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-PRODUCT(RED)"
 					}
 				},
-				"disabled": false
+				"disabled_text": "Sin stock"
+			}, {
+				"id": "MLA6240115",
+				"label": {
+					"text": "Plata",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "851074-MLA31003091115_062019"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA6240115",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Plata"
+					}
+				}
 			}]
+		}],
+		"title": {
+			"text": "Elige otra versión"
+		},
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+			"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+			"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+		},
+		"apply_action": {
+			"id": "MLA6240114",
+			"label": {
+				"text": "Aplicar"
+			}
+		}
+	}, {
+		"id": "price",
+		"type": "price",
+		"state": "VISIBLE",
+		"price": {
+			"type": "price",
+			"value": 41690,
+			"currency_symbol": "$"
+		}
+	}, {
+		"id": "no_stock_status",
+		"type": "warning_message",
+		"state": "HIDDEN"
+	}, {
+		"id": "payment_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Pagá en hasta 12 cuotas",
+			"color": "BLACK"
+		},
+		"icon": {
+			"id": "CARD",
+			"color": "BLACK"
+		},
+		"subtitles": [],
+		"icons": [{
+			"id": "visa",
+			"size": "small"
 		}, {
-			"id": "returns",
-			"type": "returns",
-			"state": "VISIBLE",
-			"title": {
-				"text": "Devolución gratis",
-				"color": "GREEN"
+			"id": "master",
+			"size": "small"
+		}, {
+			"id": "amex",
+			"size": "small"
+		}],
+		"action": {
+			"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA801616914%2Fpayments%3Fwebview%3Dtrue",
+			"label": {
+				"text": "Más información"
+			},
+			"modal_title": "Medios de pago"
+		}
+	}, {
+		"id": "shipping_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Envío gratis a todo el país",
+			"color": "GREEN"
+		},
+		"icon": {
+			"id": "TRUCK",
+			"color": "GREEN"
+		},
+		"subtitles": [{
+			"text": "Conocé los tiempos y las formas de envío."
+		}],
+		"action": {
+			"target": "meli://address_hub/",
+			"label": {
+				"text": "Calcular cuándo llega"
 			},
 			"icon": {
-				"id": "RETURNS_ROUNDED",
-				"color": "GREEN"
+				"id": "LOCATION",
+				"color": "BLUE"
+			}
+		}
+	}, {
+		"id": "pick_up_summary",
+		"type": "generic_summary",
+		"state": "HIDDEN"
+	}, {
+		"id": "seller",
+		"type": "seller",
+		"state": "VISIBLE",
+		"title": "Vendido por",
+		"title_value": "KASHMIR_MOCHILAS",
+		"subtitles": [],
+		"seller": {
+			"id": 41346155,
+			"name": "KASHMIR_MOCHILAS",
+			"reputation_level": "5_green"
+		},
+		"seller_info": {
+			"header": "Información del vendedor",
+			"title": "KASHMIR_MOCHILAS",
+			"subtitles": [],
+			"power_seller_status": {
+				"title": "MercadoLíder",
+				"subtitle": "¡Es uno de los mejores del sitio!"
 			},
-			"subtitles": [{
-				"text": "Tenés 30 días desde que lo recibís",
-				"color": "GREEN"
-			}],
-			"action": {
-				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA801616914%26quantity%3D1",
-				"label": {
-					"text": "Conocer más",
-					"color": "BLUE"
-				},
-				"modal_title": "¿No te gusta? Devolvelo gratis"
+			"thermometer": {
+				"rank": 5,
+				"info": [{
+					"title": "314",
+					"subtitle": "Ventas en los últimos 4 meses"
+				}, {
+					"icon": {
+						"id": "REP_SELLER_ATTENTION_GOOD"
+					},
+					"subtitle": "Brinda buena atención"
+				}, {
+					"icon": {
+						"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+					},
+					"subtitle": "Despacha sus productos a tiempo"
+				}]
 			},
-			"background_color": "LIGHT_GREEN"
-		}, {
-			"id": "buy_benefits",
-			"type": "buy_benefits",
-			"state": "VISIBLE",
-			"benefits": [{
-				"text": "<a href=\"meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fcompra-protegida\" target=\"_blank\">Compra Protegida</a>, recib&iacute; el producto que esperabas o te devolvemos tu dinero.",
-				"icon": {
-					"id": "PROTECTED_BUY",
-					"color": "GRAY"
-				}
-			}, {
-				"text": "Sum&aacute;s 2084 Mercado Puntos.",
-				"icon": {
-					"id": "LOYALTY_POINTS",
-					"color": "GRAY"
-				}
-			}, {
-				"text": "4 meses de garant&iacute;a de f&aacute;brica.",
-				"icon": {
-					"id": "WARRANTY",
-					"color": "GRAY"
-				}
+			"extra_info": [{
+				"title": "Ubicación",
+				"subtitle": "Almagro, Capital Federal"
 			}]
 		},
-		{
-			"id": "other_sellers_v2",
-			"type": "other_sellers_v2",
-			"state": "VISIBLE",
-			"title": {
-				"label": {
-					"text": "Otras opciones de compra"
-				}
-			},
-			"action": {
-				"label": {
-					"text": "Ver más opciones desde $ 38.199"
-				},
-				"target": "/p/MLA14141085/s"
-			},
-			"items": [{
-					"id": "MLA811361674",
-					"collapsed": true,
-					"product_tag": {
-						"text": "Mejor financiación"
-					},
-					"price": {
-						"id": "price",
-						"type": "price",
-						"price": {
-							"type": "price",
-							"value": 14299,
-							"original_value": 16999,
-							"currency_symbol": "$"
-						},
-						"discount_label": {
-							"text": "15% OFF",
-							"color": "GREEN"
-						}
-					},
-					"summary_list": {
-						"id": "summary_list",
-						"type": "summary_list",
-						"list": [{
-							"text": "Pagá en 6 cuotas de $ 1.549 sin interés",
-							"color": "BLACK",
-							"values": {
-								"price": {
-									"type": "price",
-									"value": 1549,
-									"currency_symbol": "$",
-									"size": "tiny"
-								}
-							}
-						}, {
-							"text": "Llega gratis hoy",
-							"color": "GREEN",
-							"text_icon": {
-								"id": "FULL_ICON"
-							}
-						}]
-					},
-					"seller": {
-						"id": "seller",
-						"type": "seller",
-						"title": "Vendido por:",
-						"title_value": "VISIONR",
-						"subtitle": "Este vendedor hace Factura A",
-						"seller": {
-							"id": 177555884,
-							"name": "VISIONR"
-						},
-						"seller_info": {
-							"header": "Información del vendedor",
-							"title": "VISIONR",
-							"power_seller_status": {
-								"title": "MercadoLíder Platinum",
-								"subtitle": "¡Es uno de los mejores del sitio!"
-							},
-							"thermometer": {
-								"rank": 5,
-								"info": [{
-									"title": "1580",
-									"subtitle": "Ventas en los últimos 4 meses"
-								}, {
-									"icon": {
-										"id": "REP_SELLER_ATTENTION_GOOD"
-									},
-									"subtitle": "Brinda buena atención"
-								}, {
-									"icon": {
-										"id": "REP_SELLER_DELIVERY_TIME_GOOD"
-									},
-									"subtitle": "Despacha sus productos a tiempo"
-								}]
-							},
-							"extra_info": [{
-								"title": "Ubicación",
-								"subtitle": "Moron, Buenos Aires"
-							}, {
-								"title": "Facturación",
-								"subtitle": "Este vendedor hace Factura A"
-							}]
-						},
-						"show_seller_logo": false
-					},
-					"main_actions": {
-						"id": "main_actions",
-						"type": "main_actions",
-						"form": {
-							"mode": "page",
-							"item_id": "MLA811361675",
-							"context": "pdp"
-						},
-						"actions": [{
-							"type": "primary",
-							"target": "https://www.mercadolibre.com.ar/gz/checkout/buy",
-							"label": {
-								"text": "Comprar ahora"
-							},
-							"disabled": false
-						}, {
-							"type": "secondary",
-							"target": "https://www.mercadolibre.com.ar/gz/cart/item/add",
-							"label": {
-								"text": "Agregar al carrito"
-							},
-							"disabled": false
-						}]
-					}
-				},
-
-				{
-					"id": "MLA811361674",
-					"collapsed": true,
-					"product_tag": {
-						"text": "Mejor financiación"
-					},
-					"price": {
-						"id": "price",
-						"type": "price",
-						"price": {
-							"type": "price",
-							"value": 14299,
-							"original_value": 16999,
-							"currency_symbol": "$"
-						},
-						"discount_label": {
-							"text": "15% OFF",
-							"color": "GREEN"
-						}
-					},
-					"summary_list": {
-						"id": "summary_list",
-						"type": "summary_list",
-						"list": [{
-							"text": "Pagá en 6 cuotas de $ 1549 sin interés",
-							"color": "BLACK"
-						}, {
-							"text": "Llega gratis hoy",
-							"color": "GREEN",
-							"text_icon": {
-								"id": "FULL_ICON"
-							}
-						}]
-					},
-					"seller": {
-						"id": "seller",
-						"type": "seller",
-						"title": "Vendido por:",
-						"title_value": "VISIONR",
-						"subtitle": "Este vendedor hace Factura A",
-						"seller": {
-							"id": 177555884,
-							"name": "VISIONR"
-						},
-						"seller_info": {
-							"header": "Información del vendedor",
-							"title": "VISIONR",
-							"power_seller_status": {
-								"title": "MercadoLíder Platinum",
-								"subtitle": "¡Es uno de los mejores del sitio!"
-							},
-							"thermometer": {
-								"rank": 5,
-								"info": [{
-									"title": "1580",
-									"subtitle": "Ventas en los últimos 4 meses"
-								}, {
-									"icon": {
-										"id": "REP_SELLER_ATTENTION_GOOD"
-									},
-									"subtitle": "Brinda buena atención"
-								}, {
-									"icon": {
-										"id": "REP_SELLER_DELIVERY_TIME_GOOD"
-									},
-									"subtitle": "Despacha sus productos a tiempo"
-								}]
-							},
-							"extra_info": [{
-								"title": "Ubicación",
-								"subtitle": "Moron, Buenos Aires"
-							}, {
-								"title": "Facturación",
-								"subtitle": "Este vendedor hace Factura A"
-							}]
-						},
-						"show_seller_logo": false
-					},
-					"main_actions": {
-						"id": "main_actions",
-						"type": "main_actions",
-						"form": {
-							"mode": "page",
-							"item_id": "MLA811361675",
-							"context": "pdp"
-						},
-						"actions": [{
-							"type": "primary",
-							"target": "https://www.mercadolibre.com.ar/gz/checkout/buy",
-							"label": {
-								"text": "Comprar ahora"
-							},
-							"disabled": false
-						}, {
-							"type": "secondary",
-							"target": "https://www.mercadolibre.com.ar/gz/cart/item/add",
-							"label": {
-								"text": "Agregar al carrito"
-							},
-							"disabled": false
-						}]
-					}
-				}
-			]
-		}, {
-			"id": "grouped_share_bookmark",
-			"type": "grouped_share_bookmark",
-			"components": ["bookmark", "share"]
-		}, {
-			"id": "carousel_above",
-			"type": "carousel_above",
-			"state": "VISIBLE",
-			"carousels": [{
-				"title": "Quienes vieron este producto también compraron",
-				"recommendation_info": {
-					"recommendations": [{
-						"quantity": 1,
-						"id": "MLA813939070",
-						"type": "HORIZONTAL",
-						"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_906278-MLA31003080152_062019-V.jpg?square=true",
-						"price": "$ 48.900",
-						"description": "Apple iPhone 7 Plus 32 GB Negro mate",
-						"action": "meli://products/MLA6240132/#&reco_item_pos=0&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=faf3b87f-936e-486f-b1ce-9b630bf1f2e7",
-						"free_shipping": true
-					}, {
-						"quantity": 1,
-						"id": "MLA814401453",
-						"type": "HORIZONTAL",
-						"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_761686-MLA31003080334_062019-V.jpg?square=true",
-						"price": "$ 69.999",
-						"description": "Apple iPhone 8 Plus 64 GB Plata",
-						"action": "meli://products/MLA8752452/#&reco_item_pos=1&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=faf3b87f-936e-486f-b1ce-9b630bf1f2e7",
-						"free_shipping": true
-					}, {
-						"quantity": 1,
-						"type": "ATF_VIEWMORE_PDP",
-						"description": "Ver más publicaciones",
-						"action": "meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Frecommendations-view%2Fget%3Fsite%3DMLA%26category%3DMLA1055%26item%3DMLA801616914%26user%3D-1%26product_id%3DMLA6240114%26limit%3D20%26client%3Dpdp-v2p"
-					}],
-					"carousel_type": "VERTICAL"
-				},
-				"footer": "Todos los precios están calculados en 1 pago",
-				"tracking": {
-					"experiments": [],
-					"event_data": {
-						"recommendations": {
-							"recommendation_id": "faf3b87f-936e-486f-b1ce-9b630bf1f2e7",
-							"backend_id": "machinalis-pdp",
-							"client": "pdp-v2p",
-							"track_info": {
-								"model_id": "product_to_product",
-								"model_version": "0.0.2+3b35690",
-								"train_date": "2019-09-11T20:47:08.209558",
-								"backend_id": "api.mercadolibre.com",
-								"has_recommendations": true,
-								"recommended_items": [{
-									"id": "MLA813939070",
-									"product_id": "MLA6240132"
-								}, {
-									"id": "MLA814401453",
-									"product_id": "MLA8752452"
-								}],
-								"trigger": {
-									"trigger_type": "product",
-									"item_info": {
-										"id": "MLA6240114",
-										"category_id": "MLA1055"
-									}
-								}
-							}
-						}
-					}
-				}
-			}]
-		}, {
-			"id": "all_features",
-			"type": "all_features",
-			"state": "VISIBLE",
-			"main_features": {
-				"title": "Características principales",
-				"type": "LIST",
-				"attributes": ["Liberado", "Procesador A10 Fusion con arquitectura de 64 bits - 2GB", "Pantalla Retina LED IPS HD 4.7\" de 750 x 1334 pixeles", "Cámara trasera 12MP f/1.8 - Cámara delantera 7MP", "Sistema operativo iOS 12", "Resistencia IP67 al agua (hasta 30 minutos a una profundidad máxima de 1 metro) y al polvo", "Sensor de huellas digitales integrado en el botón de inicio"]
-			},
-			"specs": [{
-				"title": "Información del producto",
-				"type": "STRIPED",
-				"attributes": [{
-					"id": "Marca",
-					"text": "Apple"
-				}, {
-					"id": "Línea",
-					"text": "iPhone"
-				}, {
-					"id": "Modelo",
-					"text": "iPhone 7"
-				}, {
-					"id": "Es Dual SIM",
-					"text": "No"
-				}, {
-					"id": "Color",
-					"text": "Oro"
-				}, {
-					"id": "Memoria interna",
-					"text": "32 GB"
-				}, {
-					"id": "Memoria RAM",
-					"text": "2 GB"
-				}]
-			}],
-			"action": {
-				"target": "meli://products/MLA6240114/specifications",
-				"label": {
-					"text": "Ver más características",
-					"color": "BLUE"
-				}
-			},
-			"bullet": "•"
-		}, {
-			"id": "description",
-			"type": "description",
-			"state": "VISIBLE",
-			"title": "Descripción",
-			"content": "Pantalla Retina HD.\nLa pantalla del Apple iPhone 7 tiene una gama de colores más amplia que antes para ofrecer colores estándar de cine y proporcionar una excelente gestión del color. Una gama de colores más amplia ofrece más tonos del espectro de color que se pueden usar para crear una imagen. Como resultado, las imágenes que se muestran en la pantalla son una representación más fiel del mundo; ya sea que estés mirando fotos o viendo videos de tus vacaciones, los colores serán tan precisos va a aparecer estás ahí.\n\nProcesador A10 Fusion.\nEl último procesador A10 Fusion de 64 bits con cuatro núcleos es aproximadamente 40 por ciento más rápido que el A9. El A10 Fusion contiene dos CPU de doble núcleo; uno es un procesador de doble núcleo de alto rendimiento, mientras que el otro es altamente eficiente. La CPU de doble núcleo de alto rendimiento se pone en marcha cuando el teléfono ejecuta tareas exigentes como reproducción de video o juegos, mientras que el otro procesador de doble núcleo de bajo consumo de energía realiza funciones generales. Estos dos conjuntos de CPU garantizan que el teléfono use una potencia mínima cuando está inactivo y aún puede funcionar al máximo cuando sea necesario.\n\nCámara de 12 MP con apertura f/1.8.\nEl Apple iPhone 7 tiene una cámara principal de 12 megapíxeles con una apertura más grande f/1.8 con una construcción de lente de seis elementos que te permite capturar fotos más brillantes y más detalladas.",
-			"max_pages": 1.5,
-			"action": {
-				"label": {
-					"text": "Ver descripción completa"
-				}
-			}
-		}, {
-			"id": "comparator_product",
-			"type": "comparator_product",
-			"state": "VISIBLE",
-			"tabs": [{
-				"attributes_list": [{
-					"id": "REVIEWS",
-					"title": "Opiniones",
-					"type": "reviews"
-				}, {
-					"id": "PRICE",
-					"title": "Precio",
-					"type": "price"
-				}, {
-					"id": "SELLER",
-					"title": "Vendedor",
-					"type": "link"
-				}, {
-					"id": "IS_DUAL_SIM",
-					"title": "Es Dual SIM",
-					"type": "standard"
-				}, {
-					"id": "COLOR",
-					"title": "Color",
-					"type": "standard"
-				}, {
-					"id": "INTERNAL_MEMORY",
-					"title": "Memoria interna",
-					"type": "standard"
-				}, {
-					"id": "RAM",
-					"title": "Memoria RAM",
-					"type": "standard"
-				}, {
-					"id": "WITH_ESIM",
-					"title": "Con eSIM",
-					"type": "standard"
-				}, {
-					"id": "OPERATING_SYSTEM_NAME",
-					"title": "Nombre del sistema operativo",
-					"type": "standard"
-				}, {
-					"id": "OPERATING_SYSTEM_VERSION",
-					"title": "Versión del sistema operativo",
-					"type": "standard"
-				}],
-				"recommended_products": [{
-					"id": "MLA6240114",
-					"status": "active",
-					"trigger": true,
-					"site_id": "MLA",
-					"domain_id": "MLA-CELLPHONES",
-					"permalink": "meli://products/MLA6240114/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=0&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
-					"name": "Apple iPhone 7 32 GB Oro",
-					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948813-MLA31003000773_062019-V.jpg",
-					"img_max_width": 536,
-					"img_max_height": 1074,
-					"item_id": "MLA801616914",
-					"parent_id": "MLA6240112",
-					"product_details": {
-						"REVIEWS": {
-							"count_reviews": 395,
-							"rating_average": 4.8
-						},
-						"PRICE": {
-							"value": 41690,
-							"currency_symbol": "$",
-							"decimal_separator": ",",
-							"thousand_separator": "."
-						},
-						"SELLER": {
-							"link": "",
-							"id": "41346155",
-							"name": "KASHMIR_MOCHILAS"
-						},
-						"IS_DUAL_SIM": {
-							"text": "No"
-						},
-						"COLOR": {
-							"text": "Oro"
-						},
-						"INTERNAL_MEMORY": {
-							"text": "32 GB"
-						},
-						"RAM": {
-							"text": "2 GB"
-						},
-						"WITH_ESIM": {
-							"text": "No"
-						},
-						"OPERATING_SYSTEM_NAME": {
-							"text": "iOS"
-						},
-						"OPERATING_SYSTEM_VERSION": {
-							"text": "10.0.1"
-						}
-					}
-				}, {
-					"id": "MLA13916761",
-					"status": "active",
-					"trigger": false,
-					"site_id": "MLA",
-					"domain_id": "MLA-CELLPHONES",
-					"permalink": "meli://products/MLA13916761/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=1&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
-					"name": "Huawei Mate 20 Dual SIM 128 GB Negro 4 GB RAM",
-					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_666764-MLA32016214322_082019-V.jpg",
-					"img_max_width": 598,
-					"img_max_height": 1196,
-					"item_id": "MLA813275998",
-					"parent_id": "MLA13916759",
-					"product_details": {
-						"REVIEWS": {
-							"count_reviews": 0,
-							"rating_average": 0
-						},
-						"PRICE": {
-							"value": 37900,
-							"currency_symbol": "$",
-							"decimal_separator": ",",
-							"thousand_separator": "."
-						},
-						"SELLER": {
-							"link": "",
-							"id": "437271",
-							"name": "NOTRE DAME"
-						},
-						"IS_DUAL_SIM": {
-							"text": "Sí"
-						},
-						"COLOR": {
-							"text": "Negro"
-						},
-						"INTERNAL_MEMORY": {
-							"text": "128 GB"
-						},
-						"RAM": {
-							"text": "4 GB"
-						},
-						"WITH_ESIM": {
-							"text": "No"
-						},
-						"OPERATING_SYSTEM_NAME": {
-							"text": "Android"
-						},
-						"OPERATING_SYSTEM_VERSION": {
-							"text": "9.0 Pie"
-						}
-					}
-				}, {
-					"id": "MLA9100271",
-					"status": "active",
-					"trigger": false,
-					"site_id": "MLA",
-					"domain_id": "MLA-CELLPHONES",
-					"permalink": "meli://products/MLA9100271/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=2&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
-					"name": "Samsung Galaxy S9 64 GB Negro medianoche",
-					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_889712-MLA31250987430_062019-V.jpg",
-					"img_max_width": 580,
-					"img_max_height": 1162,
-					"item_id": "MLA812477469",
-					"parent_id": "MLA9100270",
-					"product_details": {
-						"REVIEWS": {
-							"count_reviews": 116,
-							"rating_average": 4.8
-						},
-						"PRICE": {
-							"value": 49999,
-							"currency_symbol": "$",
-							"decimal_separator": ",",
-							"thousand_separator": "."
-						},
-						"SELLER": {
-							"link": "",
-							"id": "143125485",
-							"name": "FRAVEGA"
-						},
-						"IS_DUAL_SIM": {
-							"text": "No"
-						},
-						"COLOR": {
-							"text": "Negro medianoche"
-						},
-						"INTERNAL_MEMORY": {
-							"text": "64 GB"
-						},
-						"RAM": {
-							"text": "4 GB"
-						},
-						"WITH_ESIM": {
-							"text": "No"
-						},
-						"OPERATING_SYSTEM_NAME": {
-							"text": "Android"
-						},
-						"OPERATING_SYSTEM_VERSION": {
-							"text": "8.0 Oreo"
-						}
-					}
-				}, {
-					"id": "MLA6127570",
-					"status": "active",
-					"trigger": false,
-					"site_id": "MLA",
-					"domain_id": "MLA-CELLPHONES",
-					"permalink": "meli://products/MLA6127570/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=3&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
-					"name": "Apple iPhone 6s 16 GB Plata",
-					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_716957-MLA31003091057_062019-V.jpg",
-					"img_max_width": 536,
-					"img_max_height": 1064,
-					"item_id": "MLA810192425",
-					"parent_id": "MLA6127568",
-					"product_details": {
-						"REVIEWS": {
-							"count_reviews": 675,
-							"rating_average": 4.6
-						},
-						"PRICE": {
-							"value": 35999,
-							"currency_symbol": "$",
-							"decimal_separator": ",",
-							"thousand_separator": "."
-						},
-						"SELLER": {
-							"link": "",
-							"id": "199785787",
-							"name": "NETFE_STAFE"
-						},
-						"IS_DUAL_SIM": {
-							"text": "No"
-						},
-						"COLOR": {
-							"text": "Plata"
-						},
-						"INTERNAL_MEMORY": {
-							"text": "16 GB"
-						},
-						"RAM": {
-							"text": "2 GB"
-						},
-						"WITH_ESIM": {
-							"text": "No"
-						},
-						"OPERATING_SYSTEM_NAME": {
-							"text": "iOS"
-						},
-						"OPERATING_SYSTEM_VERSION": {
-							"text": "9"
-						}
-					}
-				}],
-				"tracking": {
-					"event_data": {
-						"recommendations": {
-							"backend_id": "prod.recommendations-algorithm-product",
-							"client": "pdp_comparator",
-							"recommendation_id": "6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
-							"track_info": {
-								"has_recommendations": true,
-								"backend_id": "prod.recommendations-algorithm-product",
-								"model_id": "products-different-parent",
-								"model_version": "V1",
-								"trigger": {
-									"trigger_type": "product",
-									"product": {
-										"id": "MLA6240114",
-										"status": "active",
-										"domain_id": "MLA-CELLPHONES",
-										"item_id": "MLA801616914",
-										"parent_id": "MLA6240112"
-									}
-								},
-								"recommended_products": [{
-									"item_id": "MLA801616914",
-									"id": "MLA6240114"
-								}, {
-									"item_id": "MLA813275998",
-									"id": "MLA13916761"
-								}, {
-									"item_id": "MLA812477469",
-									"id": "MLA9100271"
-								}, {
-									"item_id": "MLA810192425",
-									"id": "MLA6127570"
-								}]
-							}
-						}
-					},
-					"path": "/recommendations/print"
-				},
-				"title": "Compará con otros productos similares",
-				"labels": {
-					"this_product": "(Este producto)",
-					"see_product": "Ver producto",
-					"more_details": "Ver más detalles",
-					"tab": "Productos similares",
-					"empty_column": "-"
-				},
-				"max_attribute_init": 6,
-				"priority": 1
-			}, {
-				"recommended_products": [],
-				"tracking": {
-					"event_data": {
-						"recommendations": {
-							"client": "pdp_comparator_navigation",
-							"recommendation_id": "d60a27e0-4735-400c-b145-201a7b2eda3b",
-							"track_info": {
-								"has_recommendations": false,
-								"trigger": {
-									"trigger_type": "product",
-									"product": {
-										"id": "MLA6240114"
-									}
-								},
-								"empty_result_cause": "RECOS_NOT_FOUND"
-							}
-						}
-					},
-					"path": "/recommendations/print"
-				},
-				"labels": {
-					"this_product": "(Este producto)",
-					"see_product": "Ver producto",
-					"more_details": "Ver más detalles",
-					"tab": "Visitados recientemente",
-					"empty_column": "-"
-				},
-				"max_attribute_init": 6,
-				"priority": 2
-			}]
-		}, {
-			"id": "reviews",
-			"type": "reviews",
-			"state": "VISIBLE",
-			"title": "Opiniones sobre Apple iPhone 7",
-			"rating": "4.8",
-			"stars": "5",
-			"subtitle": "Promedio entre 395 opiniones",
-			"rating_levels": [{
-				"value": 336,
-				"percentage": 85,
-				"label": {
-					"text": "5 estrellas"
-				}
-			}, {
-				"value": 41,
-				"percentage": 10,
-				"label": {
-					"text": "4 estrellas"
-				}
-			}, {
-				"value": 10,
-				"percentage": 2,
-				"label": {
-					"text": "3 estrellas"
-				}
-			}, {
-				"value": 3,
-				"percentage": 0,
-				"label": {
-					"text": "2 estrellas"
-				}
-			}, {
-				"value": 5,
-				"percentage": 1,
-				"label": {
-					"text": "1 estrella"
-				}
-			}],
-			"tabs": [{
-				"label": {
-					"text": "Todas",
-					"color": "BLACK"
-				},
-				"preview_reviews": [{
-					"id": 5853052,
-					"title": "Bueno",
-					"content": "Excelente. La nitidez de la cámara. Pero las fotos en movimento igual salen movidas, en este aspecto es mejor la camarita del motorola 3g que saca hasta las gotitas de agua cuando uno salpica, igual destaco la gran nitidez. El resto de las funciones aun probrando, se pone lento a veces para escribir aun sin haber descargado ninguna aplicación y hay que acostumbrase a tocar cerca de la curvita del celu porque no responde rapidamente. Igual conforme.",
-					"rate": 3,
-					"likes": 50,
-					"dislikes": 171
-				}, {
-					"id": 36523718,
-					"title": "Muy malo",
-					"version": "Negro mate | 32 GB",
-					"content": "Luego de los tres meses de haber adquirido el producto. Me encuentro con que le faltaban tornillos en su interior y hacia ruido. Pésimo producto.",
-					"rate": 1,
-					"likes": 21,
-					"dislikes": 44
-				}, {
-					"id": 19989760,
-					"title": "El mejor celular lejos!!! ",
-					"version": "Oro | 128 GB",
-					"content": "Este iphone es increible!!! super rapido, tuene una camara tremenda, tanto la frontal como la trasera, es liviano y el color dorado, tiene un no se que, que lo hace hermoso, hice mi mejor compra lejos!!.",
-					"rate": 5,
-					"likes": 27,
-					"dislikes": 19
-				}],
-				"action": {
-					"target": "/products/MLA6240114/reviews?limit=10&offset=3&parent_id=MLA6240112"
-				}
-			}, {
-				"label": {
-					"text": "Positivas",
-					"color": "BLACK"
-				},
-				"preview_reviews": [{
-					"id": 20084253,
-					"title": "Excelente",
-					"content": "Excelente! soy usuaria de iphone hace años así que no puedo ser muy objetiva. Para mi es el mejor celular que existe. El rigor es una edición limitada en favor del sida y lo que me sorprendió es el enchufe con patas redondas pero supongo que debe ser de la partida que va a europa. Recomendable 100%.",
-					"rate": 5,
-					"likes": 61,
-					"dislikes": 158
-				}, {
-					"id": 17100591,
-					"title": "Excelente en todo aspecto ",
-					"content": "Hace muchos años que utilizo iphone. Asi que no me sorprende ni su eficacia ni su sistema operativo que hace todo con gran fluidez. Si me tuve que adaptar al boton de apagado en el costado jaj. Por lo demas como siempre. Elegante rapido y con 128 gb no me importa borrar nada !!! al menos por ahora.",
-					"rate": 5,
-					"likes": 42,
-					"dislikes": 66
-				}, {
-					"id": 8567782,
-					"title": "El celular mas rápido que tuve hasta el momento.",
-					"content": "Excelente equipo. Rápido, fácil de manejar, pantalla muy receptiva, buen tamaño para el ajuste de la mano. Facilidad de acceso para desbloqueo, hermosa estética. El multitouch facilita mucho el uso una vez que te acostumbras. Excelente producto, vale la pena el gasto que se hace en estos equipos si se le da mucho uso al celular.",
-					"rate": 5,
-					"likes": 51,
-					"dislikes": 105
-				}],
-				"action": {
-					"target": "/products/MLA6240114/reviews?relevance=positive&limit=10&offset=3&parent_id=MLA6240112"
-				}
-			}, {
-				"label": {
-					"text": "Negativas",
-					"color": "BLACK"
-				},
-				"preview_reviews": [{
-					"id": 40697884,
-					"title": "No compren.El iphone que recibi No es original",
-					"content": "Lo compre en agosto. Empece a tener problemas. Y hace un par de dias  se me rompio la pantalla. Lo lleve a reparar persona que lo reparo,  que sabe mucho del tema me dijo que adentro el celular es trucho. No tiene el modulo original y hasta le faltaban tornillos. Malisimo. No compren.",
-					"rate": 1,
-					"likes": 91,
-					"dislikes": 32
-				}, {
-					"id": 18263207,
-					"title": "Tiene muchas fallas ",
-					"content": "Estoy teniendo problemas para conectarme via bluetooth, se queda buscando los dispositivos mucho tiempo sin conectar. También pasa con las conexiones a redes de wi-fi, tarda mucho en autentificar. No estoy convencido de la compra para nada.",
-					"rate": 2,
-					"likes": 66,
-					"dislikes": 105
-				}, {
-					"id": 19070320,
-					"title": "Muy mala gestiòn en la ventas.",
-					"content": "El genio steve jobs, desde donde estè, si viera de la forma que vendiste este !phone 7. La poca colaboracion que brindaste, te aseguro que no durarias un segundo en la empresa.",
-					"rate": 1,
-					"likes": 66,
-					"dislikes": 52
-				}],
-				"action": {
-					"target": "/products/MLA6240114/reviews?relevance=negative&limit=10&offset=3&parent_id=MLA6240112"
-				}
-			}],
-			"all_reviews": {
-				"type": "url",
-				"label": {
-					"text": "Ver todas las opiniones",
-					"color": "BLUE"
-				}
-			}
-		}, {
-			"id": "questions",
-			"type": "questions",
-			"state": "VISIBLE",
-			"title": {
-				"text": "Preguntas"
-			},
-			"quick_access": {
-				"title": {
-					"text": "¿Qué querés saber?"
-				},
-				"actions": [{
-					"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA801616914%2Fshipping%3Fwebview%3Dtrue",
-					"label": {
-						"text": "Formas de envío y retiro"
-					},
-					"modal_title": "Formas de envío y retiro"
-				}, {
-					"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA801616914%2Fpayments%3Fwebview%3Dtrue",
-					"label": {
-						"text": "Medios de pago"
-					},
-					"modal_title": "Medios de pago"
-				}, {
-					"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fwarranty%2FMLA801616914%3Fwebview%3Dtrue",
-					"label": {
-						"text": "Garantía"
-					},
-					"modal_title": "Garantía"
-				}, {
-					"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA801616914%26quantity%3D1%26webview%3Dtrue",
-					"label": {
-						"text": "Devoluciones"
-					},
-					"modal_title": "¿No te gusta? Devolvelo gratis"
-				}]
-			},
-			"form": {
-				"title": {
-					"text": "Preguntale a KASHMIR_MOCHILAS"
-				},
-				"confirm": {
-					"target": "/products/question/MLA801616914?site_id=MLA",
-					"label": {
-						"text": "Preguntar"
-					},
-					"item_id": "MLA801616914"
-				},
-				"subtitles": [],
-				"placeholder": {
-					"text": "Escribí tu pregunta..."
-				},
-				"max_length": 2000
+		"show_seller_logo": false
+	}, {
+		"id": "available_quantity",
+		"type": "available_quantity",
+		"state": "VISIBLE",
+		"picker": {
+			"title": "Cantidad:",
+			"selected": 1,
+			"description": "¡Última disponible!"
+		}
+	}, {
+		"id": "main_actions",
+		"type": "main_actions",
+		"state": "VISIBLE",
+		"form": {
+			"item_id": "MLA801616914",
+			"context": "pdp"
+		},
+		"actions": [{
+			"type": "primary",
+			"target": "meli://checkoutv2/MLA801616914?quantity={quantity}&context=pdp",
+			"label": {
+				"text": "Comprar ahora"
 			},
 			"track": {
 				"melidata_event": {
-					"path": "/questions/ask/post",
+					"path": "/pdp/buy_action",
 					"event_data": {
 						"catalog_product_id": "MLA6240114",
 						"item_id": "MLA801616914",
-						"context": "/pdp"
+						"vertical": "core",
+						"domain_id": "MLA-CELLPHONES",
+						"review_rate": 5,
+						"item_condition": "new",
+						"listing_type_id": "gold_special",
+						"cart_content": true,
+						"price": 41690,
+						"currency_id": "ARS",
+						"seller_id": 41346155,
+						"seller_name": "KASHMIR_MOCHILAS",
+						"reputation_level": "5_green",
+						"power_seller_status": "silver",
+						"installment_info": "12",
+						"free_shipping": true,
+						"shipping_mode": "me2",
+						"local_pick_up": false,
+						"store_pick_up": false,
+						"logistic_type": "drop_off",
+						"shipping_conditions": "free_mandatory",
+						"pushing_puis": false,
+						"showing_puis": false,
+						"bo_pick_up_conditions": "no_bo_pick_up",
+						"loyalty_level": 1
 					}
 				},
 				"analytics_event": {
 					"section": "/PDP/",
-					"action": "QUESTION",
-					"category": "ITEM",
-					"label": "PDP"
+					"action": "BUY-INTENTION",
+					"category": "PDP",
+					"label": "MAIN_ACTION"
+				}
+			},
+			"disabled": false
+		}, {
+			"type": "secondary",
+			"target": "meli://cart-congrats?ids=MLA801616914-{quantity}&context=pdp",
+			"label": {
+				"text": "Agregar al carrito"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/pdp/add_to_cart_action",
+					"event_data": {
+						"catalog_product_id": "MLA6240114",
+						"item_id": "MLA801616914",
+						"vertical": "core",
+						"domain_id": "MLA-CELLPHONES",
+						"review_rate": 5,
+						"item_condition": "new",
+						"listing_type_id": "gold_special",
+						"cart_content": true,
+						"price": 41690,
+						"currency_id": "ARS",
+						"seller_id": 41346155,
+						"seller_name": "KASHMIR_MOCHILAS",
+						"reputation_level": "5_green",
+						"power_seller_status": "silver",
+						"installment_info": "12",
+						"free_shipping": true,
+						"shipping_mode": "me2",
+						"local_pick_up": false,
+						"store_pick_up": false,
+						"logistic_type": "drop_off",
+						"shipping_conditions": "free_mandatory",
+						"pushing_puis": false,
+						"showing_puis": false,
+						"bo_pick_up_conditions": "no_bo_pick_up",
+						"loyalty_level": 1
+					}
+				},
+				"analytics_event": {
+					"section": "/PDP/",
+					"action": "ADD-TO-CART",
+					"category": "PDP",
+					"label": "MAIN_ACTION"
+				}
+			},
+			"disabled": false
+		}]
+	}, {
+		"id": "returns",
+		"type": "returns",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Devolución gratis",
+			"color": "GREEN"
+		},
+		"icon": {
+			"id": "RETURNS_ROUNDED",
+			"color": "GREEN"
+		},
+		"subtitles": [{
+			"text": "Tenés 30 días desde que lo recibís",
+			"color": "GREEN"
+		}],
+		"action": {
+			"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA801616914%26quantity%3D1",
+			"label": {
+				"text": "Conocer más",
+				"color": "BLUE"
+			},
+			"modal_title": "¿No te gusta? Devolvelo gratis"
+		},
+		"background_color": "LIGHT_GREEN"
+	}, {
+		"id": "buy_benefits",
+		"type": "buy_benefits",
+		"state": "VISIBLE",
+		"benefits": [{
+			"text": "<a href=\"meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fcompra-protegida\" target=\"_blank\">Compra Protegida</a>, recib&iacute; el producto que esperabas o te devolvemos tu dinero.",
+			"icon": {
+				"id": "PROTECTED_BUY",
+				"color": "GRAY"
+			}
+		}, {
+			"text": "Sum&aacute;s 2084 Mercado Puntos.",
+			"icon": {
+				"id": "LOYALTY_POINTS",
+				"color": "GRAY"
+			}
+		}, {
+			"text": "4 meses de garant&iacute;a de f&aacute;brica.",
+			"icon": {
+				"id": "WARRANTY",
+				"color": "GRAY"
+			}
+		}]
+	}, {
+		"id": "grouped_share_bookmark",
+		"type": "grouped_share_bookmark",
+		"components": ["bookmark", "share"]
+	}, {
+		"id": "other_sellers_v2",
+		"type": "other_sellers_v2",
+		"state": "VISIBLE",
+		"title": {
+			"label": {
+				"text": "Otras opciones de compra"
+			}
+		},
+		"action": {
+			"label": {
+				"text": "Ver más opciones desde $ 38.199"
+			},
+			"target": "/p/MLA14141085/s"
+		},
+		"items": [{
+			"id": "MLA811361674",
+			"collapsed": true,
+			"product_tag": {
+				"text": "Mejor financiación"
+			},
+			"price": {
+				"id": "price",
+				"type": "price",
+				"price": {
+					"type": "price",
+					"value": 14299,
+					"original_value": 16999,
+					"currency_symbol": "$"
+				},
+				"discount_label": {
+					"text": "15% OFF",
+					"color": "GREEN"
+				}
+			},
+			"summary_list": {
+				"id": "summary_list",
+				"type": "summary_list",
+				"list": [{
+					"text": "Pagá en 6 cuotas de $ 1.549 sin interés",
+					"color": "BLACK",
+					"values": {
+						"price": {
+							"type": "price",
+							"value": 1549,
+							"currency_symbol": "$",
+							"size": "tiny"
+						}
+					}
+				}, {
+					"text": "Llega gratis hoy",
+					"color": "GREEN",
+					"text_icon": {
+						"id": "FULL_ICON"
+					}
+				}]
+			},
+			"seller": {
+				"id": "seller",
+				"type": "seller",
+				"title": "Vendido por:",
+				"title_value": "VISIONR",
+				"subtitle": "Este vendedor hace Factura A",
+				"seller": {
+					"id": 177555884,
+					"name": "VISIONR"
+				},
+				"seller_info": {
+					"header": "Información del vendedor",
+					"title": "VISIONR",
+					"power_seller_status": {
+						"title": "MercadoLíder Platinum",
+						"subtitle": "¡Es uno de los mejores del sitio!"
+					},
+					"thermometer": {
+						"rank": 5,
+						"info": [{
+							"title": "1580",
+							"subtitle": "Ventas en los últimos 4 meses"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_ATTENTION_GOOD"
+							},
+							"subtitle": "Brinda buena atención"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+							},
+							"subtitle": "Despacha sus productos a tiempo"
+						}]
+					},
+					"extra_info": [{
+						"title": "Ubicación",
+						"subtitle": "Moron, Buenos Aires"
+					}, {
+						"title": "Facturación",
+						"subtitle": "Este vendedor hace Factura A"
+					}]
+				},
+				"show_seller_logo": false
+			},
+			"main_actions": {
+				"id": "main_actions",
+				"type": "main_actions",
+				"form": {
+					"mode": "page",
+					"item_id": "MLA811361675",
+					"context": "pdp"
+				},
+				"actions": [{
+					"type": "primary",
+					"target": "https://www.mercadolibre.com.ar/gz/checkout/buy",
+					"label": {
+						"text": "Comprar ahora"
+					},
+					"disabled": false
+				}, {
+					"type": "secondary",
+					"target": "https://www.mercadolibre.com.ar/gz/cart/item/add",
+					"label": {
+						"text": "Agregar al carrito"
+					},
+					"disabled": false
+				}]
+			}
+		}, {
+			"id": "MLA811361674",
+			"collapsed": true,
+			"product_tag": {
+				"text": "Mejor financiación"
+			},
+			"price": {
+				"id": "price",
+				"type": "price",
+				"price": {
+					"type": "price",
+					"value": 14299,
+					"original_value": 16999,
+					"currency_symbol": "$"
+				},
+				"discount_label": {
+					"text": "15% OFF",
+					"color": "GREEN"
+				}
+			},
+			"summary_list": {
+				"id": "summary_list",
+				"type": "summary_list",
+				"list": [{
+					"text": "Pagá en 6 cuotas de $ 1549 sin interés",
+					"color": "BLACK"
+				}, {
+					"text": "Llega gratis hoy",
+					"color": "GREEN",
+					"text_icon": {
+						"id": "FULL_ICON"
+					}
+				}]
+			},
+			"seller": {
+				"id": "seller",
+				"type": "seller",
+				"title": "Vendido por:",
+				"title_value": "VISIONR",
+				"subtitle": "Este vendedor hace Factura A",
+				"seller": {
+					"id": 177555884,
+					"name": "VISIONR"
+				},
+				"seller_info": {
+					"header": "Información del vendedor",
+					"title": "VISIONR",
+					"power_seller_status": {
+						"title": "MercadoLíder Platinum",
+						"subtitle": "¡Es uno de los mejores del sitio!"
+					},
+					"thermometer": {
+						"rank": 5,
+						"info": [{
+							"title": "1580",
+							"subtitle": "Ventas en los últimos 4 meses"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_ATTENTION_GOOD"
+							},
+							"subtitle": "Brinda buena atención"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+							},
+							"subtitle": "Despacha sus productos a tiempo"
+						}]
+					},
+					"extra_info": [{
+						"title": "Ubicación",
+						"subtitle": "Moron, Buenos Aires"
+					}, {
+						"title": "Facturación",
+						"subtitle": "Este vendedor hace Factura A"
+					}]
+				},
+				"show_seller_logo": false
+			},
+			"main_actions": {
+				"id": "main_actions",
+				"type": "main_actions",
+				"form": {
+					"mode": "page",
+					"item_id": "MLA811361675",
+					"context": "pdp"
+				},
+				"actions": [{
+					"type": "primary",
+					"target": "https://www.mercadolibre.com.ar/gz/checkout/buy",
+					"label": {
+						"text": "Comprar ahora"
+					},
+					"disabled": false
+				}, {
+					"type": "secondary",
+					"target": "https://www.mercadolibre.com.ar/gz/cart/item/add",
+					"label": {
+						"text": "Agregar al carrito"
+					},
+					"disabled": false
+				}]
+			}
+		}]
+	}, {
+		"id": "carousel_above",
+		"type": "carousel_above",
+		"state": "VISIBLE",
+		"carousels": [{
+			"title": "Quienes vieron este producto también compraron",
+			"recommendation_info": {
+				"recommendations": [{
+					"quantity": 1,
+					"id": "MLA813939070",
+					"type": "HORIZONTAL",
+					"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_906278-MLA31003080152_062019-V.jpg?square=true",
+					"price": "$ 48.900",
+					"description": "Apple iPhone 7 Plus 32 GB Negro mate",
+					"action": "meli://products/MLA6240132/#&reco_item_pos=0&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=faf3b87f-936e-486f-b1ce-9b630bf1f2e7",
+					"free_shipping": true
+				}, {
+					"quantity": 1,
+					"id": "MLA814401453",
+					"type": "HORIZONTAL",
+					"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_761686-MLA31003080334_062019-V.jpg?square=true",
+					"price": "$ 69.999",
+					"description": "Apple iPhone 8 Plus 64 GB Plata",
+					"action": "meli://products/MLA8752452/#&reco_item_pos=1&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=faf3b87f-936e-486f-b1ce-9b630bf1f2e7",
+					"free_shipping": true
+				}, {
+					"quantity": 1,
+					"type": "ATF_VIEWMORE_PDP",
+					"description": "Ver más publicaciones",
+					"action": "meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Frecommendations-view%2Fget%3Fsite%3DMLA%26category%3DMLA1055%26item%3DMLA801616914%26user%3D-1%26product_id%3DMLA6240114%26limit%3D20%26client%3Dpdp-v2p"
+				}],
+				"carousel_type": "VERTICAL"
+			},
+			"footer": "Todos los precios están calculados en 1 pago",
+			"tracking": {
+				"experiments": [],
+				"event_data": {
+					"recommendations": {
+						"recommendation_id": "faf3b87f-936e-486f-b1ce-9b630bf1f2e7",
+						"backend_id": "machinalis-pdp",
+						"client": "pdp-v2p",
+						"track_info": {
+							"model_id": "product_to_product",
+							"model_version": "0.0.2+3b35690",
+							"train_date": "2019-09-11T20:47:08.209558",
+							"backend_id": "api.mercadolibre.com",
+							"has_recommendations": true,
+							"recommended_items": [{
+								"id": "MLA813939070",
+								"product_id": "MLA6240132"
+							}, {
+								"id": "MLA814401453",
+								"product_id": "MLA8752452"
+							}],
+							"trigger": {
+								"trigger_type": "product",
+								"item_info": {
+									"id": "MLA6240114",
+									"category_id": "MLA1055"
+								}
+							}
+						}
+					}
 				}
 			}
+		}]
+	}, {
+		"id": "all_features",
+		"type": "all_features",
+		"state": "VISIBLE",
+		"main_features": {
+			"title": "Características principales",
+			"type": "LIST",
+			"attributes": ["Liberado", "Procesador A10 Fusion con arquitectura de 64 bits - 2GB", "Pantalla Retina LED IPS HD 4.7\" de 750 x 1334 pixeles", "Cámara trasera 12MP f/1.8 - Cámara delantera 7MP", "Sistema operativo iOS 12", "Resistencia IP67 al agua (hasta 30 minutos a una profundidad máxima de 1 metro) y al polvo", "Sensor de huellas digitales integrado en el botón de inicio"]
+		},
+		"specs": [{
+			"title": "Información del producto",
+			"type": "STRIPED",
+			"attributes": [{
+				"id": "Marca",
+				"text": "Apple"
+			}, {
+				"id": "Línea",
+				"text": "iPhone"
+			}, {
+				"id": "Modelo",
+				"text": "iPhone 7"
+			}, {
+				"id": "Es Dual SIM",
+				"text": "No"
+			}, {
+				"id": "Color",
+				"text": "Oro"
+			}, {
+				"id": "Memoria interna",
+				"text": "32 GB"
+			}, {
+				"id": "Memoria RAM",
+				"text": "2 GB"
+			}]
+		}],
+		"action": {
+			"target": "meli://products/MLA6240114/specifications",
+			"label": {
+				"text": "Ver más características",
+				"color": "BLUE"
+			}
+		},
+		"bullet": "•"
+	}, {
+		"id": "description",
+		"type": "description",
+		"state": "VISIBLE",
+		"title": "Descripción",
+		"content": "Pantalla Retina HD.\nLa pantalla del Apple iPhone 7 tiene una gama de colores más amplia que antes para ofrecer colores estándar de cine y proporcionar una excelente gestión del color. Una gama de colores más amplia ofrece más tonos del espectro de color que se pueden usar para crear una imagen. Como resultado, las imágenes que se muestran en la pantalla son una representación más fiel del mundo; ya sea que estés mirando fotos o viendo videos de tus vacaciones, los colores serán tan precisos va a aparecer estás ahí.\n\nProcesador A10 Fusion.\nEl último procesador A10 Fusion de 64 bits con cuatro núcleos es aproximadamente 40 por ciento más rápido que el A9. El A10 Fusion contiene dos CPU de doble núcleo; uno es un procesador de doble núcleo de alto rendimiento, mientras que el otro es altamente eficiente. La CPU de doble núcleo de alto rendimiento se pone en marcha cuando el teléfono ejecuta tareas exigentes como reproducción de video o juegos, mientras que el otro procesador de doble núcleo de bajo consumo de energía realiza funciones generales. Estos dos conjuntos de CPU garantizan que el teléfono use una potencia mínima cuando está inactivo y aún puede funcionar al máximo cuando sea necesario.\n\nCámara de 12 MP con apertura f/1.8.\nEl Apple iPhone 7 tiene una cámara principal de 12 megapíxeles con una apertura más grande f/1.8 con una construcción de lente de seis elementos que te permite capturar fotos más brillantes y más detalladas.",
+		"max_pages": 1.5,
+		"action": {
+			"label": {
+				"text": "Ver descripción completa"
+			}
 		}
-	],
+	}, {
+		"id": "comparator_product",
+		"type": "comparator_product",
+		"state": "VISIBLE",
+		"tabs": [{
+			"attributes_list": [{
+				"id": "REVIEWS",
+				"title": "Opiniones",
+				"type": "reviews"
+			}, {
+				"id": "PRICE",
+				"title": "Precio",
+				"type": "price"
+			}, {
+				"id": "SELLER",
+				"title": "Vendedor",
+				"type": "link"
+			}, {
+				"id": "IS_DUAL_SIM",
+				"title": "Es Dual SIM",
+				"type": "standard"
+			}, {
+				"id": "COLOR",
+				"title": "Color",
+				"type": "standard"
+			}, {
+				"id": "INTERNAL_MEMORY",
+				"title": "Memoria interna",
+				"type": "standard"
+			}, {
+				"id": "RAM",
+				"title": "Memoria RAM",
+				"type": "standard"
+			}, {
+				"id": "WITH_ESIM",
+				"title": "Con eSIM",
+				"type": "standard"
+			}, {
+				"id": "OPERATING_SYSTEM_NAME",
+				"title": "Nombre del sistema operativo",
+				"type": "standard"
+			}, {
+				"id": "OPERATING_SYSTEM_VERSION",
+				"title": "Versión del sistema operativo",
+				"type": "standard"
+			}],
+			"recommended_products": [{
+				"id": "MLA6240114",
+				"status": "active",
+				"trigger": true,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA6240114/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=0&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
+				"name": "Apple iPhone 7 32 GB Oro",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_948813-MLA31003000773_062019-V.jpg",
+				"img_max_width": 536,
+				"img_max_height": 1074,
+				"item_id": "MLA801616914",
+				"parent_id": "MLA6240112",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 395,
+						"rating_average": 4.8
+					},
+					"PRICE": {
+						"value": 41690,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "41346155",
+						"name": "KASHMIR_MOCHILAS"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Oro"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "32 GB"
+					},
+					"RAM": {
+						"text": "2 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "iOS"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "10.0.1"
+					}
+				}
+			}, {
+				"id": "MLA13916761",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA13916761/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=1&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
+				"name": "Huawei Mate 20 Dual SIM 128 GB Negro 4 GB RAM",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_666764-MLA32016214322_082019-V.jpg",
+				"img_max_width": 598,
+				"img_max_height": 1196,
+				"item_id": "MLA813275998",
+				"parent_id": "MLA13916759",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 0,
+						"rating_average": 0
+					},
+					"PRICE": {
+						"value": 37900,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "437271",
+						"name": "NOTRE DAME"
+					},
+					"IS_DUAL_SIM": {
+						"text": "Sí"
+					},
+					"COLOR": {
+						"text": "Negro"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "128 GB"
+					},
+					"RAM": {
+						"text": "4 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "9.0 Pie"
+					}
+				}
+			}, {
+				"id": "MLA9100271",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA9100271/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=2&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
+				"name": "Samsung Galaxy S9 64 GB Negro medianoche",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_889712-MLA31250987430_062019-V.jpg",
+				"img_max_width": 580,
+				"img_max_height": 1162,
+				"item_id": "MLA812477469",
+				"parent_id": "MLA9100270",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 116,
+						"rating_average": 4.8
+					},
+					"PRICE": {
+						"value": 49999,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "143125485",
+						"name": "FRAVEGA"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Negro medianoche"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "64 GB"
+					},
+					"RAM": {
+						"text": "4 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "8.0 Oreo"
+					}
+				}
+			}, {
+				"id": "MLA6127570",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA6127570/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=3&reco_backend_type=low_level&reco_id=6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
+				"name": "Apple iPhone 6s 16 GB Plata",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_716957-MLA31003091057_062019-V.jpg",
+				"img_max_width": 536,
+				"img_max_height": 1064,
+				"item_id": "MLA810192425",
+				"parent_id": "MLA6127568",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 675,
+						"rating_average": 4.6
+					},
+					"PRICE": {
+						"value": 35999,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "199785787",
+						"name": "NETFE_STAFE"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Plata"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "16 GB"
+					},
+					"RAM": {
+						"text": "2 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "iOS"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "9"
+					}
+				}
+			}],
+			"tracking": {
+				"event_data": {
+					"recommendations": {
+						"backend_id": "prod.recommendations-algorithm-product",
+						"client": "pdp_comparator",
+						"recommendation_id": "6fcc96f4-55d1-4c9a-bde2-f12b1b0ea406",
+						"track_info": {
+							"has_recommendations": true,
+							"backend_id": "prod.recommendations-algorithm-product",
+							"model_id": "products-different-parent",
+							"model_version": "V1",
+							"trigger": {
+								"trigger_type": "product",
+								"product": {
+									"id": "MLA6240114",
+									"status": "active",
+									"domain_id": "MLA-CELLPHONES",
+									"item_id": "MLA801616914",
+									"parent_id": "MLA6240112"
+								}
+							},
+							"recommended_products": [{
+								"item_id": "MLA801616914",
+								"id": "MLA6240114"
+							}, {
+								"item_id": "MLA813275998",
+								"id": "MLA13916761"
+							}, {
+								"item_id": "MLA812477469",
+								"id": "MLA9100271"
+							}, {
+								"item_id": "MLA810192425",
+								"id": "MLA6127570"
+							}]
+						}
+					}
+				},
+				"path": "/recommendations/print"
+			},
+			"title": "Compará con otros productos similares",
+			"labels": {
+				"this_product": "(Este producto)",
+				"see_product": "Ver producto",
+				"more_details": "Ver más detalles",
+				"tab": "Productos similares",
+				"empty_column": "-"
+			},
+			"max_attribute_init": 6,
+			"priority": 1
+		}, {
+			"recommended_products": [],
+			"tracking": {
+				"event_data": {
+					"recommendations": {
+						"client": "pdp_comparator_navigation",
+						"recommendation_id": "d60a27e0-4735-400c-b145-201a7b2eda3b",
+						"track_info": {
+							"has_recommendations": false,
+							"trigger": {
+								"trigger_type": "product",
+								"product": {
+									"id": "MLA6240114"
+								}
+							},
+							"empty_result_cause": "RECOS_NOT_FOUND"
+						}
+					}
+				},
+				"path": "/recommendations/print"
+			},
+			"labels": {
+				"this_product": "(Este producto)",
+				"see_product": "Ver producto",
+				"more_details": "Ver más detalles",
+				"tab": "Visitados recientemente",
+				"empty_column": "-"
+			},
+			"max_attribute_init": 6,
+			"priority": 2
+		}]
+	}, {
+		"id": "reviews",
+		"type": "reviews",
+		"state": "VISIBLE",
+		"title": "Opiniones sobre Apple iPhone 7",
+		"rating": "4.8",
+		"stars": "5",
+		"subtitle": "Promedio entre 395 opiniones",
+		"rating_levels": [{
+			"value": 336,
+			"percentage": 85,
+			"label": {
+				"text": "5 estrellas"
+			}
+		}, {
+			"value": 41,
+			"percentage": 10,
+			"label": {
+				"text": "4 estrellas"
+			}
+		}, {
+			"value": 10,
+			"percentage": 2,
+			"label": {
+				"text": "3 estrellas"
+			}
+		}, {
+			"value": 3,
+			"percentage": 0,
+			"label": {
+				"text": "2 estrellas"
+			}
+		}, {
+			"value": 5,
+			"percentage": 1,
+			"label": {
+				"text": "1 estrella"
+			}
+		}],
+		"tabs": [{
+			"label": {
+				"text": "Todas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 5853052,
+				"title": "Bueno",
+				"content": "Excelente. La nitidez de la cámara. Pero las fotos en movimento igual salen movidas, en este aspecto es mejor la camarita del motorola 3g que saca hasta las gotitas de agua cuando uno salpica, igual destaco la gran nitidez. El resto de las funciones aun probrando, se pone lento a veces para escribir aun sin haber descargado ninguna aplicación y hay que acostumbrase a tocar cerca de la curvita del celu porque no responde rapidamente. Igual conforme.",
+				"rate": 3,
+				"likes": 50,
+				"dislikes": 171
+			}, {
+				"id": 36523718,
+				"title": "Muy malo",
+				"version": "Negro mate | 32 GB",
+				"content": "Luego de los tres meses de haber adquirido el producto. Me encuentro con que le faltaban tornillos en su interior y hacia ruido. Pésimo producto.",
+				"rate": 1,
+				"likes": 21,
+				"dislikes": 44
+			}, {
+				"id": 19989760,
+				"title": "El mejor celular lejos!!! ",
+				"version": "Oro | 128 GB",
+				"content": "Este iphone es increible!!! super rapido, tuene una camara tremenda, tanto la frontal como la trasera, es liviano y el color dorado, tiene un no se que, que lo hace hermoso, hice mi mejor compra lejos!!.",
+				"rate": 5,
+				"likes": 27,
+				"dislikes": 19
+			}],
+			"action": {
+				"target": "/products/MLA6240114/reviews?limit=10&offset=3&parent_id=MLA6240112"
+			}
+		}, {
+			"label": {
+				"text": "Positivas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 20084253,
+				"title": "Excelente",
+				"content": "Excelente! soy usuaria de iphone hace años así que no puedo ser muy objetiva. Para mi es el mejor celular que existe. El rigor es una edición limitada en favor del sida y lo que me sorprendió es el enchufe con patas redondas pero supongo que debe ser de la partida que va a europa. Recomendable 100%.",
+				"rate": 5,
+				"likes": 61,
+				"dislikes": 158
+			}, {
+				"id": 17100591,
+				"title": "Excelente en todo aspecto ",
+				"content": "Hace muchos años que utilizo iphone. Asi que no me sorprende ni su eficacia ni su sistema operativo que hace todo con gran fluidez. Si me tuve que adaptar al boton de apagado en el costado jaj. Por lo demas como siempre. Elegante rapido y con 128 gb no me importa borrar nada !!! al menos por ahora.",
+				"rate": 5,
+				"likes": 42,
+				"dislikes": 66
+			}, {
+				"id": 8567782,
+				"title": "El celular mas rápido que tuve hasta el momento.",
+				"content": "Excelente equipo. Rápido, fácil de manejar, pantalla muy receptiva, buen tamaño para el ajuste de la mano. Facilidad de acceso para desbloqueo, hermosa estética. El multitouch facilita mucho el uso una vez que te acostumbras. Excelente producto, vale la pena el gasto que se hace en estos equipos si se le da mucho uso al celular.",
+				"rate": 5,
+				"likes": 51,
+				"dislikes": 105
+			}],
+			"action": {
+				"target": "/products/MLA6240114/reviews?relevance=positive&limit=10&offset=3&parent_id=MLA6240112"
+			}
+		}, {
+			"label": {
+				"text": "Negativas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 40697884,
+				"title": "No compren.El iphone que recibi No es original",
+				"content": "Lo compre en agosto. Empece a tener problemas. Y hace un par de dias  se me rompio la pantalla. Lo lleve a reparar persona que lo reparo,  que sabe mucho del tema me dijo que adentro el celular es trucho. No tiene el modulo original y hasta le faltaban tornillos. Malisimo. No compren.",
+				"rate": 1,
+				"likes": 91,
+				"dislikes": 32
+			}, {
+				"id": 18263207,
+				"title": "Tiene muchas fallas ",
+				"content": "Estoy teniendo problemas para conectarme via bluetooth, se queda buscando los dispositivos mucho tiempo sin conectar. También pasa con las conexiones a redes de wi-fi, tarda mucho en autentificar. No estoy convencido de la compra para nada.",
+				"rate": 2,
+				"likes": 66,
+				"dislikes": 105
+			}, {
+				"id": 19070320,
+				"title": "Muy mala gestiòn en la ventas.",
+				"content": "El genio steve jobs, desde donde estè, si viera de la forma que vendiste este !phone 7. La poca colaboracion que brindaste, te aseguro que no durarias un segundo en la empresa.",
+				"rate": 1,
+				"likes": 66,
+				"dislikes": 52
+			}],
+			"action": {
+				"target": "/products/MLA6240114/reviews?relevance=negative&limit=10&offset=3&parent_id=MLA6240112"
+			}
+		}],
+		"all_reviews": {
+			"type": "url",
+			"label": {
+				"text": "Ver todas las opiniones",
+				"color": "BLUE"
+			}
+		}
+	}, {
+		"id": "questions",
+		"type": "questions",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Preguntas"
+		},
+		"quick_access": {
+			"title": {
+				"text": "¿Qué querés saber?"
+			},
+			"actions": [{
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA801616914%2Fshipping%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Formas de envío y retiro"
+				},
+				"modal_title": "Formas de envío y retiro"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA801616914%2Fpayments%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Medios de pago"
+				},
+				"modal_title": "Medios de pago"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fwarranty%2FMLA801616914%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Garantía"
+				},
+				"modal_title": "Garantía"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA801616914%26quantity%3D1%26webview%3Dtrue",
+				"label": {
+					"text": "Devoluciones"
+				},
+				"modal_title": "¿No te gusta? Devolvelo gratis"
+			}]
+		},
+		"form": {
+			"title": {
+				"text": "Preguntale a KASHMIR_MOCHILAS"
+			},
+			"confirm": {
+				"target": "/products/question/MLA801616914?site_id=MLA",
+				"label": {
+					"text": "Preguntar"
+				},
+				"item_id": "MLA801616914"
+			},
+			"subtitles": [],
+			"placeholder": {
+				"text": "Escribí tu pregunta..."
+			},
+			"max_length": 2000
+		},
+		"track": {
+			"melidata_event": {
+				"path": "/questions/ask/post",
+				"event_data": {
+					"catalog_product_id": "MLA6240114",
+					"item_id": "MLA801616914",
+					"context": "/pdp"
+				}
+			},
+			"analytics_event": {
+				"section": "/PDP/",
+				"action": "QUESTION",
+				"category": "ITEM",
+				"label": "PDP"
+			}
+		}
+	}],
 	"share": {
 		"id": "share",
 		"type": "share",
@@ -1630,33 +1625,33 @@
 		"analytics_event": {
 			"section": "/PDP/",
 			"custom_dimensions": {
-				"129": "Apple iPhone 7 32 GB Oro",
-				"130": "MLA6240114",
 				"3": "{'MLA1051':'Celulares y Teléfonos'}",
-				"132": "free_mandatory",
 				"4": "{'MLA1051':'Celulares y Teléfonos','MLA1055':'Celulares y Smartphones'}",
 				"7": "MARKETPLACE",
-				"71": "silver",
 				"8": "core",
-				"72": "5_green",
-				"73": "NO",
 				"19": "gold_special",
-				"85": "NO",
-				"86": "MLA-CELLPHONES",
 				"35": "normal",
 				"37": "me2",
 				"39": "active",
-				"106": "NO",
 				"42": "1x",
 				"43": "YES",
 				"45": "NO",
-				"111": "NO",
 				"49": "MLA801616914",
 				"51": "new",
+				"58": "normal",
+				"63": "1",
+				"71": "silver",
+				"72": "5_green",
+				"73": "NO",
+				"85": "NO",
+				"86": "MLA-CELLPHONES",
+				"106": "NO",
+				"111": "NO",
 				"119": "41346155",
 				"120": "KASHMIR_MOCHILAS",
-				"58": "normal",
-				"63": "1"
+				"129": "Apple iPhone 7 32 GB Oro",
+				"130": "MLA6240114",
+				"132": "free_mandatory"
 			}
 		},
 		"gtm_event": {
