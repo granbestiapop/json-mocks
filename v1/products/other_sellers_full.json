@@ -807,14 +807,14 @@
 				},
 				"actions": [{
 					"type": "primary",
-					"target": "https://www.mercadolibre.com.ar/gz/checkout/buy",
+					"target": "meli://checkoutv2/MLA811361675?quantity={quantity}&context=pdp",
 					"label": {
 						"text": "Comprar ahora"
 					},
 					"disabled": false
 				}, {
 					"type": "secondary",
-					"target": "https://www.mercadolibre.com.ar/gz/cart/item/add",
+					"target": "meli://cart-congrats?ids=MLA811361675-{quantity}&context=pdp",
 					"label": {
 						"text": "Agregar al carrito"
 					},
