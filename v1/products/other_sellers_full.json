@@ -635,17 +635,13 @@
 				"list": [{
 					"text": "Pagá en 6 cuotas de $ 1.549 sin interés",
 					"color": "BLACK",
-					"values": {
-						"price": {
-							"type": "price",
-							"value": 1549,
-							"currency_symbol": "$",
-							"size": "tiny"
-						}
-					}
+					"font_family": "regular",
+					"font_size": "xsmall"
 				}, {
 					"text": "Llega gratis hoy",
 					"color": "GREEN",
+					"font_family": "regular",
+					"font_size": "xsmall",
 					"text_icon": {
 						"id": "FULL_ICON"
 					}
@@ -744,10 +740,14 @@
 				"type": "summary_list",
 				"list": [{
 					"text": "Pagá en 6 cuotas de $ 1549 sin interés",
-					"color": "BLACK"
+					"color": "BLACK",
+					"font_family": "regular",
+					"font_size": "xsmall"
 				}, {
 					"text": "Llega gratis hoy",
 					"color": "GREEN",
+					"font_family": "regular",
+					"font_size": "xsmall",
 					"text_icon": {
 						"id": "FULL_ICON"
 					}
