@@ -1,0 +1,1527 @@
+{
+	"components": [{
+		"id": "pds_header",
+		"type": "pds_header",
+		"title": "Xiaomi Redmi Note 7 Dual SIM 64 GB Bright black (4 GB RAM)",
+		"picture": {
+			"id": "931829-MLA31351006651_072019"
+		},
+		"action": {
+			"target": "https://www.mercadolivre.com.br/p/MLB14141085",
+			"label": {
+				"text": "Ver producto"
+			}
+		},
+		"available_quantity": {
+			"id": "available_quantity",
+			"type": "available_quantity",
+			"state": "VISIBLE",
+			"picker": {
+				"title": "Cant.",
+				"selected": 1
+			},
+			"quantity_selector": {
+				"type": "drop_down_list",
+				"open_title": "Elegí cantidad",
+				"open_subtitle": "872 disponibles",
+				"label": {
+					"singular": "{quantity} unidad",
+					"plural": "{quantity} unidades"
+				},
+				"confirm_button": "Confirmar",
+				"max": 872,
+				"more": "Más de 6 unidades",
+				"length": 6,
+				"no_stock_message": {
+					"text": "Sin stock",
+					"color": "RED"
+				},
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/sellers/quantity_change",
+						"event_data": {
+							"catalog_product_id": "MLB14141085",
+							"quantity": 1,
+							"available_quantity": 872
+						}
+					}
+				}
+			}
+		},
+		"variations": {
+			"id": "variations",
+			"type": "variations",
+			"state": "VISIBLE",
+			"modal_type": "FULL",
+			"pickers": [{
+				"id": "INTERNAL_MEMORY",
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Memória interna:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "64 GB",
+					"color": "BLACK"
+				},
+				"products": [{
+					"id": "MLB14321133",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14321133/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "128 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14321133",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLB14141082",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141082/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "32 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141082",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLB14141085",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141085/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "64 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141085",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					}
+				}]
+			}, {
+				"id": "RAM",
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Memória RAM:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "4 GB",
+					"color": "BLACK"
+				},
+				"products": [{
+					"id": "MLB14141082",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141082/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "3 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141082",
+								"picker_id": "RAM",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLB14141085",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141085/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "4 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141085",
+								"picker_id": "RAM",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLB14141088",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141088/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "6 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141088",
+								"picker_id": "RAM",
+								"picker_disabled": false
+							}
+						}
+					}
+				}]
+			}, {
+				"id": "COLOR",
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Cor:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "Bright black",
+					"color": "BLACK"
+				},
+				"thumbnail": {
+					"id": "723908-MLA31351006652_072019"
+				},
+				"products": [{
+					"id": "MLB14141085",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141085/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "Bright black",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "723908-MLA31351006652_072019"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141085",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLB14141084",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141084/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "Dream blue",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "731994-MLA31351006648_072019"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141084",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLB14141083",
+					"permalink": "https://www.mercadolivre.com.br/p/MLB14141083/s?product_trigger_id=MLB14141085",
+					"label": {
+						"text": "Twilight gold",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "992111-MLA31350747815_072019"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB14141083",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					}
+				}]
+			}],
+			"title": {
+				"text": "Elige otra versión"
+			},
+			"picture_config": {
+				"template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.jpg",
+				"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.jpg",
+				"template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.jpg",
+				"template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg",
+				"template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg"
+			},
+			"apply_action": {
+				"id": "MLB14141085",
+				"label": {
+					"text": "Aplicar"
+				}
+			}
+		}
+	}, {
+		"id": "MLB1318015404",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "176 vendidos | 62 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 960,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Llega gratis entre el viernes y el martes 24 de septiembre",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "M OFERTAS",
+			"subtitles": [],
+			"seller": {
+				"id": 379426257,
+				"name": "M OFERTAS",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "M OFERTAS",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "9284",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_BAD"
+						},
+						"subtitle": "No brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Presidente Prudente, São Paulo"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "90 dias."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1318015404",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1318015404?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1318015404-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1280446823",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "776 vendidos | 27 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 965.38,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Retiralo gratis en correo y otros puntos entre el 25 y 27 sep.",
+				"color": "GREEN"
+			}, {
+				"text": "Llega gratis entre el 25 y 27 sep.",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "AMAX ELECTRONICOS",
+			"subtitles": [],
+			"seller": {
+				"id": 449255179,
+				"name": "AMAX ELECTRONICOS",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "AMAX ELECTRONICOS",
+				"subtitles": [],
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "1396",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "São Paulo, São Paulo"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "90 dias."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1280446823",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1280446823?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1280446823-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1317571116",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "2 vendidos | 28 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 965.4,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Llega gratis entre el viernes y el martes 24 de septiembre",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "ELGSHOP",
+			"subtitles": [],
+			"seller": {
+				"id": 82924394,
+				"name": "ELGSHOP",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "ELGSHOP",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "1641",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Presidente Prudente, São Paulo"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1317571116",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1317571116?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1317571116-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1297617506",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "74 vendidos | 20 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 969,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Retiralo gratis en correo y otros puntos entre el jueves y el martes 24 de septiembre",
+				"color": "GREEN"
+			}, {
+				"text": "Llega gratis entre el lunes y el jueves 26 de septiembre",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "9DEZ ELETRO",
+			"subtitles": [],
+			"seller": {
+				"id": 41312061,
+				"name": "9DEZ ELETRO",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "9DEZ ELETRO",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "736",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Londrina, Paraná"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "3 meses."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1297617506",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1297617506?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1297617506-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1319730229",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "13 vendidos | 487 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 969.94,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Retiralo gratis en correo y otros puntos entre el viernes y el miércoles 25 de septiembre",
+				"color": "GREEN"
+			}, {
+				"text": "Llega gratis entre el lunes y el jueves 26 de septiembre",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "MILITAC",
+			"subtitles": [],
+			"seller": {
+				"id": 142328358,
+				"name": "MILITAC",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "MILITAC",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Gold",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "933",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Maringá, Paraná"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1319730229",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1319730229?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1319730229-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1274442332",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "689 vendidos | 44 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 969.98,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Retiralo gratis en correo y otros puntos entre el 24 y 26 sep.",
+				"color": "GREEN"
+			}, {
+				"text": "Llega gratis entre el 24 y 26 sep.",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "VENDAS-ONLINE-EXPRESS",
+			"subtitles": [],
+			"seller": {
+				"id": 169699035,
+				"name": "VENDAS-ONLINE-EXPRESS",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "VENDAS-ONLINE-EXPRESS",
+				"subtitles": [],
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "8966",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "São Paulo, São Paulo"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "90 dias."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1274442332",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1274442332?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1274442332-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1318623930",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "24 vendidos | 18 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 970,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Retiralo gratis en correo y otros puntos entre el viernes y el miércoles 25 de septiembre",
+				"color": "GREEN"
+			}, {
+				"text": "Llega gratis entre el lunes y el jueves 26 de septiembre",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "WA.FENIX",
+			"subtitles": [],
+			"seller": {
+				"id": 316723233,
+				"name": "WA.FENIX",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "WA.FENIX",
+				"subtitles": [],
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "96",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Maringá, Paraná"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "3 meses."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1318623930",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1318623930?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1318623930-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1272593299",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "97 vendidos | 872 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 974.9,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Llega gratis entre el viernes y el martes 24 de septiembre",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "AMSBESTSTORES",
+			"subtitles": [],
+			"seller": {
+				"id": 418647264,
+				"name": "AMSBESTSTORES",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "AMSBESTSTORES",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "8973",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Presidente Prudente, São Paulo"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "90 dias."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1272593299",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1272593299?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1272593299-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1319700247",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "1 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 979,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Retiralo gratis en correo y otros puntos entre el 24 y 26 sep.",
+				"color": "GREEN"
+			}, {
+				"text": "Llega gratis entre el 24 y 26 sep.",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "EL.SHADAY",
+			"subtitles": [],
+			"seller": {
+				"id": 31292167,
+				"name": "EL.SHADAY",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "EL.SHADAY",
+				"subtitles": [],
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "301",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_BAD"
+						},
+						"subtitle": "No brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "São Paulo, São Paulo"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "90 dias."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1319700247",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1319700247?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1319700247-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}, {
+		"id": "MLB1314798231",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "1 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 987,
+				"currency_symbol": "R$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Retiralo gratis en correo y otros puntos entre el 24 y 26 sep.",
+				"color": "GREEN"
+			}, {
+				"text": "Llega gratis entre el 24 y 26 sep.",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "SALMOELETRO",
+			"subtitles": [],
+			"seller": {
+				"id": 434804915,
+				"name": "SALMOELETRO",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "SALMOELETRO",
+				"subtitles": [],
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "470",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_BAD"
+						},
+						"subtitle": "No brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "São Paulo, São Paulo"
+				}, {
+					"title": "Garantía del vendedor",
+					"subtitle": "3 meses."
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1314798231",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1314798231?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1314798231-{quantity}&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false
+			}]
+		}
+	}],
+	"track": {
+		"melidata_event": {
+			"path": "/pdp/sellers",
+			"event_data": {
+				"catalog_parent_id": "MLB14141079",
+				"catalog_product_id": "MLB14141085",
+				"vertical": "core",
+				"domain_id": "MLB-CELLPHONES",
+				"review_rate": 5,
+				"loyalty_level": 1,
+				"pickers": {
+					"INTERNAL_MEMORY": [{
+						"catalog_product_id": "MLB14321133",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLB14141082",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLB14141085",
+						"selected": true,
+						"disabled": false
+					}],
+					"COLOR": [{
+						"catalog_product_id": "MLB14141085",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLB14141084",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLB14141083",
+						"selected": false,
+						"disabled": false
+					}],
+					"RAM": [{
+						"catalog_product_id": "MLB14141082",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLB14141085",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLB14141088",
+						"selected": false,
+						"disabled": false
+					}]
+				},
+				"items": [{
+					"item_id": "MLB1318015404",
+					"price": 960,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 176,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 379426257,
+					"seller_name": "M OFERTAS",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1280446823",
+					"price": 965.38,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 776,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "free_ratio",
+					"seller_id": 449255179,
+					"seller_name": "AMAX ELECTRONICOS",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1317571116",
+					"price": 965.4,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 2,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 82924394,
+					"seller_name": "ELGSHOP",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1297617506",
+					"price": 969,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 74,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "free_ratio",
+					"seller_id": 41312061,
+					"seller_name": "9DEZ ELETRO",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1319730229",
+					"price": 969.94,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 13,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "free_ratio",
+					"seller_id": 142328358,
+					"seller_name": "MILITAC",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1274442332",
+					"price": 969.98,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 689,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "free_ratio",
+					"seller_id": 169699035,
+					"seller_name": "VENDAS-ONLINE-EXPRESS",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1318623930",
+					"price": 970,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 24,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "free_ratio",
+					"seller_id": 316723233,
+					"seller_name": "WA.FENIX",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1272593299",
+					"price": 974.9,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 97,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 418647264,
+					"seller_name": "AMSBESTSTORES",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1319700247",
+					"price": 979,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 0,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "free_ratio",
+					"seller_id": 31292167,
+					"seller_name": "EL.SHADAY",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLB1314798231",
+					"price": 987,
+					"currency_id": "BRL",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 0,
+					"shipping_conditions": "free_ratio",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "free_ratio",
+					"seller_id": 434804915,
+					"seller_name": "SALMOELETRO",
+					"cart_content": true,
+					"has_full_filment": false
+				}]
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"page": "SELLERS/",
+			"custom_dimensions": {
+				"130": "MLB14141085",
+				"19": "gold_special",
+				"3": "{'MLB1051':'Celulares e Telefones'}",
+				"4": "{'MLB1051':'Celulares e Telefones','MLB1055':'Celulares e Smartphones'}",
+				"86": "MLB-CELLPHONES",
+				"7": "MARKETPLACE",
+				"39": "active",
+				"119": "379426257,449255179,82924394,41312061,142328358,169699035,316723233,418647264,31292167,434804915",
+				"8": "core",
+				"120": "M OFERTAS,AMAX ELECTRONICOS,ELGSHOP,9DEZ ELETRO,MILITAC,VENDAS-ONLINE-EXPRESS,WA.FENIX,AMSBESTSTORES,EL.SHADAY,SALMOELETRO",
+				"72": "5_green,5_green,5_green,5_green,5_green,5_green,5_green,5_green,5_green,5_green",
+				"63": "1"
+			}
+		}
+	},
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+		"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+		"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+	},
+	"pager": {
+		"next_page": 2,
+		"track": {
+			"melidata_event": {
+				"path": "/pdp/sellers/page_selection",
+				"event_data": {
+					"catalog_product_id": "MLB14141085",
+					"selected_quantity": 1,
+					"selected_page": 1,
+					"total_pages": 12,
+					"total_items": 117
+				}
+			}
+		}
+	}
+}
