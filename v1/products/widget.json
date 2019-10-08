@@ -826,6 +826,9 @@
 						"color": "GREEN",
             "font_family": "regular",
             "font_size": "xsmall"
+					},
+					"text_icon": {
+						"id": "FULL_ICON"
 					}
 				}, {
 					"id": "shipping_summary",
@@ -939,7 +942,9 @@
 					"state": "VISIBLE",
 					"title": {
 						"text": "Pagá en hasta 12 cuotas",
-						"color": "BLACK"
+						"color": "BLACK",
+						"font_family": "regular",
+            					"font_size": "xsmall"
 					}
 				}, {
 					"id": "shipping_summary",
@@ -948,6 +953,8 @@
 					"title": {
 						"text": "Envío gratis a todo el país",
 						"color": "GREEN"
+						"font_family": "regular",
+           					"font_size": "xsmall"
 					}
 				}, {
 					"id": "pick_up_summary",
