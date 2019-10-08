@@ -952,7 +952,7 @@
 					"state": "VISIBLE",
 					"title": {
 						"text": "Envío gratis a todo el país",
-						"color": "GREEN"
+						"color": "GREEN",
 						"font_family": "regular",
            					"font_size": "xsmall"
 					}
