@@ -1,0 +1,2193 @@
+{
+	"id": "MLA14036456",
+	"components": [{
+		"id": "header",
+		"type": "header",
+		"title": "Motorola G7 Power 32 GB Iced violet gradient",
+		"subtitle": "Nuevo  |  121 vendidos",
+		"reviews": {
+			"rating": 4.7,
+			"amount": 1134,
+			"action": {}
+		}
+	}, {
+		"id": "gallery",
+		"type": "gallery",
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+			"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+			"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+		},
+		"pictures": [{
+			"id": "738713-MLA31002678499_062019",
+			"alt": "Motorola G7 Power 32 GB Iced violet gradient",
+			"width": 500,
+			"height": 1004
+		}, {
+			"id": "871779-MLA31002756354_062019",
+			"alt": "Motorola G7 Power 32 GB Iced violet gradient",
+			"width": 501,
+			"height": 1004
+		}, {
+			"id": "720663-MLA31183858227_062019",
+			"alt": "Motorola G7 Power 32 GB Iced violet gradient",
+			"width": 554,
+			"height": 1200
+		}, {
+			"id": "750755-MLA31003000502_062019",
+			"alt": "Motorola G7 Power 32 GB Iced violet gradient",
+			"width": 924,
+			"height": 1100
+		}, {
+			"id": "821676-MLA31002760338_062019",
+			"alt": "Motorola G7 Power 32 GB Iced violet gradient",
+			"width": 1092,
+			"height": 894
+		}]
+	}, {
+		"id": "variations",
+		"type": "variations",
+		"state": "VISIBLE",
+		"modal_type": "LIST",
+		"pickers": [{
+			"id": "INTERNAL_MEMORY",
+			"title": {
+				"text": "Elegí qué Memoria interna querés",
+				"color": "BLACK"
+			},
+			"has_details": false,
+			"disabled": false,
+			"label": {
+				"text": "Memoria interna:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "32 GB",
+				"color": "BLACK"
+			},
+			"products": [{
+				"id": "MLA14036456",
+				"label": {
+					"text": "32 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036456",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-32 GB"
+					}
+				}
+			}, {
+				"id": "MLA14036454",
+				"label": {
+					"text": "64 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036454",
+							"picker_id": "INTERNAL_MEMORY",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "INTERNAL_MEMORY-64 GB"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}]
+		}, {
+			"id": "IS_DUAL_SIM",
+			"title": {
+				"text": "Elegí qué Es Dual SIM querés",
+				"color": "BLACK"
+			},
+			"has_details": false,
+			"disabled": false,
+			"label": {
+				"text": "Es Dual SIM:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "No",
+				"color": "BLACK"
+			},
+			"products": [{
+				"id": "MLA14036456",
+				"label": {
+					"text": "No",
+					"color": "BLACK"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036456",
+							"picker_id": "IS_DUAL_SIM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "IS_DUAL_SIM-No"
+					}
+				}
+			}, {
+				"id": "MLA14036461",
+				"label": {
+					"text": "Sí",
+					"color": "BLACK"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036461",
+							"picker_id": "IS_DUAL_SIM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "IS_DUAL_SIM-Sí"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}]
+		}, {
+			"id": "RAM",
+			"title": {
+				"text": "Elegí qué Memoria RAM querés",
+				"color": "BLACK"
+			},
+			"has_details": false,
+			"disabled": false,
+			"label": {
+				"text": "Memoria RAM:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "3 GB",
+				"color": "BLACK"
+			},
+			"products": [{
+				"id": "MLA14036456",
+				"label": {
+					"text": "3 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036456",
+							"picker_id": "RAM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "RAM-3 GB"
+					}
+				}
+			}, {
+				"id": "MLA14036454",
+				"label": {
+					"text": "4 GB",
+					"color": "BLACK"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036454",
+							"picker_id": "RAM",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "RAM-4 GB"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}]
+		}, {
+			"id": "COLOR",
+			"title": {
+				"text": "Elegí qué Color querés",
+				"color": "BLACK"
+			},
+			"has_details": true,
+			"disabled": false,
+			"label": {
+				"text": "Color:",
+				"color": "GRAY"
+			},
+			"selected_option": {
+				"text": "Iced violet gradient",
+				"color": "BLACK"
+			},
+			"thumbnail": {
+				"id": "871779-MLA31002756354_062019"
+			},
+			"products": [{
+				"id": "MLA14036452",
+				"label": {
+					"text": "Ceramic black",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "647334-MLA31182668962_062019"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036452",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Ceramic black"
+					}
+				},
+				"disabled_text": "Sin stock"
+			}, {
+				"id": "MLA14036456",
+				"label": {
+					"text": "Iced violet gradient",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "871779-MLA31002756354_062019"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036456",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Iced violet gradient"
+					}
+				}
+			}, {
+				"id": "MLA14036455",
+				"label": {
+					"text": "Marine blue",
+					"color": "BLACK"
+				},
+				"picture": {
+					"id": "765402-MLA31002760335_062019"
+				},
+				"decoration_type": "NONE",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/picker_selection",
+						"event_data": {
+							"catalog_product_id": "MLA14036455",
+							"picker_id": "COLOR",
+							"picker_disabled": false
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "PICKER_SELECTION",
+						"category": "PDP",
+						"label": "COLOR-Marine blue"
+					}
+				}
+			}]
+		}],
+		"title": {
+			"text": "Elige otra versión"
+		},
+		"picture_config": {
+			"template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.jpg",
+			"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.jpg",
+			"template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.jpg",
+			"template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg",
+			"template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg"
+		},
+		"apply_action": {
+			"id": "MLA14036456",
+			"label": {
+				"text": "Aplicar"
+			}
+		}
+	}, {
+		"id": "price",
+		"type": "price",
+		"state": "VISIBLE",
+		"price": {
+			"type": "price",
+			"value": 13899,
+			"original_value": 19999,
+			"currency_symbol": "$"
+		},
+		"discount_label": {
+			"text": "30% OFF",
+			"color": "GREEN"
+		}
+	}, {
+		"id": "no_stock_status",
+		"type": "warning_message",
+		"state": "HIDDEN"
+	}, {
+		"id": "stock_information",
+		"type": "stock_information",
+		"state": "HIDDEN"
+	}, {
+		"id": "payment_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Pagá en 12 cuotas sin interés",
+			"color": "GREEN"
+		},
+		"icon": {
+			"id": "CARD",
+			"color": "GREEN"
+		},
+		"subtitles": [],
+		"icons": [{
+			"id": "visa",
+			"size": "small"
+		}, {
+			"id": "master",
+			"size": "small"
+		}, {
+			"id": "amex",
+			"size": "small"
+		}],
+		"action": {
+			"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA810735382%2Fpayments%3Fwebview%3Dtrue",
+			"label": {
+				"text": "Más información"
+			},
+			"modal_title": "Medios de pago"
+		}
+	}, {
+		"id": "shipping_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Envío gratis a todo el país",
+			"color": "GREEN"
+		},
+		"icon": {
+			"id": "TRUCK",
+			"color": "GREEN"
+		},
+		"subtitles": [{
+			"text": "Conocé los tiempos y las formas de envío."
+		}],
+		"action": {
+			"target": "meli://address_hub/",
+			"label": {
+				"text": "Calcular cuándo llega"
+			},
+			"icon": {
+				"id": "LOCATION",
+				"color": "BLUE"
+			}
+		}
+	}, {
+		"id": "pick_up_summary",
+		"type": "generic_summary",
+		"state": "HIDDEN"
+	}, {
+		"id": "seller",
+		"type": "seller",
+		"state": "VISIBLE",
+		"title": "Vendido por",
+		"title_value": "OVERHARD DIGITAL2",
+		"subtitles": [{
+			"text": "Este vendedor hace Factura A",
+			"color": "GRAY",
+			"font_size": "XSMALL"
+		}],
+		"seller": {
+			"id": 451633924,
+			"name": "OVERHARD DIGITAL2",
+			"reputation_level": "5_green"
+		},
+		"seller_info": {
+			"header": "Información del vendedor",
+			"title": "OVERHARD DIGITAL2",
+			"subtitles": [],
+			"thermometer": {
+				"rank": 5,
+				"info": [{
+					"title": "16215",
+					"subtitle": "Ventas en los últimos 4 meses"
+				}, {
+					"icon": {
+						"id": "REP_SELLER_ATTENTION_GOOD"
+					},
+					"subtitle": "Brinda buena atención"
+				}, {
+					"icon": {
+						"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+					},
+					"subtitle": "Despacha sus productos a tiempo"
+				}]
+			},
+			"extra_info": [{
+				"title": "Ubicación",
+				"subtitle": "Villa Crespo, Capital Federal"
+			}, {
+				"title": "Facturación",
+				"subtitle": "Este vendedor hace Factura A"
+			}]
+		},
+		"show_seller_logo": false
+	}, {
+		"id": "available_quantity",
+		"type": "available_quantity",
+		"state": "VISIBLE",
+		"picker": {
+			"title": "Cantidad:",
+			"selected": 1,
+			"description": "(22 disponibles)"
+		},
+		"quantity_selector": {
+			"type": "drop_down_list",
+			"open_title": "Elegí cantidad",
+			"open_subtitle": "22 disponibles",
+			"label": {
+				"singular": "{quantity} unidad",
+				"plural": "{quantity} unidades"
+			},
+			"confirm_button": "Confirmar",
+			"max": 22,
+			"more": "Más de 6 unidades",
+			"length": 6,
+			"no_stock_message": {
+				"text": "Sin stock",
+				"color": "RED"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/pdp/quantity_change",
+					"event_data": {
+						"catalog_product_id": "MLA14036456",
+						"item_id": "MLA810735382",
+						"seller_id": 451633924,
+						"seller_name": "OVERHARD DIGITAL2",
+						"quantity": 1
+					}
+				}
+			}
+		}
+	}, {
+		"id": "main_actions",
+		"type": "main_actions",
+		"state": "VISIBLE",
+		"form": {
+			"item_id": "MLA810735382",
+			"context": "pdp"
+		},
+		"actions": [{
+			"type": "primary",
+			"target": "meli://checkoutv2/MLA810735382?quantity={quantity}&context=pdp",
+			"label": {
+				"text": "Comprar ahora"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/pdp/buy_action",
+					"event_data": {
+						"catalog_product_id": "MLA14036456",
+						"item_id": "MLA810735382",
+						"vertical": "core",
+						"domain_id": "MLA-CELLPHONES",
+						"review_rate": 4,
+						"item_condition": "new",
+						"listing_type_id": "gold_pro",
+						"cart_content": false,
+						"price": 13899,
+						"original_price": 19999,
+						"currency_id": "ARS",
+						"seller_id": 451633924,
+						"seller_name": "OVERHARD DIGITAL2",
+						"reputation_level": "5_green",
+						"power_seller_status": "silver",
+						"installment_info": "12f",
+						"free_shipping": true,
+						"shipping_mode": "me2",
+						"local_pick_up": false,
+						"store_pick_up": false,
+						"logistic_type": "cross_docking",
+						"shipping_conditions": "free_mandatory",
+						"pushing_puis": false,
+						"showing_puis": false,
+						"bo_pick_up_conditions": "no_bo_pick_up",
+						"loyalty_level": 1
+					}
+				},
+				"analytics_event": {
+					"section": "/PDP/",
+					"action": "BUY-INTENTION",
+					"category": "PDP",
+					"label": "MAIN_ACTION"
+				}
+			},
+			"disabled": false,
+			"action_type": "BUY_NOW"
+		}]
+	}, {
+		"id": "returns",
+		"type": "returns",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Devolución gratis",
+			"color": "GREEN"
+		},
+		"icon": {
+			"id": "RETURNS_ROUNDED",
+			"color": "GREEN"
+		},
+		"subtitles": [{
+			"text": "Tenés 30 días desde que lo recibís",
+			"color": "GREEN"
+		}],
+		"action": {
+			"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA810735382%26quantity%3D1",
+			"label": {
+				"text": "Conocer más",
+				"color": "BLUE"
+			},
+			"modal_title": "¿No te gusta? Devolvelo gratis"
+		},
+		"background_color": "LIGHT_GREEN"
+	}, {
+		"id": "buy_benefits",
+		"type": "buy_benefits",
+		"state": "VISIBLE",
+		"benefits": [{
+			"text": "<a href=\"meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fcompra-protegida\" target=\"_blank\">Compra Protegida</a>, recib&iacute; el producto que esperabas o te devolvemos tu dinero.",
+			"icon": {
+				"id": "PROTECTED_BUY",
+				"color": "GRAY"
+			}
+		}, {
+			"text": "Sum&aacute;s 694 Mercado Puntos.",
+			"icon": {
+				"id": "LOYALTY_POINTS",
+				"color": "GRAY"
+			}
+		}, {
+			"text": "12 meses de garant&iacute;a de f&aacute;brica.",
+			"icon": {
+				"id": "WARRANTY",
+				"color": "GRAY"
+			}
+		}]
+	}, {
+		"id": "others_products",
+		"type": "others_products",
+		"state": "VISIBLE",
+		"products": [{
+			"title": {
+				"text": "16 productos nuevos desde <b>$ 12.399</b>",
+				"color": "BLACK"
+			},
+			"action": {
+				"target": "meli://products/MLA14036456/sellers",
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/other_buying_options",
+						"event_data": {
+							"catalog_product_id": "MLA14036456",
+							"item_id": "MLA810735382",
+							"item_condition": "new",
+							"listing_type_id": "gold_pro",
+							"domain_id": "MLA-CELLPHONES",
+							"product_status": "active",
+							"seller_id": 451633924,
+							"seller_name": "OVERHARD DIGITAL2",
+							"filter": "new"
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "OTHER_BUYING_OPTIONS_NEW",
+						"category": "PDP"
+					}
+				}
+			}
+		}]
+	}, {
+		"id": "grouped_share_bookmark",
+		"type": "grouped_share_bookmark",
+		"components": ["bookmark", "share"]
+	}, {
+		"id": "bbw_alternatives",
+		"type": "bbw_alternatives",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Otras opciones de compra",
+			"color": "BLACK"
+		},
+		"action": {
+			"target": "/p/MLA14036456/s",
+			"label": {
+				"text": "Ver más opciones desde {price}",
+				"values": {
+					"price": {
+						"type": "price",
+						"value": 12399,
+						"currency_symbol": "$"
+					}
+				}
+			}
+		},
+		"items": [{
+			"id": "MLA811613518",
+			"collapsed": false,
+			"product_tag": {
+				"text": "Mejor precio"
+			},
+			"seller": {
+				"id": "seller",
+				"type": "seller",
+				"state": "VISIBLE",
+				"title": "Vendido por",
+				"title_value": "OVERHARD DIGITAL",
+				"subtitles": [{
+					"text": "Este vendedor hace Factura A",
+					"color": "GRAY",
+					"font_size": "XSMALL"
+				}],
+				"seller": {
+					"id": 174556876,
+					"name": "OVERHARD DIGITAL",
+					"reputation_level": "5_green"
+				},
+				"seller_info": {
+					"header": "Información del vendedor",
+					"title": "OVERHARD DIGITAL",
+					"subtitles": [],
+					"power_seller_status": {
+						"title": "MercadoLíder Platinum",
+						"subtitle": "¡Es uno de los mejores del sitio!"
+					},
+					"thermometer": {
+						"rank": 5,
+						"info": [{
+							"title": "42275",
+							"subtitle": "Ventas en los últimos 4 meses"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_ATTENTION_GOOD"
+							},
+							"subtitle": "Brinda buena atención"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+							},
+							"subtitle": "Despacha sus productos a tiempo"
+						}]
+					},
+					"extra_info": [{
+						"title": "Ubicación",
+						"subtitle": "Villa Crespo, Capital Federal"
+					}, {
+						"title": "Facturación",
+						"subtitle": "Este vendedor hace Factura A"
+					}]
+				},
+				"show_seller_logo": false
+			},
+			"price": {
+				"id": "price",
+				"type": "price",
+				"state": "VISIBLE",
+				"price": {
+					"type": "price",
+					"value": 12399,
+					"currency_symbol": "$"
+				}
+			},
+			"main_actions": {
+				"id": "main_actions",
+				"type": "main_actions",
+				"state": "VISIBLE",
+				"form": {
+					"item_id": "MLA811613518",
+					"context": "pdp"
+				},
+				"actions": [{
+					"type": "primary",
+					"target": "meli://checkoutv2/MLA811613518?quantity={quantity}&context=pdp",
+					"label": {
+						"text": "Comprar ahora"
+					},
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/alternative_buying_options/buy_action",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"item_id": "MLA811613518",
+								"seller_id": 174556876,
+								"seller_name": "OVERHARD DIGITAL",
+								"position": 1,
+								"alternative_option_id": "CHEAPER"
+							}
+						},
+						"analytics_event": {
+							"section": "/PDP/",
+							"action": "BUY-INTENTION",
+							"category": "PDP",
+							"label": "CHEAPER-1-MLA811613518",
+							"custom_dimensions": {
+								"119": "174556876",
+								"120": "OVERHARD DIGITAL"
+							}
+						}
+					},
+					"disabled": false,
+					"action_type": "BUY_NOW"
+				}, {
+					"type": "secondary",
+					"target": "meli://cart-congrats?ids=MLA811613518-{quantity}&context=pdp",
+					"label": {
+						"text": "Agregar al carrito"
+					},
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/alternative_buying_options/buy_action",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"item_id": "MLA811613518",
+								"seller_id": 174556876,
+								"seller_name": "OVERHARD DIGITAL",
+								"position": 1,
+								"alternative_option_id": "CHEAPER"
+							}
+						},
+						"analytics_event": {
+							"section": "/PDP/",
+							"action": "ADD-TO-CART",
+							"category": "PDP",
+							"label": "CHEAPER-1-MLA811613518",
+							"custom_dimensions": {
+								"119": "174556876",
+								"120": "OVERHARD DIGITAL"
+							}
+						}
+					},
+					"disabled": false,
+					"action_type": "ADD_TO_CART"
+				}]
+			},
+			"summary_list": {
+				"id": "summary_list",
+				"type": "summary_list",
+				"list": [{
+					"id": "payment_summary",
+					"type": "generic_summary",
+					"state": "VISIBLE",
+					"title": {
+						"text": "Pagá en hasta 12 cuotas",
+						"color": "BLACK",
+						"font_size": "xsmall",
+						"font_family": "regular"
+					}
+				}, {
+					"id": "shipping_summary",
+					"type": "generic_summary",
+					"state": "VISIBLE",
+					"title": {
+						"text": "Envío gratis a todo el país",
+						"color": "GREEN",
+						"font_size": "xsmall",
+						"font_family": "regular"
+					}
+				}, {
+					"id": "pick_up_summary",
+					"type": "generic_summary",
+					"state": "HIDDEN"
+				}]
+			}
+		}, {
+			"id": "MLA795527379",
+			"collapsed": true,
+			"product_tag": {
+				"text": "NEXTDAY"
+			},
+			"seller": {
+				"id": "seller",
+				"type": "seller",
+				"state": "VISIBLE",
+				"title": "Vendido por",
+				"title_value": "OVERHARD DIGITAL",
+				"subtitles": [{
+					"text": "Este vendedor hace Factura A",
+					"color": "GRAY",
+					"font_size": "XSMALL"
+				}],
+				"seller": {
+					"id": 174556876,
+					"name": "OVERHARD DIGITAL",
+					"reputation_level": "5_green"
+				},
+				"seller_info": {
+					"header": "Información del vendedor",
+					"title": "OVERHARD DIGITAL",
+					"subtitles": [],
+					"power_seller_status": {
+						"title": "MercadoLíder Platinum",
+						"subtitle": "¡Es uno de los mejores del sitio!"
+					},
+					"thermometer": {
+						"rank": 5,
+						"info": [{
+							"title": "42275",
+							"subtitle": "Ventas en los últimos 4 meses"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_ATTENTION_GOOD"
+							},
+							"subtitle": "Brinda buena atención"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+							},
+							"subtitle": "Despacha sus productos a tiempo"
+						}]
+					},
+					"extra_info": [{
+						"title": "Ubicación",
+						"subtitle": "Villa Crespo, Capital Federal"
+					}, {
+						"title": "Facturación",
+						"subtitle": "Este vendedor hace Factura A"
+					}]
+				},
+				"show_seller_logo": false
+			},
+			"price": {
+				"id": "price",
+				"type": "price",
+				"state": "VISIBLE",
+				"price": {
+					"type": "price",
+					"value": 13999,
+					"original_value": 18999,
+					"currency_symbol": "$"
+				},
+				"discount_label": {
+					"text": "26% OFF",
+					"color": "GREEN"
+				}
+			},
+			"main_actions": {
+				"id": "main_actions",
+				"type": "main_actions",
+				"state": "VISIBLE",
+				"form": {
+					"item_id": "MLA795527379",
+					"context": "pdp"
+				},
+				"actions": [{
+					"type": "primary",
+					"target": "meli://checkoutv2/MLA795527379?quantity={quantity}&context=pdp",
+					"label": {
+						"text": "Comprar ahora"
+					},
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/alternative_buying_options/buy_action",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"item_id": "MLA795527379",
+								"seller_id": 174556876,
+								"seller_name": "OVERHARD DIGITAL",
+								"position": 2,
+								"alternative_option_id": "NEXTDAY"
+							}
+						},
+						"analytics_event": {
+							"section": "/PDP/",
+							"action": "BUY-INTENTION",
+							"category": "PDP",
+							"label": "NEXTDAY-2-MLA795527379",
+							"custom_dimensions": {
+								"119": "174556876",
+								"120": "OVERHARD DIGITAL"
+							}
+						}
+					},
+					"disabled": false,
+					"action_type": "BUY_NOW"
+				}]
+			},
+			"summary_list": {
+				"id": "summary_list",
+				"type": "summary_list",
+				"list": [{
+					"id": "payment_summary",
+					"type": "generic_summary",
+					"state": "VISIBLE",
+					"title": {
+						"text": "Pagá en 18 cuotas sin interés",
+						"color": "GREEN",
+						"font_size": "xsmall",
+						"font_family": "regular"
+					}
+				}, {
+					"id": "shipping_summary",
+					"type": "generic_summary",
+					"state": "VISIBLE",
+					"title": {
+						"text": "Envío gratis a todo el país",
+						"color": "GREEN",
+						"font_size": "xsmall",
+						"font_family": "regular"
+					}
+				}, {
+					"id": "pick_up_summary",
+					"type": "generic_summary",
+					"state": "HIDDEN"
+				}]
+			}
+		}, {
+			"id": "MLA819139371",
+			"collapsed": true,
+			"product_tag": {
+				"text": "Retiro en locales"
+			},
+			"seller": {
+				"id": "seller",
+				"type": "seller",
+				"state": "VISIBLE",
+				"title": "Vendido por",
+				"title_value": "Walmart Argentina",
+				"subtitles": [{
+					"text": "Tienda oficial de Mercado Libre",
+					"color": "GRAY",
+					"font_size": "XSMALL"
+				}],
+				"seller": {
+					"id": 453041765,
+					"official_store_id": 176,
+					"name": "Walmart Argentina",
+					"reputation_level": "5_green"
+				},
+				"seller_info": {
+					"header": "Información del vendedor",
+					"title": "Walmart Argentina",
+					"subtitles": [{
+						"text": "Tienda oficial de Mercado Libre",
+						"color": "GRAY",
+						"font_size": "XXSMALL"
+					}],
+					"logo": "https://http2.mlstatic.com/D_Q_NP_960318-MLA25808884281_072017-G.jpg",
+					"thermometer": {
+						"rank": 5,
+						"info": [{
+							"title": "2304",
+							"subtitle": "Ventas en los últimos 4 meses"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_ATTENTION_GOOD"
+							},
+							"subtitle": "Brinda buena atención"
+						}, {
+							"icon": {
+								"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+							},
+							"subtitle": "Despacha sus productos a tiempo"
+						}]
+					},
+					"extra_info": []
+				},
+				"show_seller_logo": true
+			},
+			"price": {
+				"id": "price",
+				"type": "price",
+				"state": "VISIBLE",
+				"price": {
+					"type": "price",
+					"value": 13999,
+					"currency_symbol": "$"
+				}
+			},
+			"main_actions": {
+				"id": "main_actions",
+				"type": "main_actions",
+				"state": "VISIBLE",
+				"form": {
+					"item_id": "MLA819139371",
+					"context": "pdp"
+				},
+				"actions": [{
+					"type": "primary",
+					"target": "meli://checkoutv2/MLA819139371?quantity={quantity}&context=pdp",
+					"label": {
+						"text": "Comprar ahora"
+					},
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/alternative_buying_options/buy_action",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"item_id": "MLA819139371",
+								"seller_id": 453041765,
+								"seller_name": "Walmart Argentina",
+								"position": 3,
+								"alternative_option_id": "PUIS"
+							}
+						},
+						"analytics_event": {
+							"section": "/PDP/",
+							"action": "BUY-INTENTION",
+							"category": "PDP",
+							"label": "PUIS-3-MLA819139371",
+							"custom_dimensions": {
+								"119": "453041765",
+								"120": "Walmart Argentina"
+							}
+						}
+					},
+					"disabled": false,
+					"action_type": "BUY_NOW"
+				}]
+			},
+			"summary_list": {
+				"id": "summary_list",
+				"type": "summary_list",
+				"list": [{
+					"id": "payment_summary",
+					"type": "generic_summary",
+					"state": "VISIBLE",
+					"title": {
+						"text": "Pagá en 12 cuotas sin interés",
+						"color": "GREEN",
+						"font_size": "xsmall",
+						"font_family": "regular"
+					}
+				}, {
+					"id": "pick_up_summary",
+					"type": "generic_summary",
+					"state": "VISIBLE",
+					"title": {
+						"text": "Retiro gratis en local de Walmart Argentina",
+						"color": "GREEN",
+						"font_size": "xsmall",
+						"font_family": "regular"
+					}
+				}]
+			}
+		}]
+	}, {
+		"id": "carousel_above",
+		"type": "carousel_above",
+		"state": "VISIBLE",
+		"carousels": [{
+			"title": "Quienes vieron este producto también compraron",
+			"recommendation_info": {
+				"recommendations": [{
+					"quantity": 1,
+					"id": "MLA811613615",
+					"type": "HORIZONTAL",
+					"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_780760-MLA31818439856_082019-V.jpg?square=true",
+					"price": "$ 16.999",
+					"description": "Motorola G7 64 GB Ceramic black 4 GB RAM",
+					"action": "meli://products/MLA14063506/#&reco_item_pos=0&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=dff2f8af-be59-43d0-b207-e3af50cbae6a",
+					"installment": "Hasta 18 cuotas sin interés",
+					"discount": "26% OFF",
+					"free_shipping": true
+				}, {
+					"quantity": 1,
+					"id": "MLA819351989",
+					"type": "HORIZONTAL",
+					"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_724005-MLA31250987474_062019-V.jpg?square=true",
+					"price": "$ 17.999",
+					"description": "Motorola One 64 GB Negro",
+					"action": "meli://products/MLA12598992/#&reco_item_pos=1&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=dff2f8af-be59-43d0-b207-e3af50cbae6a",
+					"free_shipping": true
+				}, {
+					"quantity": 1,
+					"type": "ATF_VIEWMORE_PDP",
+					"description": "Ver más publicaciones",
+					"action": "meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Frecommendations-view%2Fget%3Fsite%3DMLA%26category%3DMLA1055%26item%3DMLA810735382%26user%3D-1%26product_id%3DMLA14036456%26limit%3D20%26client%3Dpdp-v2p"
+				}],
+				"carousel_type": "VERTICAL"
+			},
+			"footer": "Todos los precios están calculados en 1 pago",
+			"tracking": {
+				"experiments": [],
+				"event_data": {
+					"recommendations": {
+						"recommendation_id": "dff2f8af-be59-43d0-b207-e3af50cbae6a",
+						"backend_id": "machinalis-pdp",
+						"client": "pdp-v2p",
+						"track_info": {
+							"model_id": "product_to_product",
+							"model_version": "0.0.2+2060af0",
+							"train_date": "2019-09-24T09:08:18.487968",
+							"backend_id": "api.mercadolibre.com",
+							"has_recommendations": true,
+							"recommended_items": [{
+								"id": "MLA811613615",
+								"product_id": "MLA14063506"
+							}, {
+								"id": "MLA819351989",
+								"product_id": "MLA12598992"
+							}],
+							"trigger": {
+								"trigger_type": "product",
+								"item_info": {
+									"id": "MLA14036456",
+									"category_id": "MLA1055"
+								}
+							}
+						}
+					}
+				}
+			}
+		}]
+	}, {
+		"id": "all_features",
+		"type": "all_features",
+		"state": "VISIBLE",
+		"main_features": {
+			"title": "Características principales",
+			"type": "LIST",
+			"attributes": ["Liberado", "Procesador Qualcomm Snapdragon 632 - Quad Core 1.8GHz - 3 GB", "Pantalla de 6.2\" y resolucion 720 x 1520 pixeles", "Cámara trasera 12MP", "Cámara frontal 8MP ", "Memoria expandible MicroSD hasta 2TB", "Batería 5000 mAh", "Lector de huella dactilar", "Resistencia al agua P2i ", "Android 9.0 (Pie)"]
+		},
+		"specs": [{
+			"title": "Información del producto",
+			"type": "STRIPED",
+			"attributes": [{
+				"id": "Marca",
+				"text": "Motorola"
+			}, {
+				"id": "Línea",
+				"text": "Moto"
+			}, {
+				"id": "Modelo",
+				"text": "G7 Power"
+			}, {
+				"id": "Es Dual SIM",
+				"text": "No"
+			}, {
+				"id": "Color",
+				"text": "Iced violet gradient"
+			}, {
+				"id": "Memoria interna",
+				"text": "32 GB"
+			}, {
+				"id": "Memoria RAM",
+				"text": "3 GB"
+			}]
+		}],
+		"action": {
+			"target": "meli://products/MLA14036456/specifications",
+			"label": {
+				"text": "Ver más características",
+				"color": "BLUE"
+			}
+		},
+		"bullet": "•"
+	}, {
+		"id": "description",
+		"type": "description",
+		"state": "VISIBLE",
+		"title": "Descripción",
+		"content": "Quedarse sin energía no es divertido.\nEs por eso que le dimos al Moto G7 Power una poderosa batería de 5.000 mAh, diseñada para durar hasta 55 horas con una sola carga. Trabajá o jugá hasta el cansancio, sin preocuparte por cargarlo.\n\nCarga ultra rápida TurboPower™:\nLa carga TurboPower™ te brinda hasta 8 horas de energía en solo 15 minutos, para que puedas recargar sin detenerte.\n\nAmpliá tu diversión:\nDisfrutá de vistas ultra amplias en la que te proporciona la asombrosa pantalla de 6.2 sin bordes Max Visión HD+. máxima visualización con una relación de aspecto 19:9. Sumergite totalmente en tus películas, juegos y todo lo demás.\n\nEnfoque en un instante:\nLa cámara trasera de 12 MP con detección de fase y enfoque automático PDAF enfoca el objeto en un abrir y cerrar de ojos. Y con la cámara frontal de 8 MP, tus selfies nunca volverán a ser la mismas.\n\nProcesador y memoria:\nAlimentá tus pasiones: la rapidez de procesamiento desde la edición de fotos hasta juegos en 3D. Con un procesador octa-core Qualcomm® Snapdragon™ 632 de 1,8 GHz, junto con 3GB de RAM y 64GB de ROM, el Moto G7 Power te brinda la velocidad que necesitas para ejecutar aplicaciones de forma más fluida.\n\nExperiencias Moto exclusivas:\nEstamos constantemente añadiendo nuevas características a nuestra colección de Experiencias de Moto para hacer el uso de tu smartphone más fácil y agradable. Cuenta con la Pantalla Moto, que te muestra una vista previa rápida de las notificaciones y actualizaciones, por lo que no tendrás que desbloquear el teléfono para ver lo que está pasando. O Acciones Moto, que te permiten utilizar gestos sencillos para que las interacciones cotidianas resulten más prácticas.\n\n",
+		"max_pages": 1.5,
+		"action": {
+			"label": {
+				"text": "Ver descripción completa"
+			}
+		}
+	}, {
+		"id": "comparator_product",
+		"type": "comparator_product",
+		"state": "VISIBLE",
+		"tabs": [{
+			"attributes_list": [{
+				"id": "REVIEWS",
+				"title": "Opiniones",
+				"type": "reviews"
+			}, {
+				"id": "PRICE",
+				"title": "Precio",
+				"type": "price"
+			}, {
+				"id": "SELLER",
+				"title": "Vendedor",
+				"type": "link"
+			}, {
+				"id": "IS_DUAL_SIM",
+				"title": "Es Dual SIM",
+				"type": "standard"
+			}, {
+				"id": "COLOR",
+				"title": "Color",
+				"type": "standard"
+			}, {
+				"id": "INTERNAL_MEMORY",
+				"title": "Memoria interna",
+				"type": "standard"
+			}, {
+				"id": "RAM",
+				"title": "Memoria RAM",
+				"type": "standard"
+			}, {
+				"id": "WITH_ESIM",
+				"title": "Con eSIM",
+				"type": "standard"
+			}, {
+				"id": "OPERATING_SYSTEM_NAME",
+				"title": "Nombre del sistema operativo",
+				"type": "standard"
+			}, {
+				"id": "OPERATING_SYSTEM_VERSION",
+				"title": "Versión del sistema operativo",
+				"type": "standard"
+			}],
+			"recommended_products": [{
+				"id": "MLA14036456",
+				"status": "active",
+				"trigger": true,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA14036456/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=0&reco_backend_type=low_level&reco_id=ca475d31-0be4-4619-aed8-1485239699bc",
+				"name": "Motorola G7 Power 32 GB Iced violet gradient",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_738713-MLA31002678499_062019-V.jpg",
+				"img_max_width": 500,
+				"img_max_height": 1004,
+				"item_id": "MLA810735382",
+				"parent_id": "MLA14036451",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 1134,
+						"rating_average": 4.7
+					},
+					"PRICE": {
+						"value": 13899,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "451633924",
+						"name": "OVERHARD DIGITAL2"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Iced violet gradient"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "32 GB"
+					},
+					"RAM": {
+						"text": "3 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "9.0 Pie"
+					}
+				}
+			}, {
+				"id": "MLA10861655",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA10861655/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=1&reco_backend_type=low_level&reco_id=ca475d31-0be4-4619-aed8-1485239699bc",
+				"name": "Xiaomi Redmi 6A Dual SIM 16 GB Azul",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_659547-MLA31002083918_062019-V.jpg",
+				"img_max_width": 600,
+				"img_max_height": 1200,
+				"item_id": "MLA818243100",
+				"parent_id": "MLA10861654",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 856,
+						"rating_average": 4.7
+					},
+					"PRICE": {
+						"value": 11999.99,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "21898084",
+						"name": "GUSEMA"
+					},
+					"IS_DUAL_SIM": {
+						"text": "Sí"
+					},
+					"COLOR": {
+						"text": "Azul"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "16 GB"
+					},
+					"RAM": {
+						"text": "2 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "8.1 Oreo"
+					}
+				}
+			}, {
+				"id": "MLA14648833",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA14648833/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=2&reco_backend_type=low_level&reco_id=ca475d31-0be4-4619-aed8-1485239699bc",
+				"name": "Samsung Galaxy M10 16 GB Negro carbón 2 GB RAM",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_967963-MLA31822173877_082019-V.jpg",
+				"img_max_width": 598,
+				"img_max_height": 1200,
+				"item_id": "MLA817995285",
+				"parent_id": "MLA14648832",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 550,
+						"rating_average": 4.7
+					},
+					"PRICE": {
+						"value": 13200,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "277057642",
+						"name": "RHTNET"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Negro carbón"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "16 GB"
+					},
+					"RAM": {
+						"text": "2 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "8.1 Oreo"
+					}
+				}
+			}, {
+				"id": "MLA13550349",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA13550349/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=3&reco_backend_type=low_level&reco_id=ca475d31-0be4-4619-aed8-1485239699bc",
+				"name": "Samsung Galaxy J4+ 32 GB Rosa",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_945184-MLA31002756224_062019-V.jpg",
+				"img_max_width": 556,
+				"img_max_height": 1115,
+				"item_id": "MLA814917875",
+				"parent_id": "MLA13550346",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 1409,
+						"rating_average": 4.6
+					},
+					"PRICE": {
+						"value": 15999,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "82521850",
+						"name": "BAIRESIT"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Rosa"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "32 GB"
+					},
+					"RAM": {
+						"text": "2 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "8.1 Oreo"
+					}
+				}
+			}],
+			"tracking": {
+				"event_data": {
+					"recommendations": {
+						"backend_id": "prod.recommendations-algorithm-product",
+						"client": "pdp_comparator",
+						"recommendation_id": "ca475d31-0be4-4619-aed8-1485239699bc",
+						"track_info": {
+							"has_recommendations": true,
+							"backend_id": "prod.recommendations-algorithm-product",
+							"model_id": "products-different-parent",
+							"model_version": "V1",
+							"trigger": {
+								"trigger_type": "product",
+								"product": {
+									"id": "MLA14036456",
+									"status": "active",
+									"domain_id": "MLA-CELLPHONES",
+									"item_id": "MLA810735382",
+									"parent_id": "MLA14036451"
+								}
+							},
+							"recommended_products": [{
+								"item_id": "MLA810735382",
+								"id": "MLA14036456"
+							}, {
+								"item_id": "MLA818243100",
+								"id": "MLA10861655"
+							}, {
+								"item_id": "MLA817995285",
+								"id": "MLA14648833"
+							}, {
+								"item_id": "MLA814917875",
+								"id": "MLA13550349"
+							}]
+						}
+					}
+				},
+				"path": "/recommendations/print"
+			},
+			"title": "Compará con otros productos similares",
+			"labels": {
+				"this_product": "(Este producto)",
+				"see_product": "Ver producto",
+				"more_details": "Ver más detalles",
+				"tab": "Productos similares",
+				"empty_column": "-"
+			},
+			"max_attribute_init": 6,
+			"priority": 1
+		}, {
+			"attributes_list": [{
+				"id": "REVIEWS",
+				"title": "Opiniones",
+				"type": "reviews"
+			}, {
+				"id": "PRICE",
+				"title": "Precio",
+				"type": "price"
+			}, {
+				"id": "SELLER",
+				"title": "Vendedor",
+				"type": "link"
+			}, {
+				"id": "IS_DUAL_SIM",
+				"title": "Es Dual SIM",
+				"type": "standard"
+			}, {
+				"id": "COLOR",
+				"title": "Color",
+				"type": "standard"
+			}, {
+				"id": "INTERNAL_MEMORY",
+				"title": "Memoria interna",
+				"type": "standard"
+			}, {
+				"id": "RAM",
+				"title": "Memoria RAM",
+				"type": "standard"
+			}, {
+				"id": "WITH_ESIM",
+				"title": "Con eSIM",
+				"type": "standard"
+			}, {
+				"id": "OPERATING_SYSTEM_NAME",
+				"title": "Nombre del sistema operativo",
+				"type": "standard"
+			}, {
+				"id": "OPERATING_SYSTEM_VERSION",
+				"title": "Versión del sistema operativo",
+				"type": "standard"
+			}],
+			"recommended_products": [{
+				"id": "MLA14036456",
+				"status": "active",
+				"trigger": true,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA14036456/#reco_backend=products-different-parent&reco_client=pdp_comparator_navigation&reco_product_pos=0&reco_backend_type=low_level&reco_id=2e473f41-b091-40b6-afe0-a8491c886a98",
+				"name": "Motorola G7 Power 32 GB Iced violet gradient",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_738713-MLA31002678499_062019-V.jpg",
+				"img_max_width": 500,
+				"img_max_height": 1004,
+				"item_id": "MLA810735382",
+				"parent_id": "MLA14036451",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 1134,
+						"rating_average": 4.7
+					},
+					"PRICE": {
+						"value": 13899,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "451633924",
+						"name": "OVERHARD DIGITAL2"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Iced violet gradient"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "32 GB"
+					},
+					"RAM": {
+						"text": "3 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "9.0 Pie"
+					}
+				}
+			}, {
+				"id": "MLA11137441",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA11137441/#reco_backend=products-different-parent&reco_client=pdp_comparator_navigation&reco_product_pos=1&reco_backend_type=low_level&reco_id=2e473f41-b091-40b6-afe0-a8491c886a98",
+				"name": "Samsung Galaxy J8 32 GB Negro",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_868351-MLA31002298824_062019-V.jpg",
+				"img_max_width": 603,
+				"img_max_height": 1208,
+				"item_id": "MLA789197432",
+				"parent_id": "MLA11137440",
+				"product_details": {
+					"REVIEWS": {
+						"count_reviews": 850,
+						"rating_average": 4.6
+					},
+					"PRICE": {
+						"value": 22358,
+						"currency_symbol": "$",
+						"decimal_separator": ",",
+						"thousand_separator": "."
+					},
+					"SELLER": {
+						"link": "",
+						"id": "179602040",
+						"name": "LOMONTEMARTIN"
+					},
+					"IS_DUAL_SIM": {
+						"text": "No"
+					},
+					"COLOR": {
+						"text": "Negro"
+					},
+					"INTERNAL_MEMORY": {
+						"text": "32 GB"
+					},
+					"RAM": {
+						"text": "3 GB"
+					},
+					"WITH_ESIM": {
+						"text": "No"
+					},
+					"OPERATING_SYSTEM_NAME": {
+						"text": "Android"
+					},
+					"OPERATING_SYSTEM_VERSION": {
+						"text": "8.0 Oreo"
+					}
+				}
+			}],
+			"tracking": {
+				"event_data": {
+					"recommendations": {
+						"backend_id": "prod.recommendations-navigation-product",
+						"client": "pdp_comparator_navigation",
+						"recommendation_id": "2e473f41-b091-40b6-afe0-a8491c886a98",
+						"track_info": {
+							"has_recommendations": true,
+							"backend_id": "prod.recommendations-navigation-product",
+							"model_id": "products-different-parent",
+							"model_version": "V1",
+							"trigger": {
+								"trigger_type": "product",
+								"product": {
+									"id": "MLA14036456",
+									"status": "active",
+									"domain_id": "MLA-CELLPHONES",
+									"item_id": "MLA810735382",
+									"parent_id": "MLA14036451"
+								}
+							},
+							"recommended_products": [{
+								"item_id": "MLA810735382",
+								"id": "MLA14036456"
+							}, {
+								"item_id": "MLA789197432",
+								"id": "MLA11137441"
+							}]
+						}
+					}
+				},
+				"path": "/recommendations/print"
+			},
+			"title": "Compará con otros productos similares",
+			"labels": {
+				"this_product": "(Este producto)",
+				"see_product": "Ver producto",
+				"more_details": "Ver más detalles",
+				"tab": "Visitados recientemente",
+				"empty_column": "-"
+			},
+			"max_attribute_init": 6,
+			"priority": 2
+		}]
+	}, {
+		"id": "reviews",
+		"type": "reviews",
+		"state": "VISIBLE",
+		"title": "Opiniones sobre Motorola Moto G7 Power",
+		"rating": "4.7",
+		"stars": "4.5",
+		"subtitle": "Promedio entre 1134 opiniones",
+		"rating_levels": [{
+			"value": 853,
+			"percentage": 75,
+			"label": {
+				"text": "5 estrellas"
+			}
+		}, {
+			"value": 246,
+			"percentage": 21,
+			"label": {
+				"text": "4 estrellas"
+			}
+		}, {
+			"value": 20,
+			"percentage": 1,
+			"label": {
+				"text": "3 estrellas"
+			}
+		}, {
+			"value": 5,
+			"percentage": 0,
+			"label": {
+				"text": "2 estrellas"
+			}
+		}, {
+			"value": 10,
+			"percentage": 0,
+			"label": {
+				"text": "1 estrella"
+			}
+		}],
+		"tabs": [{
+			"label": {
+				"text": "Todas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 34807358,
+				"title": "Excelente relación calidad precio",
+				"content": "Excelente teléfono. Muy rápido, ágil, buena batería me dura dos días usando a full y tres si lo uso poco. Excelente producto. La cámara es excelente. Motolora es genial. Si estás leyendo esto, no lo dudes, es un gran celular y no es tan caro. Anímate y compralo.",
+				"rate": 5,
+				"likes": 122,
+				"dislikes": 74
+			}, {
+				"id": 44790811,
+				"title": "Excelente para uso normal",
+				"version": "Ceramic black | 64 GB",
+				"content": "Excelente celular en cuanto a calidad/precio. Para uso normal es perfecto y su plus es la batería. Lo único que le encuentro negativo es la calidad de la pantalla, si bien no es mala, por momentos se nota que no es la mejor.",
+				"rate": 5,
+				"likes": 21,
+				"dislikes": 21
+			}, {
+				"id": 43224529,
+				"title": "Muy buen celular",
+				"version": "Iced violet gradient | 64 GB",
+				"content": "Genial, solo le falta flash en la cámara frontal.",
+				"rate": 4,
+				"likes": 28,
+				"dislikes": 36
+			}],
+			"action": {
+				"target": "/products/MLA14036456/reviews?limit=10&offset=3&reviews_product_id=MLA14036451"
+			}
+		}, {
+			"label": {
+				"text": "Positivas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 46147904,
+				"title": "Genial!",
+				"content": "Excelente equipo! lo único que no me gusta son las siguiente cosillas: 1) el brillo de la pantalla está más que correcto para casi todo momento y condición pero hay circunstancias en que ameritan un súper brillo ( días en que, eventualmente, te encontrás bajo pleno rayo del sol) o a mí sí por lo menos me ocurre. \n2) el sonido en spotify no es súper fuerte pero está bien (considérese que soy baterista y estoy medio sordo). \n3) no es tan fácil actualmente conseguir accesorios de calidad para este equipo. Si bien ya viene con su protector que es bueno ( ya tuvo un buen golpe y no le paso nada de nada), me gustaría cambiarlo por alguno con grip pero no hay nada decente. Quizá en algún momento llegue algo mejor al país. \nLuego, todo lo demás bien. La batería dura usándolo bastante 4 días. Y carga de nuevo al 100 en dos horas. No sé qué más contar.",
+				"rate": 5,
+				"likes": 12,
+				"dislikes": 6
+			}, {
+				"id": 45850679,
+				"title": "Bueno más por la batería de 5000 mA",
+				"version": "Marine blue | 32 GB",
+				"content": "Hasta ahora lo que más me asombra es el aguante de la batería, se banca más de un día sin cargarlo. La carga es muy buena al ser turbo power, reproduce bien videos, la calidad de video y audio no es la mejor pero es fluido así como la interface de android 9 está muy bien. Al no poseer un altavoz la reproducción de audio es por el speaker del teléfono, la cámara tiene problemas al captar imágenes cuando hay poca luz, el sensor de huellas no capta de una vez, sino que hay que apoyar bien el dedo, el reconocimiento facial no me gusta y no lo uso por gustó propio, botones de volumen + no están al alcance cuando lo sostengo con una mano. Por ahora lo veo robusto y sólido al tacto y uso. Me gusta.",
+				"rate": 4,
+				"likes": 3,
+				"dislikes": 4
+			}, {
+				"id": 40354795,
+				"title": "un gama Media con bateria para 2 dias...",
+				"version": "Marine blue | 32 GB",
+				"content": "Viniendo de un moto g5 plus, el cambio se nota!. Smartphone gama media, no posee nfc, pero lo mejor esta en su rendimiento diario, 5000 mah, 2 días de batería! su pantalla es hd+, y el microprocesador es optimo para las tareas a desempeñar. El lector de huellas se encuentra debajo del isotipo de motorola, que si tenes una mano pequeña te costara alcanzarlo. Ambas cámaras no son deslumbrante, 12 mpx (trasera) y 8mpx (frontal sin flash). \nConexión cable usb typo c, con carga turbo power (casi 2 horas para cargar de 10 a 100 %). \nPara lo que es como telefono no es caro! no trae cosas de ultima generacion pero es un buen gama media!.",
+				"rate": 4,
+				"likes": 54,
+				"dislikes": 23
+			}],
+			"action": {
+				"target": "/products/MLA14036456/reviews?relevance=positive&limit=10&offset=3&reviews_product_id=MLA14036451"
+			}
+		}, {
+			"label": {
+				"text": "Negativas",
+				"color": "BLACK"
+			},
+			"preview_reviews": [{
+				"id": 42638536,
+				"title": "Malo ",
+				"content": "Lo único que tiene es una buena batería , no solprende en más nada , en otros motorolas de menos calidad encontré una pantalla con mejor imagen. El gpc un desastre y la señal pésima en zona rural , para alguien que solo lo usa en ciudad creo andaría pero para mí una decepción. ( todo esto comparando con celulares gamas más bajas que este ).",
+				"rate": 2,
+				"likes": 5,
+				"dislikes": 25
+			}, {
+				"id": 43108102,
+				"title": "Malo",
+				"content": "El celular vino con el lector de huellas mínimamente levantado y después de unos meses de uso la batería empieza a fallar. Cuando compre el teléfono y todavía no tenia la oportunidad de ir a comprar una funda protectora o algo, el celular se cayó desde una altura de medio metro aproximadamente y se rompió en una esquina, mala calidad.",
+				"rate": 2,
+				"likes": 3,
+				"dislikes": 24
+			}, {
+				"id": 47175668,
+				"title": "Robado",
+				"version": "Marine blue | 32 GB",
+				"content": "Es robado, después de 1 mes de uso me bloquearon la línea. La compañía me informo que se trataba de un teléfono robado. No me devuelven el monto. Mercadolíbre solo te garantiza un producto robado por un mes. Nadie se hace cargo. Nos vemos en defensa del consumidor. Me reservo accionar civil y penal.",
+				"rate": 1,
+				"likes": 1,
+				"dislikes": 0
+			}],
+			"action": {
+				"target": "/products/MLA14036456/reviews?relevance=negative&limit=10&offset=3&reviews_product_id=MLA14036451"
+			}
+		}],
+		"all_reviews": {
+			"type": "url",
+			"label": {
+				"text": "Ver todas las opiniones",
+				"color": "BLUE"
+			}
+		}
+	}, {
+		"id": "questions",
+		"type": "questions",
+		"state": "VISIBLE",
+		"title": {
+			"text": "Preguntas"
+		},
+		"quick_access": {
+			"title": {
+				"text": "¿Qué querés saber?"
+			},
+			"actions": [{
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA810735382%2Fshipping%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Formas de envío y retiro"
+				},
+				"modal_title": "Formas de envío y retiro"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA810735382%2Fpayments%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Medios de pago"
+				},
+				"modal_title": "Medios de pago"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fwarranty%2FMLA810735382%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Garantía"
+				},
+				"modal_title": "Garantía"
+			}, {
+				"target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA810735382%26quantity%3D1%26webview%3Dtrue",
+				"label": {
+					"text": "Devoluciones"
+				},
+				"modal_title": "¿No te gusta? Devolvelo gratis"
+			}]
+		},
+		"form": {
+			"title": {
+				"text": "Preguntale a OVERHARD DIGITAL2"
+			},
+			"confirm": {
+				"target": "/products/question/MLA810735382?site_id=MLA",
+				"label": {
+					"text": "Preguntar"
+				},
+				"item_id": "MLA810735382"
+			},
+			"subtitles": [],
+			"placeholder": {
+				"text": "Escribí tu pregunta..."
+			},
+			"max_length": 2000
+		},
+		"track": {
+			"melidata_event": {
+				"path": "/questions/ask/post",
+				"event_data": {
+					"catalog_product_id": "MLA14036456",
+					"item_id": "MLA810735382",
+					"context": "/pdp"
+				}
+			},
+			"analytics_event": {
+				"section": "/PDP/",
+				"action": "QUESTION",
+				"category": "ITEM",
+				"label": "PDP"
+			}
+		}
+	}],
+	"share": {
+		"id": "share",
+		"type": "share",
+		"state": "VISIBLE",
+		"share_title": {
+			"text": "Comparte este producto",
+			"color": "BLACK"
+		},
+		"permalink": "https://www.mercadolibre.com.ar/p/MLA14036456",
+		"action": {
+			"label": {
+				"text": "Compartir"
+			},
+			"icon": {
+				"id": "SHARE"
+			}
+		},
+		"share_actions": []
+	},
+	"bookmark": {
+		"id": "bookmark",
+		"type": "bookmark",
+		"state": "VISIBLE",
+		"item_id": "MLA810735382",
+		"is_bookmarked": false,
+		"add": {
+			"label": {
+				"text": "Agregar a favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/bookmarks/action/post",
+					"event_data": {
+						"item_id": "MLA810735382",
+						"catalog_product_id": "MLA14036456",
+						"context": "/pdp"
+					}
+				}
+			}
+		},
+		"delete": {
+			"label": {
+				"text": "Quitar de favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/bookmarks/action/delete",
+					"event_data": {
+						"item_id": "MLA810735382",
+						"catalog_product_id": "MLA14036456",
+						"context": "/pdp"
+					}
+				}
+			}
+		}
+	},
+	"history": {
+		"id": "MLA810735382"
+	},
+	"track": {
+		"melidata_event": {
+			"path": "/pdp",
+			"event_data": {
+				"catalog_parent_id": "MLA14036451",
+				"catalog_product_id": "MLA14036456",
+				"item_id": "MLA810735382",
+				"category_id": "MLA1055",
+				"vertical": "core",
+				"domain_id": "MLA-CELLPHONES",
+				"review_rate": 4,
+				"item_condition": "new",
+				"listing_type_id": "gold_pro",
+				"cart_content": false,
+				"price": 13899,
+				"original_price": 19999,
+				"currency_id": "ARS",
+				"seller_id": 451633924,
+				"seller_name": "OVERHARD DIGITAL2",
+				"reputation_level": "5_green",
+				"power_seller_status": "silver",
+				"installment_info": "12f",
+				"free_shipping": true,
+				"shipping_mode": "me2",
+				"local_pick_up": false,
+				"store_pick_up": false,
+				"logistic_type": "cross_docking",
+				"shipping_conditions": "free_mandatory",
+				"pushing_puis": false,
+				"showing_puis": false,
+				"bo_pick_up_conditions": "no_bo_pick_up",
+				"loyalty_level": 1,
+				"pickers": {
+					"INTERNAL_MEMORY": [{
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036454",
+						"selected": false,
+						"disabled": false
+					}],
+					"COLOR": [{
+						"catalog_product_id": "MLA14036452",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036455",
+						"selected": false,
+						"disabled": false
+					}],
+					"IS_DUAL_SIM": [{
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036461",
+						"selected": false,
+						"disabled": false
+					}],
+					"RAM": [{
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036454",
+						"selected": false,
+						"disabled": false
+					}]
+				},
+				"alternative_buying_options": [{
+					"position": 1,
+					"item_id": "MLA811613518",
+					"buying_option_id": "CHEAPER",
+					"seller_id": 174556876,
+					"seller_name": "OVERHARD DIGITAL"
+				}, {
+					"position": 2,
+					"item_id": "MLA795527379",
+					"buying_option_id": "NEXTDAY",
+					"seller_id": 174556876,
+					"seller_name": "OVERHARD DIGITAL"
+				}, {
+					"position": 3,
+					"item_id": "MLA819139371",
+					"buying_option_id": "PUIS",
+					"seller_id": 453041765,
+					"seller_name": "Walmart Argentina"
+				}]
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"custom_dimensions": {
+				"129": "Motorola G7 Power 32 GB Iced violet gradient",
+				"130": "MLA14036456",
+				"3": "{'MLA1051':'Celulares y Teléfonos'}",
+				"132": "free_mandatory",
+				"4": "{'MLA1051':'Celulares y Teléfonos','MLA1055':'Celulares y Smartphones'}",
+				"7": "MARKETPLACE",
+				"71": "silver",
+				"8": "core",
+				"72": "5_green",
+				"73": "NO",
+				"19": "gold_pro",
+				"85": "NO",
+				"86": "MLA-CELLPHONES",
+				"35": "normal",
+				"37": "me2",
+				"39": "active",
+				"106": "NO",
+				"42": "1x",
+				"43": "YES",
+				"45": "NO",
+				"111": "YES",
+				"49": "MLA810735382",
+				"51": "new",
+				"119": "451633924",
+				"120": "OVERHARD DIGITAL2",
+				"58": "normal",
+				"63": "1"
+			}
+		},
+		"gtm_event": {
+			"page_id": "PDP",
+			"site_id": "MLA",
+			"item_id": "MLA810735382",
+			"catalog_parent_id": "MLA14036451",
+			"catalog_product_id": "MLA14036456",
+			"vertical": "core",
+			"domain_id": "MLA-CELLPHONES",
+			"root_category_id": "MLA1051",
+			"path_to_root": "MLA1051,MLA1055",
+			"category_id": "MLA1055",
+			"review_rate": 4,
+			"brand_id": "Motorola",
+			"cart_content": false,
+			"item_price": 239.43,
+			"local_item_price": 13899,
+			"currency_id": "ARS",
+			"seller_id": 451633924,
+			"reputation_level": "5_green",
+			"installment_info": "12f",
+			"free_shipping": true,
+			"loyalty_level": 1
+		},
+		"firebase_event": {
+			"event_name": "view_product",
+			"event_data": {
+				"item_id": "MLA810735382",
+				"catalog_product_id": "MLA14036456",
+				"catalog_product_name": "Motorola G7 Power 32 GB Iced violet gradient",
+				"vertical": "core",
+				"domain_id": "MLA-CELLPHONES",
+				"root_category_id": "MLA1051",
+				"category_id": "MLA1055"
+			}
+		}
+	},
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+		"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+		"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+	},
+	"recommendations_context": {
+		"item_id": "MLA810735382",
+		"product_id": "MLA14036456",
+		"category_id": "MLA1055"
+	}
+}
