@@ -13,7 +13,8 @@
 	}, 
   {
   		"id": "webview",
-		  "type": "webview"
+		"type": "webview",
+		"url": "https://google.com"
   },
   {
 		"id": "gallery",
