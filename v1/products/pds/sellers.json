@@ -312,7 +312,12 @@
 		"id": "MLA811613518",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "7 vendidos | 137 disponibles",
+			"title": {
+				"text": "Sólo 12 disponibles",
+				"color": "RED",
+				"font_family": "semibold",
+				"font_size": "xsmall"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -422,7 +427,9 @@
 		"id": "MLA820330273",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "6 disponibles",
+			"title": {
+				"text": "6 disponibles"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -532,7 +539,9 @@
 		"id": "MLA819311914",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "1 vendido | 230 disponibles",
+			"title": {
+				"text": "1 vendido | 230 disponibles"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -642,7 +651,9 @@
 		"id": "MLA807148195",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "3 vendidos | 137 disponibles",
+			"title": {
+				"text": "3 vendidos | 137 disponibles"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -757,7 +768,9 @@
 		"id": "MLA813100362",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "40 vendidos | 6 disponibles",
+			"title": {
+				"text": "40 vendidos | 6 disponibles"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -867,7 +880,9 @@
 		"id": "MLA810735382",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "175 vendidos | 137 disponibles",
+			"title": {
+				"text": "175 vendidos | 137 disponibles"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -970,7 +985,9 @@
 		"id": "MLA804514532",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "17 vendidos | 10 disponibles",
+			"title": {
+				"text": "17 vendidos | 10 disponibles"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -1073,7 +1090,9 @@
 		"id": "MLA819139371",
 		"type": "seller_item",
 		"product_condition": {
-			"title": "10 vendidos | 33 disponibles",
+			"title": {
+				"text": "10 vendidos | 33 disponibles"
+			},
 			"status": "Nuevo"
 		},
 		"price": {
@@ -1169,220 +1188,7 @@
 				"disabled": false,
 				"action_type": "BUY_NOW"
 			}]
-		}
-	}, {
-		"id": "MLA817990356",
-		"type": "seller_item",
-		"product_condition": {
-			"title": "9 vendidos | 137 disponibles",
-			"status": "Nuevo"
-		},
-		"price": {
-			"id": "price",
-			"type": "price",
-			"state": "VISIBLE",
-			"price": {
-				"type": "price",
-				"value": 13999,
-				"original_value": 19999,
-				"currency_symbol": "$"
-			},
-			"discount_label": {
-				"text": "30% OFF",
-				"color": "GREEN"
-			}
-		},
-		"summary_list": {
-			"id": "summary_list",
-			"type": "summary_list",
-			"bullet": "•",
-			"list": [{
-				"text": "Pagá en 18 cuotas sin interés",
-				"color": "GREEN"
-			}, {
-				"text": "Envío gratis a todo el país",
-				"color": "GREEN"
-			}]
-		},
-		"seller": {
-			"id": "seller",
-			"type": "seller",
-			"state": "VISIBLE",
-			"title": "Vendido por",
-			"title_value": "OVERHARD DIGITAL",
-			"subtitles": [{
-				"text": "44.800 Ventas en los últimos 4 meses",
-				"color": "GRAY",
-				"font_size": "XXSMALL"
-			}, {
-				"text": "Este vendedor hace Factura A",
-				"color": "GRAY",
-				"font_size": "XXSMALL"
-			}],
-			"seller": {
-				"id": 174556876,
-				"name": "OVERHARD DIGITAL",
-				"reputation_level": "5_green"
-			},
-			"seller_info": {
-				"header": "Información del vendedor",
-				"title": "OVERHARD DIGITAL",
-				"subtitles": [],
-				"power_seller_status": {
-					"title": "MercadoLíder Platinum",
-					"subtitle": "¡Es uno de los mejores del sitio!"
-				},
-				"thermometer": {
-					"rank": 5,
-					"info": [{
-						"title": "44800",
-						"subtitle": "Ventas en los últimos 4 meses"
-					}, {
-						"icon": {
-							"id": "REP_SELLER_ATTENTION_GOOD"
-						},
-						"subtitle": "Brinda buena atención"
-					}, {
-						"icon": {
-							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
-						},
-						"subtitle": "Despacha sus productos a tiempo"
-					}]
-				},
-				"extra_info": [{
-					"title": "Ubicación",
-					"subtitle": "Villa Crespo, Capital Federal"
-				}, {
-					"title": "Facturación",
-					"subtitle": "Este vendedor hace Factura A"
-				}]
-			},
-			"show_seller_logo": false
-		},
-		"main_actions": {
-			"id": "main_actions",
-			"type": "main_actions",
-			"state": "VISIBLE",
-			"form": {
-				"item_id": "MLA817990356",
-				"context": "pdp"
-			},
-			"actions": [{
-				"type": "primary",
-				"target": "meli://checkoutv2/MLA817990356?quantity=1&context=pdp",
-				"label": {
-					"text": "Comprar ahora"
-				},
-				"disabled": false,
-				"action_type": "BUY_NOW"
-			}]
-		}
-	}, {
-		"id": "MLA795527379",
-		"type": "seller_item",
-		"product_condition": {
-			"title": "92 vendidos | 137 disponibles",
-			"status": "Nuevo"
-		},
-		"price": {
-			"id": "price",
-			"type": "price",
-			"state": "VISIBLE",
-			"price": {
-				"type": "price",
-				"value": 13999,
-				"original_value": 18999,
-				"currency_symbol": "$"
-			},
-			"discount_label": {
-				"text": "26% OFF",
-				"color": "GREEN"
-			}
-		},
-		"summary_list": {
-			"id": "summary_list",
-			"type": "summary_list",
-			"bullet": "•",
-			"list": [{
-				"text": "Pagá en 18 cuotas sin interés",
-				"color": "GREEN"
-			}, {
-				"text": "Envío gratis a todo el país",
-				"color": "GREEN"
-			}]
-		},
-		"seller": {
-			"id": "seller",
-			"type": "seller",
-			"state": "VISIBLE",
-			"title": "Vendido por",
-			"title_value": "OVERHARD DIGITAL",
-			"subtitles": [{
-				"text": "44.800 Ventas en los últimos 4 meses",
-				"color": "GRAY",
-				"font_size": "XXSMALL"
-			}, {
-				"text": "Este vendedor hace Factura A",
-				"color": "GRAY",
-				"font_size": "XXSMALL"
-			}],
-			"seller": {
-				"id": 174556876,
-				"name": "OVERHARD DIGITAL",
-				"reputation_level": "5_green"
-			},
-			"seller_info": {
-				"header": "Información del vendedor",
-				"title": "OVERHARD DIGITAL",
-				"subtitles": [],
-				"power_seller_status": {
-					"title": "MercadoLíder Platinum",
-					"subtitle": "¡Es uno de los mejores del sitio!"
-				},
-				"thermometer": {
-					"rank": 5,
-					"info": [{
-						"title": "44800",
-						"subtitle": "Ventas en los últimos 4 meses"
-					}, {
-						"icon": {
-							"id": "REP_SELLER_ATTENTION_GOOD"
-						},
-						"subtitle": "Brinda buena atención"
-					}, {
-						"icon": {
-							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
-						},
-						"subtitle": "Despacha sus productos a tiempo"
-					}]
-				},
-				"extra_info": [{
-					"title": "Ubicación",
-					"subtitle": "Villa Crespo, Capital Federal"
-				}, {
-					"title": "Facturación",
-					"subtitle": "Este vendedor hace Factura A"
-				}]
-			},
-			"show_seller_logo": false
-		},
-		"main_actions": {
-			"id": "main_actions",
-			"type": "main_actions",
-			"state": "VISIBLE",
-			"form": {
-				"item_id": "MLA795527379",
-				"context": "pdp"
-			},
-			"actions": [{
-				"type": "primary",
-				"target": "meli://checkoutv2/MLA795527379?quantity=1&context=pdp",
-				"label": {
-					"text": "Comprar ahora"
-				},
-				"disabled": false,
-				"action_type": "BUY_NOW"
-			}]
+
 		}
 	}],
 	"track": {
