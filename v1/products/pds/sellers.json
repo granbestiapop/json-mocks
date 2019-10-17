@@ -1,0 +1,1640 @@
+{
+	"components": [{
+		"id": "pds_header",
+		"type": "pds_header",
+		"title": "Motorola G7 Power 32 GB Iced violet gradient",
+		"picture": {
+			"id": "738713-MLA31002678499_062019"
+		},
+		"action": {
+			"target": "https://www.mercadolibre.com.ar/p/MLA14036456",
+			"label": {
+				"text": "Ver producto"
+			}
+		},
+		"available_quantity": {
+			"id": "available_quantity",
+			"type": "available_quantity",
+			"state": "VISIBLE",
+			"picker": {
+				"title": "Cant.",
+				"selected": 1
+			},
+			"quantity_selector": {
+				"type": "drop_down_list",
+				"open_title": "Elegí cantidad",
+				"open_subtitle": "230 disponibles",
+				"label": {
+					"singular": "{quantity} unidad",
+					"plural": "{quantity} unidades"
+				},
+				"confirm_button": "Confirmar",
+				"max": 230,
+				"more": "Más de 6 unidades",
+				"length": 6,
+				"no_stock_message": {
+					"text": "Sin stock",
+					"color": "RED"
+				},
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/sellers/quantity_change",
+						"event_data": {
+							"catalog_product_id": "MLA14036456",
+							"quantity": 1,
+							"available_quantity": 230
+						}
+					}
+				}
+			}
+		},
+		"variations": {
+			"id": "variations",
+			"type": "variations",
+			"state": "VISIBLE",
+			"modal_type": "LIST",
+			"pickers": [{
+				"id": "INTERNAL_MEMORY",
+				"title": {
+					"text": "Elegí qué Memoria interna querés",
+					"color": "BLACK"
+				},
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Memoria interna:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "32 GB",
+					"color": "BLACK"
+				},
+				"products": [{
+					"id": "MLA14036456",
+					"label": {
+						"text": "32 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLA14036454",
+					"label": {
+						"text": "64 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036454",
+								"picker_id": "INTERNAL_MEMORY",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}]
+			}, {
+				"id": "IS_DUAL_SIM",
+				"title": {
+					"text": "Elegí qué Es Dual SIM querés",
+					"color": "BLACK"
+				},
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Es Dual SIM:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "No",
+					"color": "BLACK"
+				},
+				"products": [{
+					"id": "MLA14036456",
+					"label": {
+						"text": "No",
+						"color": "BLACK"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"picker_id": "IS_DUAL_SIM",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLA14036461",
+					"label": {
+						"text": "Sí",
+						"color": "BLACK"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036461",
+								"picker_id": "IS_DUAL_SIM",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}]
+			}, {
+				"id": "RAM",
+				"title": {
+					"text": "Elegí qué Memoria RAM querés",
+					"color": "BLACK"
+				},
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Memoria RAM:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "3 GB",
+					"color": "BLACK"
+				},
+				"products": [{
+					"id": "MLA14036456",
+					"label": {
+						"text": "3 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"picker_id": "RAM",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLA14036454",
+					"label": {
+						"text": "4 GB",
+						"color": "BLACK"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036454",
+								"picker_id": "RAM",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}]
+			}, {
+				"id": "COLOR",
+				"title": {
+					"text": "Elegí qué Color querés",
+					"color": "BLACK"
+				},
+				"has_details": false,
+				"disabled": false,
+				"label": {
+					"text": "Color:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "Iced violet gradient",
+					"color": "BLACK"
+				},
+				"thumbnail": {
+					"id": "871779-MLA31002756354_062019"
+				},
+				"products": [{
+					"id": "MLA14036452",
+					"label": {
+						"text": "Ceramic black",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "647334-MLA31182668962_062019"
+					},
+					"decoration_type": "BLOCKED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036452",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					},
+					"disabled_text": "Sin stock"
+				}, {
+					"id": "MLA14036456",
+					"label": {
+						"text": "Iced violet gradient",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "871779-MLA31002756354_062019"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036456",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					}
+				}, {
+					"id": "MLA14036455",
+					"label": {
+						"text": "Marine blue",
+						"color": "BLACK"
+					},
+					"picture": {
+						"id": "765402-MLA31002760335_062019"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/sellers/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLA14036455",
+								"picker_id": "COLOR",
+								"picker_disabled": false
+							}
+						}
+					}
+				}]
+			}],
+			"title": {
+				"text": "Elige otra versión"
+			},
+			"picture_config": {
+				"template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.jpg",
+				"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.jpg",
+				"template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.jpg",
+				"template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg",
+				"template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg"
+			},
+			"apply_action": {
+				"id": "MLA14036456",
+				"label": {
+					"text": "Aplicar"
+				}
+			}
+		}
+	}, {
+		"id": "MLA811613518",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "7 vendidos | 137 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 12399,
+				"currency_symbol": "$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "OVERHARD DIGITAL",
+			"subtitles": [{
+				"text": "44.800 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 174556876,
+				"name": "OVERHARD DIGITAL",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "OVERHARD DIGITAL",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "44800",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Villa Crespo, Capital Federal"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA811613518",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA811613518?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLA811613518-1&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false,
+				"action_type": "ADD_TO_CART"
+			}]
+		}
+	}, {
+		"id": "MLA820330273",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "6 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 12489,
+				"currency_symbol": "$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "TECHCEL SA",
+			"subtitles": [{
+				"text": "2.244 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 243450833,
+				"name": "TECHCEL SA",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "TECHCEL SA",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "2244",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Beccar, Buenos Aires"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA820330273",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA820330273?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLA820330273-1&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false,
+				"action_type": "ADD_TO_CART"
+			}]
+		}
+	}, {
+		"id": "MLA819311914",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "1 vendido | 230 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 12999,
+				"currency_symbol": "$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "Mall 360",
+			"subtitles": [{
+				"text": "Tienda oficial de Mercado Libre",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "9.707 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 256189964,
+				"official_store_id": 1372,
+				"name": "Mall 360",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "Mall 360",
+				"subtitles": [{
+					"text": "Tienda oficial de Mercado Libre",
+					"color": "GRAY",
+					"font_size": "XXSMALL"
+				}],
+				"logo": "https://http2.mlstatic.com/D_Q_NP_980269-MLA26700254444_012018-G.jpg",
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "9707",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": []
+			},
+			"show_seller_logo": true
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA819311914",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA819311914?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLA819311914-1&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false,
+				"action_type": "ADD_TO_CART"
+			}]
+		}
+	}, {
+		"id": "MLA807148195",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "3 vendidos | 137 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 12999,
+				"original_value": 19999,
+				"currency_symbol": "$"
+			},
+			"discount_label": {
+				"text": "35% OFF",
+				"color": "GREEN"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "OVERHARD DIGITAL",
+			"subtitles": [{
+				"text": "44.800 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 174556876,
+				"name": "OVERHARD DIGITAL",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "OVERHARD DIGITAL",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "44800",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Villa Crespo, Capital Federal"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA807148195",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA807148195?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLA807148195-1&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false,
+				"action_type": "ADD_TO_CART"
+			}]
+		}
+	}, {
+		"id": "MLA813100362",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "40 vendidos | 6 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 13299,
+				"currency_symbol": "$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en hasta 12 cuotas",
+				"color": "BLACK"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "PETENATTIHOGAR",
+			"subtitles": [{
+				"text": "3.554 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 256263226,
+				"name": "PETENATTIHOGAR",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "PETENATTIHOGAR",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "3554",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Elortondo, Santa Fe"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA813100362",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA813100362?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLA813100362-1&context=pdp",
+				"label": {
+					"text": "Agregar al carrito"
+				},
+				"disabled": false,
+				"action_type": "ADD_TO_CART"
+			}]
+		}
+	}, {
+		"id": "MLA810735382",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "175 vendidos | 137 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 13899,
+				"original_value": 19999,
+				"currency_symbol": "$"
+			},
+			"discount_label": {
+				"text": "30% OFF",
+				"color": "GREEN"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en 12 cuotas sin interés",
+				"color": "GREEN"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "OVERHARD DIGITAL2",
+			"subtitles": [{
+				"text": "16.650 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 451633924,
+				"name": "OVERHARD DIGITAL2",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "OVERHARD DIGITAL2",
+				"subtitles": [],
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "16650",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Villa Crespo, Capital Federal"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA810735382",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA810735382?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}]
+		}
+	}, {
+		"id": "MLA804514532",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "17 vendidos | 10 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 13998,
+				"original_value": 25933.5,
+				"currency_symbol": "$"
+			},
+			"discount_label": {
+				"text": "46% OFF",
+				"color": "GREEN"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en 12 cuotas sin interés",
+				"color": "GREEN"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "TECHCEL SA12",
+			"subtitles": [{
+				"text": "1.470 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 452608891,
+				"name": "TECHCEL SA12",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "TECHCEL SA12",
+				"subtitles": [],
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "1470",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "San Isidro, Buenos Aires"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA804514532",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA804514532?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}]
+		}
+	}, {
+		"id": "MLA819139371",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "10 vendidos | 33 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 13999,
+				"currency_symbol": "$"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en 12 cuotas sin interés",
+				"color": "GREEN"
+			}, {
+				"text": "Retiro gratis en local de Walmart Argentina",
+				"color": "GREEN"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "Walmart Argentina",
+			"subtitles": [{
+				"text": "Tienda oficial de Mercado Libre",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "2.426 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 453041765,
+				"official_store_id": 176,
+				"name": "Walmart Argentina",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "Walmart Argentina",
+				"subtitles": [{
+					"text": "Tienda oficial de Mercado Libre",
+					"color": "GRAY",
+					"font_size": "XXSMALL"
+				}],
+				"logo": "https://http2.mlstatic.com/D_Q_NP_960318-MLA25808884281_072017-G.jpg",
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "2426",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": []
+			},
+			"show_seller_logo": true
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA819139371",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA819139371?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}]
+		}
+	}, {
+		"id": "MLA817990356",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "9 vendidos | 137 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 13999,
+				"original_value": 19999,
+				"currency_symbol": "$"
+			},
+			"discount_label": {
+				"text": "30% OFF",
+				"color": "GREEN"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en 18 cuotas sin interés",
+				"color": "GREEN"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "OVERHARD DIGITAL",
+			"subtitles": [{
+				"text": "44.800 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 174556876,
+				"name": "OVERHARD DIGITAL",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "OVERHARD DIGITAL",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "44800",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Villa Crespo, Capital Federal"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA817990356",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA817990356?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}]
+		}
+	}, {
+		"id": "MLA795527379",
+		"type": "seller_item",
+		"product_condition": {
+			"title": "92 vendidos | 137 disponibles",
+			"status": "Nuevo"
+		},
+		"price": {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 13999,
+				"original_value": 18999,
+				"currency_symbol": "$"
+			},
+			"discount_label": {
+				"text": "26% OFF",
+				"color": "GREEN"
+			}
+		},
+		"summary_list": {
+			"id": "summary_list",
+			"type": "summary_list",
+			"bullet": "•",
+			"list": [{
+				"text": "Pagá en 18 cuotas sin interés",
+				"color": "GREEN"
+			}, {
+				"text": "Envío gratis a todo el país",
+				"color": "GREEN"
+			}]
+		},
+		"seller": {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "OVERHARD DIGITAL",
+			"subtitles": [{
+				"text": "44.800 Ventas en los últimos 4 meses",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}, {
+				"text": "Este vendedor hace Factura A",
+				"color": "GRAY",
+				"font_size": "XXSMALL"
+			}],
+			"seller": {
+				"id": 174556876,
+				"name": "OVERHARD DIGITAL",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Información del vendedor",
+				"title": "OVERHARD DIGITAL",
+				"subtitles": [],
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "¡Es uno de los mejores del sitio!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "44800",
+						"subtitle": "Ventas en los últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Brinda buena atención"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Despacha sus productos a tiempo"
+					}]
+				},
+				"extra_info": [{
+					"title": "Ubicación",
+					"subtitle": "Villa Crespo, Capital Federal"
+				}, {
+					"title": "Facturación",
+					"subtitle": "Este vendedor hace Factura A"
+				}]
+			},
+			"show_seller_logo": false
+		},
+		"main_actions": {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLA795527379",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLA795527379?quantity=1&context=pdp",
+				"label": {
+					"text": "Comprar ahora"
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}]
+		}
+	}],
+	"track": {
+		"melidata_event": {
+			"path": "/pdp/sellers",
+			"event_data": {
+				"catalog_parent_id": "MLA14036451",
+				"catalog_product_id": "MLA14036456",
+				"vertical": "core",
+				"domain_id": "MLA-CELLPHONES",
+				"review_rate": 4,
+				"loyalty_level": 1,
+				"pickers": {
+					"INTERNAL_MEMORY": [{
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036454",
+						"selected": false,
+						"disabled": false
+					}],
+					"COLOR": [{
+						"catalog_product_id": "MLA14036452",
+						"selected": false,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036455",
+						"selected": false,
+						"disabled": false
+					}],
+					"IS_DUAL_SIM": [{
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036461",
+						"selected": false,
+						"disabled": false
+					}],
+					"RAM": [{
+						"catalog_product_id": "MLA14036456",
+						"selected": true,
+						"disabled": false
+					}, {
+						"catalog_product_id": "MLA14036454",
+						"selected": false,
+						"disabled": false
+					}]
+				},
+				"items": [{
+					"item_id": "MLA811613518",
+					"price": 12399,
+					"currency_id": "ARS",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 7,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 174556876,
+					"seller_name": "OVERHARD DIGITAL",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA820330273",
+					"price": 12489,
+					"currency_id": "ARS",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 0,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 243450833,
+					"seller_name": "TECHCEL SA",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA819311914",
+					"price": 12999,
+					"currency_id": "ARS",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 1,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 256189964,
+					"seller_name": "Mall 360",
+					"official_store_id": 1372,
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA807148195",
+					"price": 12999,
+					"original_price": 19999,
+					"currency_id": "ARS",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 3,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 174556876,
+					"seller_name": "OVERHARD DIGITAL",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA813100362",
+					"price": 13299,
+					"currency_id": "ARS",
+					"installment_info": "12",
+					"item_condition": "new",
+					"sold_quantity": 40,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 256263226,
+					"seller_name": "PETENATTIHOGAR",
+					"cart_content": true,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA810735382",
+					"price": 13899,
+					"original_price": 19999,
+					"currency_id": "ARS",
+					"installment_info": "12f",
+					"item_condition": "new",
+					"sold_quantity": 175,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 451633924,
+					"seller_name": "OVERHARD DIGITAL2",
+					"cart_content": false,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA804514532",
+					"price": 13998,
+					"original_price": 25933.5,
+					"currency_id": "ARS",
+					"installment_info": "12f",
+					"item_condition": "new",
+					"sold_quantity": 17,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 452608891,
+					"seller_name": "TECHCEL SA12",
+					"cart_content": false,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA819139371",
+					"price": 13999,
+					"currency_id": "ARS",
+					"installment_info": "12f",
+					"item_condition": "new",
+					"sold_quantity": 10,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": true,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 453041765,
+					"seller_name": "Walmart Argentina",
+					"official_store_id": 176,
+					"cart_content": false,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA817990356",
+					"price": 13999,
+					"original_price": 19999,
+					"currency_id": "ARS",
+					"installment_info": "18f",
+					"item_condition": "new",
+					"sold_quantity": 9,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 174556876,
+					"seller_name": "OVERHARD DIGITAL",
+					"cart_content": false,
+					"has_full_filment": false
+				}, {
+					"item_id": "MLA795527379",
+					"price": 13999,
+					"original_price": 18999,
+					"currency_id": "ARS",
+					"installment_info": "18f",
+					"item_condition": "new",
+					"sold_quantity": 92,
+					"shipping_conditions": "free_mandatory",
+					"pushing_puis": false,
+					"showing_puis": false,
+					"bo_pick_up_conditions": "no_bo_pick_up",
+					"seller_id": 174556876,
+					"seller_name": "OVERHARD DIGITAL",
+					"cart_content": false,
+					"has_full_filment": false
+				}]
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"page": "SELLERS/",
+			"custom_dimensions": {
+				"130": "MLA14036456",
+				"19": "gold_pro",
+				"3": "{'MLA1051':'Celulares y Teléfonos'}",
+				"4": "{'MLA1051':'Celulares y Teléfonos','MLA1055':'Celulares y Smartphones'}",
+				"86": "MLA-CELLPHONES",
+				"7": "MARKETPLACE",
+				"39": "active",
+				"119": "174556876,243450833,256189964,174556876,256263226,451633924,452608891,453041765,174556876,174556876",
+				"8": "core",
+				"120": "OVERHARD DIGITAL,TECHCEL SA,Mall 360,OVERHARD DIGITAL,PETENATTIHOGAR,OVERHARD DIGITAL2,TECHCEL SA12,Walmart Argentina,OVERHARD DIGITAL,OVERHARD DIGITAL",
+				"72": "5_green,5_green,5_green,5_green,5_green,5_green,5_green,5_green,5_green,5_green",
+				"63": "1"
+			}
+		}
+	},
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+		"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+		"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+	},
+	"pager": {
+		"next_page": 2,
+		"track": {
+			"melidata_event": {
+				"path": "/pdp/sellers/page_selection",
+				"event_data": {
+					"catalog_product_id": "MLA14036456",
+					"selected_quantity": 1,
+					"selected_page": 1,
+					"total_pages": 2,
+					"total_items": 16
+				}
+			}
+		}
+	}
+}
