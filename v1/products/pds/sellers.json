@@ -316,7 +316,7 @@
 				"text": "Sólo 12 disponibles",
 				"color": "RED",
 				"font_family": "semibold",
-				"font_size": "xsmall"
+				"font_size": "xxsmall"
 			},
 			"status": "Nuevo"
 		},
