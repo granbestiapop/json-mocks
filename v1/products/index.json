@@ -1,22 +1,64 @@
 {
-"cases":[
-  {
-    "id": "price_1",
-    "name": "Price 1",
-    "description": "",
-    "test": "price"
-  },
+  "cases": [
     {
-    "id": "price_2",
-    "name": "Price 2",
-    "description": "",
-    "test": "price"
-  },
+      "id": "price_1",
+      "name": "Price 1",
+      "description": "Price con descuento por loyalty, con copa",
+      "test": "price"
+    },
     {
-    "id": "price_3",
-    "name": "Price 3",
-    "description": "",
-    "test": "price"
-  }
-]
+      "id": "price_2",
+      "name": "Price 2",
+      "description": "Price con descuento sin loyalty, sin copa",
+      "test": "price"
+    },
+    {
+      "id": "price_3",
+      "name": "Price 3",
+      "description": "Price con doble precio, classi",
+      "test": "price"
+    },
+    {
+      "id": "price_4",
+      "name": "Price 4",
+      "description": "Price con presupuesto",
+      "test": "price"
+    },
+    {
+      "id": "price_5",
+      "name": "Price 5",
+      "description": "Price con Desde",
+      "test": "price"
+    },
+    {
+      "id": "price_6",
+      "name": "Price 6",
+      "description": "Price con precio a convenir",
+      "test": "price"
+    },
+    {
+      "id": "price_7",
+      "name": "Price 7",
+      "description": "Price con precio a convenir a dos lineas",
+      "test": "price"
+    },
+    {
+      "id": "price_8",
+      "name": "Price 8",
+      "description": "Price con venta a granel, con label de unidad",
+      "test": "price"
+    },
+    {
+      "id": "price_9",
+      "name": "Price 9",
+      "description": "Price con subtitulos",
+      "test": "price"
+    },
+    {
+      "id": "price_10",
+      "name": "Price 10",
+      "description": "Price con precios de referencia",
+      "test": "price"
+    }
+  ]
 }
