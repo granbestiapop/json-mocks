@@ -1,0 +1,1697 @@
+{
+	"id": "MLA6282512",
+	"components": [
+	  {
+		"id": "header",
+		"type": "header",
+		"title": "Apple iPhone 6s 32 GB Gris espacial",
+		"subtitle": "Nuevo  |  2 vendidos",
+		"reviews": {
+		  "rating": 4.6,
+		  "amount": 692,
+		  "action": {},
+		  "title": "Opiniones sobre Apple iPhone 6s"
+		}
+	  },
+	  {
+		"id": "gallery",
+		"type": "gallery",
+		"picture_config": {
+		  "template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.webp",
+		  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.webp",
+		  "template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.webp",
+		  "template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/xxhdpi/{id}.png"
+		},
+		"pictures": [
+		  {
+			"id": "898290-MLA31003118647_062019",
+			"alt": "Apple iPhone 6s 32 GB Gris espacial",
+			"width": 536,
+			"height": 1064
+		  },
+		  {
+			"id": "720331-MLA31003091177_062019",
+			"alt": "Apple iPhone 6s 32 GB Gris espacial",
+			"width": 536,
+			"height": 1064
+		  },
+		  {
+			"id": "942315-MLA31183201450_062019",
+			"alt": "Apple iPhone 6s 32 GB Gris espacial",
+			"width": 552,
+			"height": 1200
+		  },
+		  {
+			"id": "936731-MLA31182301428_062019",
+			"alt": "Apple iPhone 6s 32 GB Gris espacial",
+			"width": 583,
+			"height": 1169
+		  }
+		]
+	  },
+	  {
+		"id": "variations",
+		"type": "variations",
+		"state": "VISIBLE",
+		"modal_type": "FULL",
+		"pickers": [
+		  {
+			"id": "INTERNAL_MEMORY",
+			"has_details": false,
+			"disabled": false,
+			"label": {
+			  "text": "Memoria interna:",
+			  "color": "GRAY"
+			},
+			"selected_option": {
+			  "text": "32 GB",
+			  "color": "BLACK"
+			},
+			"products": [
+			  {
+				"id": "MLA6127577",
+				"label": {
+				  "text": "128 GB",
+				  "color": "BLACK"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6127577",
+					  "picker_id": "INTERNAL_MEMORY",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "INTERNAL_MEMORY-128 GB"
+				  }
+				},
+				"disabled_text": "Sin stock"
+			  },
+			  {
+				"id": "MLA6127569",
+				"label": {
+				  "text": "16 GB",
+				  "color": "BLACK"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6127569",
+					  "picker_id": "INTERNAL_MEMORY",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "INTERNAL_MEMORY-16 GB"
+				  }
+				},
+				"disabled_text": "Sin stock"
+			  },
+			  {
+				"id": "MLA6282512",
+				"label": {
+				  "text": "32 GB",
+				  "color": "BLACK"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6282512",
+					  "picker_id": "INTERNAL_MEMORY",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "INTERNAL_MEMORY-32 GB"
+				  }
+				}
+			  },
+			  {
+				"id": "MLA6127573",
+				"label": {
+				  "text": "64 GB",
+				  "color": "BLACK"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6127573",
+					  "picker_id": "INTERNAL_MEMORY",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "INTERNAL_MEMORY-64 GB"
+				  }
+				},
+				"disabled_text": "Sin stock"
+			  }
+			]
+		  },
+		  {
+			"id": "COLOR",
+			"has_details": true,
+			"disabled": false,
+			"label": {
+			  "text": "Color:",
+			  "color": "GRAY"
+			},
+			"selected_option": {
+			  "text": "Gris espacial",
+			  "color": "BLACK"
+			},
+			"thumbnail": {
+			  "id": "720331-MLA31003091177_062019"
+			},
+			"products": [
+			  {
+				"id": "MLA6282512",
+				"label": {
+				  "text": "Gris espacial",
+				  "color": "BLACK"
+				},
+				"picture": {
+				  "id": "720331-MLA31003091177_062019"
+				},
+				"decoration_type": "SELECTED",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6282512",
+					  "picker_id": "COLOR",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "COLOR-Gris espacial"
+				  }
+				}
+			  },
+			  {
+				"id": "MLA6282514",
+				"label": {
+				  "text": "Oro",
+				  "color": "BLACK"
+				},
+				"picture": {
+				  "id": "815249-MLA31003091179_062019"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6282514",
+					  "picker_id": "COLOR",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "COLOR-Oro"
+				  }
+				},
+				"disabled_text": "Sin stock"
+			  },
+			  {
+				"id": "MLA6282515",
+				"label": {
+				  "text": "Oro rosa",
+				  "color": "BLACK"
+				},
+				"picture": {
+				  "id": "613928-MLA31003080192_062019"
+				},
+				"decoration_type": "NONE",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6282515",
+					  "picker_id": "COLOR",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "COLOR-Oro rosa"
+				  }
+				}
+			  },
+			  {
+				"id": "MLA6282513",
+				"label": {
+				  "text": "Plata",
+				  "color": "BLACK"
+				},
+				"picture": {
+				  "id": "911133-MLA31003000836_062019"
+				},
+				"decoration_type": "BLOCKED",
+				"track": {
+				  "melidata_event": {
+					"path": "/pdp/picker_selection",
+					"event_data": {
+					  "catalog_product_id": "MLA6282513",
+					  "picker_id": "COLOR",
+					  "picker_disabled": false
+					}
+				  },
+				  "analytics_event": {
+					"section": "/PDP/",
+					"action": "PICKER_SELECTION",
+					"category": "PDP",
+					"label": "COLOR-Plata"
+				  }
+				},
+				"disabled_text": "Sin stock"
+			  }
+			]
+		  }
+		],
+		"title": {
+		  "text": "Elige otra versión"
+		},
+		"picture_config": {
+		  "template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.webp",
+		  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.webp",
+		  "template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.webp",
+		  "template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.webp",
+		  "template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.webp"
+		},
+		"apply_action": {
+		  "id": "MLA6282512",
+		  "label": {
+			"text": "Aplicar"
+		  }
+		}
+	  },
+	  {
+		"id": "price",
+		"type": "price",
+		"price": {
+		  "label": {
+			"text": "Precio a convenir",
+			"color": "BLACK"
+		  },
+		  "value": 5400,
+		  "original_value": 2700,
+		  "currency_symbol": "$"
+		},
+		"discount_label": {
+		  "text": "50% OFF",
+		  "color": "GREEN",
+		  "text_icon": {
+			"id": "loyalty_points",
+			"color": "GREEN"
+		  }
+		}
+	  },
+	  {
+		"id": "no_stock_status",
+		"type": "warning_message",
+		"state": "HIDDEN"
+	  },
+	  {
+		"id": "stock_information",
+		"type": "stock_information",
+		"state": "HIDDEN"
+	  },
+	  {
+		"id": "payment_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+		  "text": "Pagá en 6 cuotas sin interés",
+		  "color": "GREEN"
+		},
+		"icon": {
+		  "id": "CARD",
+		  "color": "GREEN"
+		},
+		"subtitles": [],
+		"icons": [
+		  {
+			"id": "visa",
+			"size": "small"
+		  },
+		  {
+			"id": "master",
+			"size": "small"
+		  },
+		  {
+			"id": "amex",
+			"size": "small"
+		  }
+		],
+		"action": {
+		  "target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA817173591%2Fpayments%3Fwebview%3Dtrue",
+		  "label": {
+			"text": "Más información"
+		  },
+		  "modal_title": "Medios de pago"
+		}
+	  },
+	  {
+		"id": "shipping_summary",
+		"type": "generic_summary",
+		"state": "VISIBLE",
+		"title": {
+		  "text": "Envío gratis a todo el país",
+		  "color": "GREEN"
+		},
+		"icon": {
+		  "id": "TRUCK",
+		  "color": "GREEN"
+		},
+		"subtitles": [
+		  {
+			"text": "Conocé los tiempos y las formas de envío."
+		  }
+		],
+		"action": {
+		  "target": "meli://address_hub/",
+		  "label": {
+			"text": "Calcular cuándo llega"
+		  },
+		  "icon": {
+			"id": "LOCATION",
+			"color": "BLUE"
+		  }
+		}
+	  },
+	  {
+		"id": "pick_up_summary",
+		"type": "generic_summary",
+		"state": "HIDDEN"
+	  },
+	  {
+		"id": "seller",
+		"type": "seller",
+		"state": "VISIBLE",
+		"title": "Vendido por",
+		"title_value": "VANICIRILLO",
+		"subtitles": [],
+		"seller": {
+		  "id": 149292411,
+		  "name": "VANICIRILLO",
+		  "reputation_level": "5_green"
+		},
+		"seller_info": {
+		  "header": "Información del vendedor",
+		  "title": "VANICIRILLO",
+		  "subtitles": [],
+		  "thermometer": {
+			"rank": 5,
+			"info": [
+			  {
+				"title": "71",
+				"subtitle": "Ventas en los últimos 5 años"
+			  },
+			  {
+				"icon": {
+				  "id": "REP_SELLER_ATTENTION_GOOD"
+				},
+				"subtitle": "Brinda buena atención"
+			  },
+			  {
+				"icon": {
+				  "id": "REP_SELLER_DELIVERY_TIME_GOOD"
+				},
+				"subtitle": "Despacha sus productos a tiempo"
+			  }
+			]
+		  },
+		  "extra_info": [
+			{
+			  "title": "Ubicación",
+			  "subtitle": "San Fernando, Buenos Aires"
+			},
+			{
+			  "title": "Garantía del vendedor",
+			  "subtitle": "6 meses."
+			}
+		  ]
+		},
+		"show_seller_logo": false
+	  },
+	  {
+		"id": "available_quantity",
+		"type": "available_quantity",
+		"state": "VISIBLE",
+		"picker": {
+		  "title": "Cantidad:",
+		  "selected": 1,
+		  "description": "(8 disponibles)"
+		},
+		"quantity_selector": {
+		  "type": "drop_down_list",
+		  "open_title": "Elegí cantidad",
+		  "open_subtitle": "8 disponibles",
+		  "label": {
+			"singular": "{quantity} unidad",
+			"plural": "{quantity} unidades"
+		  },
+		  "confirm_button": "Confirmar",
+		  "max": 8,
+		  "more": "Más de 6 unidades",
+		  "length": 6,
+		  "no_stock_message": {
+			"text": "Sin stock",
+			"color": "RED"
+		  },
+		  "track": {
+			"melidata_event": {
+			  "path": "/pdp/quantity_change",
+			  "event_data": {
+				"catalog_product_id": "MLA6282512",
+				"item_id": "MLA817173591",
+				"seller_id": 149292411,
+				"seller_name": "VANICIRILLO",
+				"quantity": 1
+			  }
+			}
+		  }
+		}
+	  },
+	  {
+		"id": "main_actions",
+		"type": "main_actions",
+		"state": "VISIBLE",
+		"form": {
+		  "item_id": "MLA817173591",
+		  "context": "pdp"
+		},
+		"actions": [
+		  {
+			"type": "primary",
+			"target": "meli://checkoutv2/MLA817173591?quantity={quantity}&context=pdp",
+			"label": {
+			  "text": "Comprar ahora"
+			},
+			"track": {
+			  "melidata_event": {
+				"path": "/pdp/buy_action",
+				"event_data": {
+				  "catalog_product_id": "MLA6282512",
+				  "item_id": "MLA817173591",
+				  "vertical": "core",
+				  "domain_id": "MLA-CELLPHONES",
+				  "review_rate": 4,
+				  "item_condition": "new",
+				  "listing_type_id": "gold_pro",
+				  "cart_content": true,
+				  "price": 35999,
+				  "currency_id": "ARS",
+				  "seller_id": 149292411,
+				  "seller_name": "VANICIRILLO",
+				  "reputation_level": "5_green",
+				  "power_seller_status": "silver",
+				  "installment_info": "6f",
+				  "free_shipping": true,
+				  "shipping_mode": "me2",
+				  "local_pick_up": false,
+				  "store_pick_up": false,
+				  "logistic_type": "drop_off",
+				  "shipping_conditions": "free_mandatory",
+				  "pushing_puis": false,
+				  "showing_puis": false,
+				  "bo_pick_up_conditions": "no_bo_pick_up",
+				  "loyalty_level": 1
+				}
+			  },
+			  "analytics_event": {
+				"section": "/PDP/",
+				"action": "BUY-INTENTION",
+				"category": "PDP",
+				"label": "MAIN_ACTION"
+			  }
+			},
+			"disabled": false,
+			"action_type": "BUY_NOW"
+		  },
+		  {
+			"type": "secondary",
+			"target": "meli://cart-congrats/recommendations?items=MLA817173591-{quantity}&context=pdp",
+			"label": {
+			  "text": "Agregar al carrito"
+			},
+			"track": {
+			  "melidata_event": {
+				"path": "/pdp/add_to_cart_action",
+				"event_data": {
+				  "catalog_product_id": "MLA6282512",
+				  "item_id": "MLA817173591",
+				  "vertical": "core",
+				  "domain_id": "MLA-CELLPHONES",
+				  "review_rate": 4,
+				  "item_condition": "new",
+				  "listing_type_id": "gold_pro",
+				  "cart_content": true,
+				  "price": 35999,
+				  "currency_id": "ARS",
+				  "seller_id": 149292411,
+				  "seller_name": "VANICIRILLO",
+				  "reputation_level": "5_green",
+				  "power_seller_status": "silver",
+				  "installment_info": "6f",
+				  "free_shipping": true,
+				  "shipping_mode": "me2",
+				  "local_pick_up": false,
+				  "store_pick_up": false,
+				  "logistic_type": "drop_off",
+				  "shipping_conditions": "free_mandatory",
+				  "pushing_puis": false,
+				  "showing_puis": false,
+				  "bo_pick_up_conditions": "no_bo_pick_up",
+				  "loyalty_level": 1
+				}
+			  },
+			  "analytics_event": {
+				"section": "/PDP/",
+				"action": "ADD-TO-CART",
+				"category": "PDP",
+				"label": "MAIN_ACTION"
+			  }
+			},
+			"disabled": false,
+			"action_type": "ADD_TO_CART"
+		  }
+		]
+	  },
+	  {
+		"id": "returns",
+		"type": "returns",
+		"state": "VISIBLE",
+		"title": {
+		  "text": "Devolución gratis",
+		  "color": "GREEN"
+		},
+		"icon": {
+		  "id": "RETURNS_ROUNDED",
+		  "color": "GREEN"
+		},
+		"subtitles": [
+		  {
+			"text": "Tenés 30 días desde que lo recibís",
+			"color": "GREEN"
+		  }
+		],
+		"action": {
+		  "target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA817173591%26quantity%3D1",
+		  "label": {
+			"text": "Conocer más",
+			"color": "BLUE"
+		  },
+		  "modal_title": "¿No te gusta? Devolvelo gratis"
+		},
+		"background_color": "LIGHT_GREEN"
+	  },
+	  {
+		"id": "buy_benefits",
+		"type": "buy_benefits",
+		"state": "VISIBLE",
+		"benefits": [
+		  {
+			"text": "<a href=\"meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Fcompra-protegida\" target=\"_blank\">Compra Protegida</a>, recib&iacute; el producto que esperabas o te devolvemos tu dinero.",
+			"icon": {
+			  "id": "PROTECTED_BUY",
+			  "color": "GRAY"
+			}
+		  },
+		  {
+			"text": "Sum&aacute;s 1799 Mercado Puntos.",
+			"icon": {
+			  "id": "LOYALTY_POINTS",
+			  "color": "GRAY"
+			}
+		  }
+		]
+	  },
+	  {
+		"id": "others_products",
+		"type": "others_products",
+		"state": "VISIBLE",
+		"products": [
+		  {
+			"title": {
+			  "text": "3 productos nuevos desde <b>$ 26.799</b>",
+			  "color": "BLACK"
+			},
+			"action": {
+			  "target": "meli://products/MLA6282512/sellers",
+			  "track": {
+				"melidata_event": {
+				  "path": "/pdp/other_buying_options",
+				  "event_data": {
+					"catalog_product_id": "MLA6282512",
+					"item_id": "MLA817173591",
+					"item_condition": "new",
+					"listing_type_id": "gold_pro",
+					"domain_id": "MLA-CELLPHONES",
+					"product_status": "active",
+					"seller_id": 149292411,
+					"seller_name": "VANICIRILLO",
+					"filter": "new"
+				  }
+				},
+				"analytics_event": {
+				  "section": "/PDP/",
+				  "action": "OTHER_BUYING_OPTIONS_NEW",
+				  "category": "PDP"
+				}
+			  }
+			}
+		  }
+		]
+	  },
+	  {
+		"id": "grouped_share_bookmark",
+		"type": "grouped_share_bookmark",
+		"components": [
+		  "bookmark",
+		  "share"
+		]
+	  },
+	  {
+		"id": "bbw_alternatives",
+		"type": "bbw_alternatives",
+		"state": "HIDDEN"
+	  },
+	  {
+		"id": "carousel_above",
+		"type": "carousel_above",
+		"state": "VISIBLE",
+		"carousels": [
+		  {
+			"title": "Quienes vieron este producto también compraron",
+			"recommendation_info": {
+			  "recommendations": [
+				{
+				  "quantity": 1,
+				  "id": "MLA795103987",
+				  "type": "HORIZONTAL",
+				  "thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_889712-MLA31250987430_062019-E.webp?square=true",
+				  "price": "$ 34.999",
+				  "description": "Samsung Galaxy S9 64 GB Negro medianoche",
+				  "action": "meli://products/MLA9100271/#&reco_item_pos=0&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=0c91ab87-fbc9-4cc7-9b7d-2808c566c9a4",
+				  "discount": "32% OFF",
+				  "free_shipping": true
+				},
+				{
+				  "quantity": 1,
+				  "id": "MLA801616914",
+				  "type": "HORIZONTAL",
+				  "thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_948813-MLA31003000773_062019-E.webp?square=true",
+				  "price": "$ 41.690",
+				  "description": "Apple iPhone 7 32 GB Oro",
+				  "action": "meli://products/MLA6240114/#&reco_item_pos=1&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=0c91ab87-fbc9-4cc7-9b7d-2808c566c9a4",
+				  "free_shipping": true
+				},
+				{
+				  "quantity": 1,
+				  "type": "ATF_VIEWMORE_PDP",
+				  "description": "Ver más publicaciones",
+				  "action": "meli://generic_landing?url=https%3A%2F%2Fwww.mercadolibre.com.ar%2Frecommendations-view%2Fget%3Fsite%3DMLA%26category%3DMLA1055%26item%3DMLA817173591%26user%3D-1%26product_id%3DMLA6282512%26limit%3D20%26client%3Dpdp-v2p&use_web_title=false"
+				}
+			  ],
+			  "carousel_type": "VERTICAL"
+			},
+			"footer": "Todos los precios están calculados en 1 pago",
+			"tracking": {
+			  "experiments": [],
+			  "event_data": {
+				"recommendations": {
+				  "recommendation_id": "0c91ab87-fbc9-4cc7-9b7d-2808c566c9a4",
+				  "backend_id": "machinalis-pdp",
+				  "client": "pdp-v2p",
+				  "track_info": {
+					"model_id": "product_to_product",
+					"model_version": "0.0.2+2060af0",
+					"train_date": "2019-09-24T09:08:18.487968",
+					"backend_id": "api.mercadolibre.com",
+					"has_recommendations": true,
+					"recommended_items": [
+					  {
+						"id": "MLA795103987",
+						"product_id": "MLA9100271"
+					  },
+					  {
+						"id": "MLA801616914",
+						"product_id": "MLA6240114"
+					  }
+					],
+					"trigger": {
+					  "trigger_type": "product",
+					  "item_info": {
+						"id": "MLA6282512",
+						"category_id": "MLA1055"
+					  }
+					}
+				  }
+				}
+			  }
+			}
+		  }
+		]
+	  },
+	  {
+		"id": "all_features",
+		"type": "all_features",
+		"state": "VISIBLE",
+		"main_features": {
+		  "title": "Características principales",
+		  "type": "LIST",
+		  "attributes": [
+			"Liberado",
+			"Procesador A9 con arquitectura de 64 bits - 2GB",
+			"Pantalla Retina LED IPS HD 4.7\" de 750 x 1334 pixeles",
+			"Cámara trasera 12MP f/2.2 - Cámara delantera 5MP",
+			"Sistema operativo iOS 11",
+			"Sensor de huellas digitales Touch ID"
+		  ]
+		},
+		"specs": [
+		  {
+			"title": "Información del producto",
+			"type": "STRIPED",
+			"attributes": [
+			  {
+				"id": "Marca",
+				"text": "Apple"
+			  },
+			  {
+				"id": "Línea",
+				"text": "iPhone"
+			  },
+			  {
+				"id": "Modelo",
+				"text": "iPhone 6s"
+			  },
+			  {
+				"id": "Es Dual SIM",
+				"text": "No"
+			  },
+			  {
+				"id": "Color",
+				"text": "Gris espacial"
+			  },
+			  {
+				"id": "Memoria interna",
+				"text": "32 GB"
+			  },
+			  {
+				"id": "Memoria RAM",
+				"text": "2 GB"
+			  }
+			]
+		  }
+		],
+		"action": {
+		  "target": "meli://products/MLA6282512/specifications",
+		  "label": {
+			"text": "Ver más características",
+			"color": "BLUE"
+		  }
+		},
+		"bullet": "•"
+	  },
+	  {
+		"id": "description",
+		"type": "description",
+		"state": "VISIBLE",
+		"title": "Descripción",
+		"content": "3D Touch, pantalla sensible a la presión.\nEs la nueva generación del mutitáctil, que además de interpretar gestos, ahora los nuevos iPhone 6s son capaces de interpretar grados de presión gracias a una pantalla Force Touch, capaz de distinguir entre mini toques y toques completos en pantalla con una diferencia de apenas milisegundos, clave para la experiencia de uso.\n\nCámara trasera de 12MP.\nEl iPhone 6s incluye una renovada cámara iSight de 12 megapíxeles con la que podremos grabar vídeo en resolución 4K.\n\nCámara delantera para selfies mejoradas.\nApple ha introducido su cámara de 5 megapíxeles en la parte frontal del equipo dedicando así el hardware a los amantes del selfie. El iPhone 6s ofrece Retina Flash, que no es otra cosa sino un pantallazo blanco que nos dará en nuestras tomas con menos luz hasta 3 veces más luz, a modo de flash pero utilizando la pantalla.\n\nNuevo procesador más potente, pequeño y eficiente.\nCon el coprocesador M9 dedicado al movimiento ahora integrado dentro del chipset de Apple, se ha conseguido reducir el espacio ocupado haciendo un módulo de procesamiento mucho más pequeño. Ahora bien, no hablaremos de una potencia menor, sino mayor rendimiento a todos los niveles.",
+		"max_pages": 1.5,
+		"action": {
+		  "label": {
+			"text": "Ver descripción completa"
+		  }
+		}
+	  },
+	  {
+		"id": "comparator_product",
+		"type": "comparator_product",
+		"state": "VISIBLE",
+		"tabs": [
+		  {
+			"attributes_list": [
+			  {
+				"id": "REVIEWS",
+				"title": "Opiniones",
+				"type": "reviews"
+			  },
+			  {
+				"id": "PRICE",
+				"title": "Precio",
+				"type": "price"
+			  },
+			  {
+				"id": "SELLER",
+				"title": "Vendedor",
+				"type": "link"
+			  },
+			  {
+				"id": "IS_DUAL_SIM",
+				"title": "Es Dual SIM",
+				"type": "standard"
+			  },
+			  {
+				"id": "COLOR",
+				"title": "Color",
+				"type": "standard"
+			  },
+			  {
+				"id": "INTERNAL_MEMORY",
+				"title": "Memoria interna",
+				"type": "standard"
+			  },
+			  {
+				"id": "RAM",
+				"title": "Memoria RAM",
+				"type": "standard"
+			  },
+			  {
+				"id": "WITH_ESIM",
+				"title": "Con eSIM",
+				"type": "standard"
+			  },
+			  {
+				"id": "OPERATING_SYSTEM_NAME",
+				"title": "Nombre del sistema operativo",
+				"type": "standard"
+			  },
+			  {
+				"id": "OPERATING_SYSTEM_VERSION",
+				"title": "Versión del sistema operativo",
+				"type": "standard"
+			  }
+			],
+			"recommended_products": [
+			  {
+				"id": "MLA6282512",
+				"status": "active",
+				"trigger": true,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA6282512/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=0&reco_backend_type=low_level&reco_id=f6e5cc72-4439-4f06-ad24-454043a17e72",
+				"name": "Apple iPhone 6s 32 GB Gris espacial",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_898290-MLA31003118647_062019-V.jpg",
+				"img_max_width": 536,
+				"img_max_height": 1064,
+				"item_id": "MLA817173591",
+				"parent_id": "MLA6127568",
+				"product_details": {
+				  "REVIEWS": {
+					"count_reviews": 692,
+					"rating_average": 4.6
+				  },
+				  "PRICE": {
+					"value": 35999,
+					"currency_symbol": "$",
+					"decimal_separator": ",",
+					"thousand_separator": "."
+				  },
+				  "SELLER": {
+					"link": "",
+					"id": "149292411",
+					"name": "VANICIRILLO"
+				  },
+				  "IS_DUAL_SIM": {
+					"text": "No"
+				  },
+				  "COLOR": {
+					"text": "Gris espacial"
+				  },
+				  "INTERNAL_MEMORY": {
+					"text": "32 GB"
+				  },
+				  "RAM": {
+					"text": "2 GB"
+				  },
+				  "WITH_ESIM": {
+					"text": "No"
+				  },
+				  "OPERATING_SYSTEM_NAME": {
+					"text": "iOS"
+				  },
+				  "OPERATING_SYSTEM_VERSION": {
+					"text": "9"
+				  }
+				}
+			  },
+			  {
+				"id": "MLA9127145",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA9127145/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=1&reco_backend_type=low_level&reco_id=f6e5cc72-4439-4f06-ad24-454043a17e72",
+				"name": "Samsung Galaxy Note8 64 GB Negro medianoche",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_991652-MLA31003118881_062019-V.jpg",
+				"img_max_width": 538,
+				"img_max_height": 1082,
+				"item_id": "MLA795059578",
+				"parent_id": "MLA9127144",
+				"product_details": {
+				  "REVIEWS": {
+					"count_reviews": 174,
+					"rating_average": 4.8
+				  },
+				  "PRICE": {
+					"value": 41999,
+					"currency_symbol": "$",
+					"decimal_separator": ",",
+					"thousand_separator": "."
+				  },
+				  "SELLER": {
+					"link": "",
+					"id": "172753273",
+					"name": "DEVENTAS_TECH_STORE"
+				  },
+				  "IS_DUAL_SIM": {
+					"text": "No"
+				  },
+				  "COLOR": {
+					"text": "Negro medianoche"
+				  },
+				  "INTERNAL_MEMORY": {
+					"text": "64 GB"
+				  },
+				  "RAM": {
+					"text": "6 GB"
+				  },
+				  "WITH_ESIM": {
+					"text": "No"
+				  },
+				  "OPERATING_SYSTEM_NAME": {
+					"text": "Android"
+				  },
+				  "OPERATING_SYSTEM_VERSION": {
+					"text": "7.1.1 Nougat"
+				  }
+				}
+			  },
+			  {
+				"id": "MLA14542813",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA14542813/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=2&reco_backend_type=low_level&reco_id=f6e5cc72-4439-4f06-ad24-454043a17e72",
+				"name": "Xiaomi Mi 9 Dual SIM 128 GB Ocean blue 6 GB RAM",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_635646-MLA31838701726_082019-V.jpg",
+				"img_max_width": 599,
+				"img_max_height": 1200,
+				"item_id": "MLA817785180",
+				"parent_id": "MLA14542807",
+				"product_details": {
+				  "REVIEWS": {
+					"count_reviews": 83,
+					"rating_average": 4.7
+				  },
+				  "PRICE": {
+					"value": 45699,
+					"currency_symbol": "$",
+					"decimal_separator": ",",
+					"thousand_separator": "."
+				  },
+				  "SELLER": {
+					"link": "",
+					"id": "110242209",
+					"name": "VEINTEDOCEPC"
+				  },
+				  "IS_DUAL_SIM": {
+					"text": "Sí"
+				  },
+				  "COLOR": {
+					"text": "Azul océano"
+				  },
+				  "INTERNAL_MEMORY": {
+					"text": "128 GB"
+				  },
+				  "RAM": {
+					"text": "6 GB"
+				  },
+				  "WITH_ESIM": {
+					"text": "No"
+				  },
+				  "OPERATING_SYSTEM_NAME": {
+					"text": "Android"
+				  },
+				  "OPERATING_SYSTEM_VERSION": {
+					"text": "9.0 Pie"
+				  }
+				}
+			  },
+			  {
+				"id": "MLA14906505",
+				"status": "active",
+				"trigger": false,
+				"site_id": "MLA",
+				"domain_id": "MLA-CELLPHONES",
+				"permalink": "meli://products/MLA14906505/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=3&reco_backend_type=low_level&reco_id=f6e5cc72-4439-4f06-ad24-454043a17e72",
+				"name": "Xiaomi Mi 9T Dual SIM 64 GB Azul glaciar 6 GB RAM",
+				"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_890561-MLA32133099070_092019-V.jpg",
+				"img_max_width": 597,
+				"img_max_height": 1200,
+				"item_id": "MLA815393968",
+				"parent_id": "MLA14906502",
+				"product_details": {
+				  "REVIEWS": {
+					"count_reviews": 69,
+					"rating_average": 4.8
+				  },
+				  "PRICE": {
+					"value": 30900,
+					"currency_symbol": "$",
+					"decimal_separator": ",",
+					"thousand_separator": "."
+				  },
+				  "SELLER": {
+					"link": "",
+					"id": "373330747",
+					"name": "XPIRIOS WORLD"
+				  },
+				  "IS_DUAL_SIM": {
+					"text": "Sí"
+				  },
+				  "COLOR": {
+					"text": "Azul glaciar"
+				  },
+				  "INTERNAL_MEMORY": {
+					"text": "64 GB"
+				  },
+				  "RAM": {
+					"text": "6 GB"
+				  },
+				  "WITH_ESIM": {
+					"text": "No"
+				  },
+				  "OPERATING_SYSTEM_NAME": {
+					"text": "Android"
+				  },
+				  "OPERATING_SYSTEM_VERSION": {
+					"text": "9.0 Pie"
+				  }
+				}
+			  }
+			],
+			"tracking": {
+			  "event_data": {
+				"recommendations": {
+				  "backend_id": "prod.recommendations-algorithm-product",
+				  "client": "pdp_comparator",
+				  "recommendation_id": "f6e5cc72-4439-4f06-ad24-454043a17e72",
+				  "track_info": {
+					"has_recommendations": true,
+					"backend_id": "prod.recommendations-algorithm-product",
+					"model_id": "products-different-parent",
+					"model_version": "V1",
+					"trigger": {
+					  "trigger_type": "product",
+					  "product": {
+						"id": "MLA6282512",
+						"status": "active",
+						"domain_id": "MLA-CELLPHONES",
+						"item_id": "MLA817173591",
+						"parent_id": "MLA6127568"
+					  }
+					},
+					"recommended_products": [
+					  {
+						"item_id": "MLA817173591",
+						"id": "MLA6282512"
+					  },
+					  {
+						"item_id": "MLA795059578",
+						"id": "MLA9127145"
+					  },
+					  {
+						"item_id": "MLA817785180",
+						"id": "MLA14542813"
+					  },
+					  {
+						"item_id": "MLA815393968",
+						"id": "MLA14906505"
+					  }
+					]
+				  }
+				}
+			  },
+			  "path": "/recommendations/print"
+			},
+			"title": "Compará con otros productos similares",
+			"labels": {
+			  "this_product": "(Este producto)",
+			  "see_product": "Ver producto",
+			  "more_details": "Ver más detalles",
+			  "tab": "Productos similares",
+			  "empty_column": "-"
+			},
+			"max_attribute_init": 6,
+			"priority": 1
+		  },
+		  {
+			"recommended_products": [],
+			"tracking": {
+			  "event_data": {
+				"recommendations": {
+				  "client": "pdp_comparator_navigation",
+				  "recommendation_id": "62cb3adc-2b90-47dc-8602-d38c226da0aa",
+				  "track_info": {
+					"has_recommendations": false,
+					"trigger": {
+					  "trigger_type": "product",
+					  "product": {
+						"id": "MLA6282512"
+					  }
+					},
+					"empty_result_cause": "RECOS_NOT_FOUND"
+				  }
+				}
+			  },
+			  "path": "/recommendations/print"
+			},
+			"labels": {
+			  "this_product": "(Este producto)",
+			  "see_product": "Ver producto",
+			  "more_details": "Ver más detalles",
+			  "tab": "Visitados recientemente",
+			  "empty_column": "-"
+			},
+			"max_attribute_init": 6,
+			"priority": 2
+		  }
+		]
+	  },
+	  {
+		"id": "reviews",
+		"type": "reviews",
+		"state": "VISIBLE",
+		"title": "Opiniones sobre Apple iPhone 6s",
+		"rating": "4.6",
+		"stars": "4.5",
+		"subtitle": "Promedio entre 692 opiniones",
+		"rating_levels": [
+		  {
+			"value": 522,
+			"percentage": 75,
+			"label": {
+			  "text": "5 estrellas"
+			}
+		  },
+		  {
+			"value": 124,
+			"percentage": 17,
+			"label": {
+			  "text": "4 estrellas"
+			}
+		  },
+		  {
+			"value": 22,
+			"percentage": 3,
+			"label": {
+			  "text": "3 estrellas"
+			}
+		  },
+		  {
+			"value": 4,
+			"percentage": 0,
+			"label": {
+			  "text": "2 estrellas"
+			}
+		  },
+		  {
+			"value": 20,
+			"percentage": 2,
+			"label": {
+			  "text": "1 estrella"
+			}
+		  }
+		],
+		"tabs": [
+		  {
+			"label": {
+			  "text": "Todas",
+			  "color": "BLACK"
+			},
+			"preview_reviews": [
+			  {
+				"id": 11419732,
+				"title": "Iphone 6s 32gb",
+				"content": "El equipo es de lo mejor que eh tenido,la sensacion que da en la palma de la mano es genial,a pesar de que es de 4. 7 pulgadas es genial,la bateria haciendo algunos ajustes me dura 24hs,si realmente estan dudando en comprarlo o no,yo recomiendo comprarlo a ojos cerrado,muy conforme !!!. \n. \nEl cargador original que trae,tarda bastante en cargarlo,solo compren el cargador del ipad 2. 1a y en 45 minutos lo tienen cargado al 100x100 y ademas dura mas la carga.",
+				"rate": 5,
+				"likes": 114,
+				"dislikes": 64
+			  },
+			  {
+				"id": 46811455,
+				"title": "Verdadero",
+				"version": "Oro rosa | 32 GB",
+				"content": "Perfecto! es original y nuevo.",
+				"rate": 5,
+				"likes": 0,
+				"dislikes": 0
+			  },
+			  {
+				"id": 42841914,
+				"title": "Cumplió las expectativas.",
+				"version": "Gris espacial | 16 GB",
+				"content": "El producto es muy bueno. Para los que usamos android, esto es como ascender a primera. La camara muy buena. La velocidad es genial, en todas las aplicaciones entra rápido, no se tilda. Lo que si la bateria no es muy durable. Creo que llegando la tarde/noche le tenes que dar una recarga.",
+				"rate": 4,
+				"likes": 11,
+				"dislikes": 6
+			  }
+			],
+			"action": {
+			  "target": "/products/MLA6127568/reviews?limit=10&offset=3&reviews_product_id=MLA6127568"
+			}
+		  },
+		  {
+			"label": {
+			  "text": "Positivas",
+			  "color": "BLACK"
+			},
+			"preview_reviews": [
+			  {
+				"id": 13279788,
+				"title": "Preocupante lo debitaron 2 veces",
+				"content": "Me parecio de primera. \nAhora,ese dia ud tenian problemas de sistemas. Al iniciar la compra salio un dibujito con un enchufe desenchufado q decia ha ocurrido un error intentamos solucionarlo a la brevedad. \nEspere y volvi a intentarlo y la operacion se realizo el tema es que me debitaron 2 celulares a pesar de anulacion de compra del comercio y al dia de hoy a pesar de confirmar devolucion en mi tarjeta esto no se produjo. \n17 dias de espera llevo. Son 11. 999$mucho psra un jubilado como yo. \nMejoren vias de comunicacion con ustedes. Gracias.",
+				"rate": 4,
+				"likes": 83,
+				"dislikes": 157
+			  },
+			  {
+				"id": 11419732,
+				"title": "Iphone 6s 32gb",
+				"content": "El equipo es de lo mejor que eh tenido,la sensacion que da en la palma de la mano es genial,a pesar de que es de 4. 7 pulgadas es genial,la bateria haciendo algunos ajustes me dura 24hs,si realmente estan dudando en comprarlo o no,yo recomiendo comprarlo a ojos cerrado,muy conforme !!!. \n. \nEl cargador original que trae,tarda bastante en cargarlo,solo compren el cargador del ipad 2. 1a y en 45 minutos lo tienen cargado al 100x100 y ademas dura mas la carga.",
+				"rate": 5,
+				"likes": 114,
+				"dislikes": 64
+			  },
+			  {
+				"id": 14686230,
+				"title": "Excelente Celular!",
+				"content": "Gran elección de este producto! es normal que la bateria de los iphone duren poco, pero el celular en si es un misil!, recomendado ! no se traba nunca es rapido, tiene buena calidad de pantalla, tanto para ver videos(de youtube, netflix o lo que sea) como para tomar fotos y grabar videos tambien excelente calidad. \nLa diferencia del iphone 5(que es el que tenia) a este iphone 6 es muy amplia! mucha diferencia de calidad! contento con esta eleccion!.",
+				"rate": 5,
+				"likes": 44,
+				"dislikes": 35
+			  }
+			],
+			"action": {
+			  "target": "/products/MLA6127568/reviews?relevance=positive&limit=10&offset=3&reviews_product_id=MLA6127568"
+			}
+		  },
+		  {
+			"label": {
+			  "text": "Negativas",
+			  "color": "BLACK"
+			},
+			"preview_reviews": [
+			  {
+				"id": 11316118,
+				"title": "Una mala experiencia comprando en ML.",
+				"content": "Mi opinión sobre el producto es que el mismo es deprorable. Es un equipo supuestamente original. Accedí a comprarlo -a pesar del elevado costo- a causa de que el usuario de ml es \"platinium\". La verdad no funciona correctamente la batería y tampoco el bluetooth. La empresa también deja mucho que desear. Llevé el producto para repararlo. Me notifican que el mismo está reparado. Lo retiro y sigue sin funcionar. Muy descontento con la compra.",
+				"rate": 1,
+				"likes": 88,
+				"dislikes": 104
+			  },
+			  {
+				"id": 16426768,
+				"title": "Dejó de funcionar en menos de una semana",
+				"content": "El iphone dejo de funcionar a menos de una semana de uso sin razón. La batería desde su inicio duraba unas pocas horas. Esta mañana se apagó solo y no volvió a prender. Cuando lo conecto con el cargador aparece el logo de apple por un segundo y luego vuelve a apagarse.",
+				"rate": 1,
+				"likes": 51,
+				"dislikes": 47
+			  },
+			  {
+				"id": 35006500,
+				"title": "Porqueria",
+				"content": "El producto es una porqueria. No funciona lo cambie dos veces y sigue sin funcionar y mercado libre no se hace cargo despues que me harte con las devoluciones. Me robaron 18000 pesos porq no me quieren devolver el dinero. Nunca mas compro por mercado libre.",
+				"rate": 1,
+				"likes": 28,
+				"dislikes": 4
+			  }
+			],
+			"action": {
+			  "target": "/products/MLA6127568/reviews?relevance=negative&limit=10&offset=3&reviews_product_id=MLA6127568"
+			}
+		  }
+		],
+		"all_reviews": {
+		  "type": "url",
+		  "label": {
+			"text": "Ver todas las opiniones",
+			"color": "BLUE"
+		  }
+		}
+	  },
+	  {
+		"id": "qadb",
+		"type": "qadb",
+		"state": "HIDDEN"
+	  },
+	  {
+		"id": "questions",
+		"type": "questions",
+		"state": "VISIBLE",
+		"title": {
+		  "text": "Preguntas"
+		},
+		"quick_access": {
+		  "title": {
+			"text": "¿Qué querés saber?"
+		  },
+		  "actions": [
+			{
+			  "target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA817173591%2Fshipping%3Fwebview%3Dtrue",
+			  "label": {
+				"text": "Formas de envío y retiro"
+			  },
+			  "modal_title": "Formas de envío y retiro"
+			},
+			{
+			  "target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fservices%2FMLA817173591%2Fpayments%3Fwebview%3Dtrue",
+			  "label": {
+				"text": "Medios de pago"
+			  },
+			  "modal_title": "Medios de pago"
+			},
+			{
+			  "target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2Fwarranty%2FMLA817173591%3Fwebview%3Dtrue",
+			  "label": {
+				"text": "Garantía"
+			  },
+			  "modal_title": "Garantía"
+			},
+			{
+			  "target": "meli://generic_landing?url=https%3A%2F%2Farticulo.mercadolibre.com.ar%2Fnoindex%2FfreeReturn%2Ffashion%3FitemId%3DMLA817173591%26quantity%3D1%26webview%3Dtrue",
+			  "label": {
+				"text": "Devoluciones"
+			  },
+			  "modal_title": "¿No te gusta? Devolvelo gratis"
+			}
+		  ]
+		},
+		"form": {
+		  "title": {
+			"text": "Preguntale a VANICIRILLO"
+		  },
+		  "confirm": {
+			"target": "/products/question/MLA817173591?site_id=MLA",
+			"label": {
+			  "text": "Preguntar"
+			},
+			"item_id": "MLA817173591"
+		  },
+		  "subtitles": [],
+		  "placeholder": {
+			"text": "Escribí tu pregunta..."
+		  },
+		  "max_length": 2000
+		},
+		"track": {
+		  "melidata_event": {
+			"path": "/questions/ask/post",
+			"event_data": {
+			  "catalog_product_id": "MLA6282512",
+			  "item_id": "MLA817173591",
+			  "context": "/pdp"
+			}
+		  },
+		  "analytics_event": {
+			"section": "/PDP/",
+			"action": "QUESTION",
+			"category": "ITEM",
+			"label": "PDP"
+		  }
+		},
+		"show_track": {
+		  "melidata_event": {
+			"path": "/pdp/questions/show",
+			"event_data": {
+			  "catalog_product_id": "MLA6282512",
+			  "item_id": "MLA817173591",
+			  "seller_id": 149292411
+			}
+		  }
+		}
+	  }
+	],
+	"share": {
+	  "id": "share",
+	  "type": "share",
+	  "state": "VISIBLE",
+	  "share_title": {
+		"text": "Comparte este producto",
+		"color": "BLACK"
+	  },
+	  "permalink": "https://www.mercadolibre.com.ar/p/MLA6282512",
+	  "action": {
+		"label": {
+		  "text": "Compartir"
+		},
+		"icon": {
+		  "id": "SHARE"
+		}
+	  },
+	  "share_actions": []
+	},
+	"bookmark": {
+	  "id": "bookmark",
+	  "type": "bookmark",
+	  "state": "VISIBLE",
+	  "item_id": "MLA817173591",
+	  "is_bookmarked": false,
+	  "add": {
+		"label": {
+		  "text": "Agregar a favoritos"
+		},
+		"icon": {
+		  "id": "BOOKMARK"
+		},
+		"track": {
+		  "melidata_event": {
+			"path": "/bookmarks/action/post",
+			"event_data": {
+			  "item_id": "MLA817173591",
+			  "catalog_product_id": "MLA6282512",
+			  "context": "/pdp"
+			}
+		  }
+		}
+	  },
+	  "delete": {
+		"label": {
+		  "text": "Quitar de favoritos"
+		},
+		"icon": {
+		  "id": "BOOKMARK"
+		},
+		"track": {
+		  "melidata_event": {
+			"path": "/bookmarks/action/delete",
+			"event_data": {
+			  "item_id": "MLA817173591",
+			  "catalog_product_id": "MLA6282512",
+			  "context": "/pdp"
+			}
+		  }
+		}
+	  }
+	},
+	"history": {
+	  "id": "MLA817173591"
+	},
+	"track": {
+	  "melidata_event": {
+		"path": "/pdp",
+		"event_data": {
+		  "catalog_parent_id": "MLA6127568",
+		  "catalog_product_id": "MLA6282512",
+		  "item_id": "MLA817173591",
+		  "category_id": "MLA1055",
+		  "vertical": "core",
+		  "domain_id": "MLA-CELLPHONES",
+		  "review_rate": 4,
+		  "item_condition": "new",
+		  "listing_type_id": "gold_pro",
+		  "cart_content": true,
+		  "price": 35999,
+		  "currency_id": "ARS",
+		  "seller_id": 149292411,
+		  "seller_name": "VANICIRILLO",
+		  "reputation_level": "5_green",
+		  "power_seller_status": "silver",
+		  "installment_info": "6f",
+		  "free_shipping": true,
+		  "shipping_mode": "me2",
+		  "local_pick_up": false,
+		  "store_pick_up": false,
+		  "logistic_type": "drop_off",
+		  "shipping_conditions": "free_mandatory",
+		  "pushing_puis": false,
+		  "showing_puis": false,
+		  "bo_pick_up_conditions": "no_bo_pick_up",
+		  "loyalty_level": 1,
+		  "pickers": {
+			"INTERNAL_MEMORY": [
+			  {
+				"catalog_product_id": "MLA6127577",
+				"selected": false,
+				"disabled": false
+			  },
+			  {
+				"catalog_product_id": "MLA6127569",
+				"selected": false,
+				"disabled": false
+			  },
+			  {
+				"catalog_product_id": "MLA6282512",
+				"selected": true,
+				"disabled": false
+			  },
+			  {
+				"catalog_product_id": "MLA6127573",
+				"selected": false,
+				"disabled": false
+			  }
+			],
+			"COLOR": [
+			  {
+				"catalog_product_id": "MLA6282512",
+				"selected": true,
+				"disabled": false
+			  },
+			  {
+				"catalog_product_id": "MLA6282514",
+				"selected": false,
+				"disabled": false
+			  },
+			  {
+				"catalog_product_id": "MLA6282515",
+				"selected": false,
+				"disabled": false
+			  },
+			  {
+				"catalog_product_id": "MLA6282513",
+				"selected": false,
+				"disabled": false
+			  }
+			]
+		  }
+		},
+		"experiments": {
+		  "qadb/qadb-on": "DEFAULT"
+		}
+	  },
+	  "analytics_event": {
+		"section": "/PDP/",
+		"custom_dimensions": {
+		  "129": "Apple iPhone 6s 32 GB Gris espacial",
+		  "130": "MLA6282512",
+		  "3": "{'MLA1051':'Celulares y Teléfonos'}",
+		  "132": "free_mandatory",
+		  "4": "{'MLA1051':'Celulares y Teléfonos','MLA1055':'Celulares y Smartphones'}",
+		  "7": "MARKETPLACE",
+		  "71": "silver",
+		  "8": "core",
+		  "72": "5_green",
+		  "73": "NO",
+		  "19": "gold_pro",
+		  "85": "NO",
+		  "86": "MLA-CELLPHONES",
+		  "35": "normal",
+		  "37": "me2",
+		  "39": "active",
+		  "106": "NO",
+		  "42": "6x",
+		  "43": "YES",
+		  "45": "NO",
+		  "111": "NO",
+		  "49": "MLA817173591",
+		  "51": "new",
+		  "119": "149292411",
+		  "120": "VANICIRILLO",
+		  "58": "normal",
+		  "63": "1"
+		}
+	  },
+	  "gtm_event": {
+		"page_id": "PDP",
+		"site_id": "MLA",
+		"item_id": "MLA817173591",
+		"catalog_parent_id": "MLA6127568",
+		"catalog_product_id": "MLA6282512",
+		"vertical": "core",
+		"domain_id": "MLA-CELLPHONES",
+		"root_category_id": "MLA1051",
+		"path_to_root": "MLA1051,MLA1055",
+		"category_id": "MLA1055",
+		"review_rate": 4,
+		"brand_id": "Apple",
+		"cart_content": true,
+		"item_price": 617.8,
+		"local_item_price": 35999,
+		"currency_id": "ARS",
+		"seller_id": 149292411,
+		"reputation_level": "5_green",
+		"installment_info": "6f",
+		"free_shipping": true,
+		"loyalty_level": 1
+	  },
+	  "firebase_event": {
+		"event_name": "view_product",
+		"event_data": {
+		  "item_id": "MLA817173591",
+		  "catalog_product_id": "MLA6282512",
+		  "catalog_product_name": "Apple iPhone 6s 32 GB Gris espacial",
+		  "vertical": "core",
+		  "domain_id": "MLA-CELLPHONES",
+		  "root_category_id": "MLA1051",
+		  "category_id": "MLA1055"
+		}
+	  }
+	},
+	"picture_config": {
+	  "template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.webp",
+	  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.webp",
+	  "template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.webp",
+	  "template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/xxhdpi/{id}.png"
+	},
+	"recommendations_context": {
+	  "item_id": "MLA817173591",
+	  "product_id": "MLA6282512",
+	  "category_id": "MLA1055"
+	}
+  }
