@@ -17,9 +17,9 @@
 		"id": "gallery",
 		"type": "gallery",
 		"picture_config": {
-		  "template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.webp",
-		  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.webp",
-		  "template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.webp",
+		  "template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.jpg",
+		  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg",
+		  "template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.jpg",
 		  "template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/xxhdpi/{id}.png"
 		},
 		"pictures": [
@@ -302,11 +302,11 @@
 		  "text": "Elige otra versión"
 		},
 		"picture_config": {
-		  "template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.webp",
-		  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.webp",
-		  "template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.webp",
-		  "template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.webp",
-		  "template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.webp"
+		  "template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.jpg",
+		  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.jpg",
+		  "template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.jpg",
+		  "template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg",
+		  "template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg"
 		},
 		"apply_action": {
 		  "id": "MLA6282512",
@@ -712,7 +712,7 @@
 				  "quantity": 1,
 				  "id": "MLA795103987",
 				  "type": "HORIZONTAL",
-				  "thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_889712-MLA31250987430_062019-E.webp?square=true",
+				  "thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_889712-MLA31250987430_062019-E.jpg?square=true",
 				  "price": "$ 34.999",
 				  "description": "Samsung Galaxy S9 64 GB Negro medianoche",
 				  "action": "meli://products/MLA9100271/#&reco_item_pos=0&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=0c91ab87-fbc9-4cc7-9b7d-2808c566c9a4",
@@ -723,7 +723,7 @@
 				  "quantity": 1,
 				  "id": "MLA801616914",
 				  "type": "HORIZONTAL",
-				  "thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_948813-MLA31003000773_062019-E.webp?square=true",
+				  "thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_948813-MLA31003000773_062019-E.jpg?square=true",
 				  "price": "$ 41.690",
 				  "description": "Apple iPhone 7 32 GB Oro",
 				  "action": "meli://products/MLA6240114/#&reco_item_pos=1&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=0c91ab87-fbc9-4cc7-9b7d-2808c566c9a4",
@@ -1614,9 +1614,9 @@
 	  }
 	},
 	"picture_config": {
-	  "template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.webp",
-	  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.webp",
-	  "template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.webp",
+	  "template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.jpg",
+	  "template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg",
+	  "template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.jpg",
 	  "template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/xxhdpi/{id}.png"
 	},
 	"recommendations_context": {
