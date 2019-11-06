@@ -323,15 +323,23 @@
 			"text": "Precio a convenir",
 			"color": "BLACK"
 		  },
-		  "value": 25,
+		  "value": 2500,
 		  "currency_symbol": "$",
 		  "bulk_sales_unit": {
-			"text": "/unidad"
+			"text": "/unidad por texto de dos lineas de test"
 		  }
 		},
 		"subtitles": [
 		  {
 			"text": "El precio por m² es de $150",
+			"color": "GREY"
+		  },
+		  {
+			"text": "El precio por m² es de $150",
+			"color": "GREY"
+		  },
+		  {
+			"text": "El precio por unidad es de $50.25",
 			"color": "GREY"
 		  }
 		]
