@@ -1,0 +1,22 @@
+{
+"cases":[
+  {
+    "id": "price_1",
+    "name": "Price 1",
+    "description": "",
+    "test": "price"
+  },
+    {
+    "id": "price_2",
+    "name": "Price 2",
+    "description": "",
+    "test": "price"
+  },
+    {
+    "id": "price_3",
+    "name": "Price 3",
+    "description": "",
+    "test": "price"
+  }
+]
+}
