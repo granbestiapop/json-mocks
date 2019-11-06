@@ -329,11 +329,7 @@
 		},
 		"discount_label": {
 		  "text": "50% OFF",
-		  "color": "GREEN",
-		  "text_icon": {
-			"id": "loyalty_points",
-			"color": "GREEN"
-		  }
+		  "color": "GREEN"
 		}
 	  },
 	  {
@@ -1695,3 +1691,4 @@
 	  "category_id": "MLA1055"
 	}
   }
+  
