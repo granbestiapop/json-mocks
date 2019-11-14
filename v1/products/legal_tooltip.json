@@ -1,0 +1,1334 @@
+{
+	"id": "MLB6070527",
+	"components": [{
+			"id": "header",
+			"type": "header",
+			"title": "Microondas Panasonic Dia-a-Dia NN-ST254WRU Branco 110V",
+			"subtitle": "Novo",
+			"reviews": {
+				"rating": 4.7,
+				"amount": 910,
+				"action": {},
+				"title": "Opiniões sobre Panasonic Dia-a-Dia NN-ST254WRU"
+			}
+		}, {
+			"id": "gallery",
+			"type": "gallery",
+			"picture_config": {
+				"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+				"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+				"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+				"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+			},
+			"pictures": [{
+				"id": "626544-MLA31455757296_072019",
+				"alt": "Microondas Panasonic Dia-a-Dia NN-ST254WRU Branco 110V",
+				"width": 1024,
+				"height": 607
+			}, {
+				"id": "973389-MLA31455962672_072019",
+				"alt": "Microondas Panasonic Dia-a-Dia NN-ST254WRU Branco 110V",
+				"width": 860,
+				"height": 503
+			}, {
+				"id": "605668-MLA31456210024_072019",
+				"alt": "Microondas Panasonic Dia-a-Dia NN-ST254WRU Branco 110V",
+				"width": 1012,
+				"height": 665
+			}]
+		}, {
+			"id": "variations",
+			"type": "variations",
+			"state": "VISIBLE",
+			"modal_type": "FULL",
+			"pickers": [{
+				"id": "VOLTAGE",
+				"has_details": true,
+				"disabled": false,
+				"label": {
+					"text": "Voltagem:",
+					"color": "GRAY"
+				},
+				"selected_option": {
+					"text": "110V",
+					"color": "BLACK"
+				},
+				"products": [{
+					"id": "MLB6070527",
+					"label": {
+						"text": "110V",
+						"color": "BLACK"
+					},
+					"decoration_type": "SELECTED",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB6070527",
+								"picker_id": "VOLTAGE",
+								"picker_type": "normal"
+							}
+						},
+						"analytics_event": {
+							"section": "/PDP/",
+							"action": "PICKER_SELECTION",
+							"category": "PDP",
+							"label": "VOLTAGE-110V"
+						}
+					}
+				}, {
+					"id": "MLB6051803",
+					"label": {
+						"text": "220V",
+						"color": "BLACK"
+					},
+					"decoration_type": "NONE",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/picker_selection",
+							"event_data": {
+								"catalog_product_id": "MLB6051803",
+								"picker_id": "VOLTAGE",
+								"picker_type": "normal"
+							}
+						},
+						"analytics_event": {
+							"section": "/PDP/",
+							"action": "PICKER_SELECTION",
+							"category": "PDP",
+							"label": "VOLTAGE-220V"
+						}
+					}
+				}]
+			}],
+			"title": {
+				"text": "Selecione outra versão"
+			},
+			"picture_config": {
+				"template": "https://http2.mlstatic.com/D_Q_NP_{id}-O.jpg",
+				"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_{id}-R.jpg",
+				"template_zoom": "https://http2.mlstatic.com/D_Q_NP_{id}-F.jpg",
+				"template_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-F.jpg",
+				"template_thumbnail_2x": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.jpg"
+			},
+			"apply_action": {
+				"id": "MLB6070527",
+				"label": {
+					"text": "Aplicar"
+				}
+			}
+		}, {
+			"id": "price",
+			"type": "price",
+			"state": "VISIBLE",
+			"price": {
+				"type": "price",
+				"value": 459,
+				"currency_symbol": "R$"
+			}
+		}, {
+			"id": "no_stock_status",
+			"type": "warning_message",
+			"state": "HIDDEN"
+		}, {
+			"id": "stock_information",
+			"type": "stock_information",
+			"state": "HIDDEN"
+		},
+		{
+			"id": "generic_tooltip",
+			"type": "generic_tooltip",
+			"label": {
+				"text": "Un texto de prueba",
+				"color": "BLACK",
+				"font_size": "SMALL",
+				"font_family": "BOLD"
+			},
+			"primary_button": {
+				"action_type": "CONFIRM_SHIPPING_TOOLTIP",
+				"disabled": false,
+				"label": {
+					"text": "Entendido",
+					"color": "WHITE",
+					"font_size": "XSMALL",
+					"font_family": "BOLD"
+				}
+			},
+			"primary_link": {
+				"target": "https://www.mercadolivre.com.br/ajuda/Como-o-meu-beneficio-de-frete-gratis-funciona_4603",
+				"label": {
+					"text": "Saiba mais",
+					"color": "BLUE",
+					"font_size": "XSMALL",
+					"font_family": "BOLD"
+				}
+			},
+			"time_frequency": 86400
+		},
+
+
+		{
+			"id": "payment_summary",
+			"type": "generic_summary",
+			"state": "VISIBLE",
+			"title": {
+				"text": "12x R$ 38<sup>25</sup> sem juros",
+				"color": "GREEN"
+			},
+			"icon": {
+				"id": "CARD",
+				"color": "GREEN"
+			},
+			"subtitles": [],
+			"icons": [{
+				"id": "visa",
+				"size": "small"
+			}, {
+				"id": "master",
+				"size": "small"
+			}, {
+				"id": "boleto",
+				"size": "small"
+			}],
+			"action": {
+				"target": "meli://generic_landing?url=https%3A%2F%2Fproduto.mercadolivre.com.br%2Fnoindex%2Fservices%2FMLB1347231388%2Fpayments%3Fwebview%3Dtrue",
+				"label": {
+					"text": "Mais informações"
+				},
+				"modal_title": "Formas de pagamento"
+			}
+		}, {
+			"id": "shipping_summary",
+			"type": "generic_summary",
+			"state": "VISIBLE",
+			"title": {
+				"text": "Envio para todo o país",
+				"color": "BLACK"
+			},
+			"icon": {
+				"id": "TRUCK",
+				"color": "BLACK"
+			},
+			"subtitles": [{
+				"text": "Saiba os prazos de entrega e as formas de envio."
+			}],
+			"action": {
+				"target": "meli://address_hub/",
+				"label": {
+					"text": "Calcular o prazo de entrega"
+				},
+				"icon": {
+					"id": "LOCATION",
+					"color": "BLUE"
+				}
+			}
+		}, {
+			"id": "pick_up_summary",
+			"type": "generic_summary",
+			"state": "HIDDEN",
+			"benefit_type": "NONE"
+		}, {
+			"id": "seller",
+			"type": "seller",
+			"state": "VISIBLE",
+			"title": "Vendido por",
+			"title_value": "Lojas Xavier",
+			"subtitles": [{
+				"text": "Loja oficial no Mercado Livre",
+				"color": "GRAY",
+				"font_size": "XSMALL"
+			}],
+			"seller": {
+				"id": 193200465,
+				"official_store_id": 492,
+				"name": "Lojas Xavier",
+				"reputation_level": "5_green"
+			},
+			"seller_info": {
+				"header": "Informação do vendedor",
+				"title": "Lojas Xavier",
+				"subtitles": [{
+					"text": "Loja oficial no Mercado Livre",
+					"color": "GRAY",
+					"font_size": "XXSMALL"
+				}],
+				"logo": "https://http2.mlstatic.com/D_Q_NP_741497-MLA25754022984_072017-G.jpg",
+				"power_seller_status": {
+					"title": "MercadoLíder Platinum",
+					"subtitle": "É um dos melhores do site!"
+				},
+				"thermometer": {
+					"rank": 5,
+					"info": [{
+						"title": "1015",
+						"subtitle": "Vendas nos últimos 4 meses"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_ATTENTION_GOOD"
+						},
+						"subtitle": "Presta um bom atendimento"
+					}, {
+						"icon": {
+							"id": "REP_SELLER_DELIVERY_TIME_GOOD"
+						},
+						"subtitle": "Entrega os produtos dentro do prazo"
+					}]
+				},
+				"extra_info": []
+			},
+			"show_seller_logo": true
+		}, {
+			"id": "available_quantity",
+			"type": "available_quantity",
+			"state": "VISIBLE",
+			"picker": {
+				"title": "Quantidade:",
+				"selected": 1,
+				"description": "(64 disponíveis)"
+			},
+			"quantity_selector": {
+				"type": "drop_down_list",
+				"open_title": "Escolha quantidade",
+				"open_subtitle": "64 disponíveis",
+				"label": {
+					"singular": "{quantity} unidade",
+					"plural": "{quantity} unidades"
+				},
+				"confirm_button": "Confirmar",
+				"max": 64,
+				"more": "Mais de 6 unidades",
+				"length": 6,
+				"no_stock_message": {
+					"text": "Sem estoque",
+					"color": "RED"
+				},
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/quantity_change",
+						"event_data": {
+							"catalog_product_id": "MLB6070527",
+							"item_id": "MLB1347231388",
+							"seller_id": 193200465,
+							"seller_name": "Lojas Xavier",
+							"quantity": 1
+						}
+					}
+				}
+			}
+		}, {
+			"id": "main_actions",
+			"type": "main_actions",
+			"state": "VISIBLE",
+			"form": {
+				"item_id": "MLB1347231388",
+				"context": "pdp"
+			},
+			"actions": [{
+				"type": "primary",
+				"target": "meli://checkoutv2/MLB1347231388?quantity={quantity}&context=pdp",
+				"label": {
+					"text": "Comprar agora"
+				},
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/buy_action",
+						"event_data": {
+							"catalog_product_id": "MLB6070527",
+							"item_id": "MLB1347231388",
+							"vertical": "core",
+							"domain_id": "MLB-MICROWAVES",
+							"review_rate": 4,
+							"item_condition": "new",
+							"listing_type_id": "gold_pro",
+							"cart_content": true,
+							"price": 459,
+							"currency_id": "BRL",
+							"seller_id": 193200465,
+							"seller_name": "Lojas Xavier",
+							"reputation_level": "5_green",
+							"power_seller_status": "platinum",
+							"official_store_id": 492,
+							"installment_info": "12f",
+							"free_shipping": false,
+							"shipping_mode": "me1",
+							"local_pick_up": false,
+							"store_pick_up": false,
+							"logistic_type": "default",
+							"shipping_conditions": "me_non_free",
+							"pushing_puis": false,
+							"showing_puis": false,
+							"bo_pick_up_conditions": "no_bo_pick_up",
+							"loyalty_level": 1
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "BUY-INTENTION",
+						"category": "PDP",
+						"label": "MAIN_ACTION"
+					}
+				},
+				"disabled": false,
+				"action_type": "BUY_NOW"
+			}, {
+				"type": "secondary",
+				"target": "meli://cart-congrats?ids=MLB1347231388-{quantity}&context=pdp",
+				"label": {
+					"text": "Adicionar ao carrinho"
+				},
+				"track": {
+					"melidata_event": {
+						"path": "/pdp/add_to_cart_action",
+						"event_data": {
+							"catalog_product_id": "MLB6070527",
+							"item_id": "MLB1347231388",
+							"vertical": "core",
+							"domain_id": "MLB-MICROWAVES",
+							"review_rate": 4,
+							"item_condition": "new",
+							"listing_type_id": "gold_pro",
+							"cart_content": true,
+							"price": 459,
+							"currency_id": "BRL",
+							"seller_id": 193200465,
+							"seller_name": "Lojas Xavier",
+							"reputation_level": "5_green",
+							"power_seller_status": "platinum",
+							"official_store_id": 492,
+							"installment_info": "12f",
+							"free_shipping": false,
+							"shipping_mode": "me1",
+							"local_pick_up": false,
+							"store_pick_up": false,
+							"logistic_type": "default",
+							"shipping_conditions": "me_non_free",
+							"pushing_puis": false,
+							"showing_puis": false,
+							"bo_pick_up_conditions": "no_bo_pick_up",
+							"loyalty_level": 1
+						}
+					},
+					"analytics_event": {
+						"section": "/PDP/",
+						"action": "ADD-TO-CART",
+						"category": "PDP",
+						"label": "MAIN_ACTION"
+					}
+				},
+				"disabled": false,
+				"action_type": "ADD_TO_CART"
+			}]
+		}, {
+			"id": "returns",
+			"type": "returns",
+			"state": "HIDDEN"
+		}, {
+			"id": "buy_benefits",
+			"type": "buy_benefits",
+			"state": "VISIBLE",
+			"benefits": [{
+				"text": "<a href=\"meli://generic_landing?url=https%3A%2F%2Fwww.mercadolivre.com.br%2Fcompra-garantida\" target=\"_blank\">Compra Garantida</a>, receba o produto que est&aacute; esperando ou devolvemos o dinheiro.",
+				"icon": {
+					"id": "PROTECTED_BUY",
+					"color": "GRAY"
+				}
+			}, {
+				"text": "Voc&ecirc; ganha 153 Mercado Pontos.",
+				"icon": {
+					"id": "LOYALTY_POINTS",
+					"color": "GRAY"
+				}
+			}, {
+				"text": "12 meses de garantia de f&aacute;brica.",
+				"icon": {
+					"id": "WARRANTY",
+					"color": "GRAY"
+				}
+			}]
+		}, {
+			"id": "others_products",
+			"type": "others_products",
+			"state": "VISIBLE",
+			"products": [{
+				"title": {
+					"text": "14 produtos novos a partir de <b>R$ 459</b>",
+					"color": "BLACK"
+				},
+				"action": {
+					"target": "meli://products/MLB6070527/sellers",
+					"track": {
+						"melidata_event": {
+							"path": "/pdp/other_buying_options",
+							"event_data": {
+								"catalog_product_id": "MLB6070527",
+								"item_id": "MLB1347231388",
+								"item_condition": "new",
+								"listing_type_id": "gold_pro",
+								"domain_id": "MLB-MICROWAVES",
+								"product_status": "active",
+								"seller_id": 193200465,
+								"seller_name": "Lojas Xavier",
+								"official_store_id": 492,
+								"filter": "new"
+							}
+						},
+						"analytics_event": {
+							"section": "/PDP/",
+							"action": "OTHER_BUYING_OPTIONS_NEW",
+							"category": "PDP"
+						}
+					}
+				}
+			}]
+		}, {
+			"id": "grouped_share_bookmark",
+			"type": "grouped_share_bookmark",
+			"components": ["bookmark", "share"]
+		}, {
+			"id": "bbw_alternatives",
+			"type": "bbw_alternatives",
+			"state": "HIDDEN"
+		}, {
+			"id": "carousel_above",
+			"type": "carousel_above",
+			"state": "VISIBLE",
+			"carousels": [{
+				"title": "Quem viu este produto também comprou",
+				"recommendation_info": {
+					"recommendations": [{
+						"quantity": 1,
+						"id": "MLB1327925180",
+						"type": "HORIZONTAL",
+						"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_826662-MLA31456210115_072019-C.jpg?square=true",
+						"price": "R$ 451,40",
+						"description": "Microondas Consul CM020 Cinza 110V",
+						"action": "meli://products/MLB6207755/#&reco_item_pos=0&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=40ec1ad3-b745-4179-8d03-aea9541e8952",
+						"free_shipping": false
+					}, {
+						"quantity": 1,
+						"id": "MLB1296260804",
+						"type": "HORIZONTAL",
+						"thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_690611-MLA31455211533_072019-C.jpg?square=true",
+						"price": "R$ 523",
+						"description": "Microondas LG EasyClean MS3052R(A) Branco/Prata 220V",
+						"action": "meli://products/MLB6189841/#&reco_item_pos=1&reco_backend=machinalis-pdp&reco_backend_type=low_level&reco_client=pdp-v2p&reco_id=40ec1ad3-b745-4179-8d03-aea9541e8952",
+						"free_shipping": false
+					}, {
+						"quantity": 1,
+						"type": "ATF_VIEWMORE_PDP",
+						"description": "Ver mais anúncios",
+						"action": "meli://generic_landing?url=https%3A%2F%2Fwww.mercadolivre.com.br%2Frecommendations-view%2Fget%3Fsite%3DMLB%26category%3DMLB73057%26item%3DMLB1347231388%26user%3D-1%26product_id%3DMLB6070527%26limit%3D20%26client%3Dpdp-v2p%26official_store_id%3D1614"
+					}],
+					"carousel_type": "VERTICAL"
+				},
+				"tracking": {
+					"experiments": [],
+					"event_data": {
+						"recommendations": {
+							"recommendation_id": "40ec1ad3-b745-4179-8d03-aea9541e8952",
+							"backend_id": "machinalis-pdp",
+							"client": "pdp-v2p",
+							"track_info": {
+								"model_id": "product_to_product",
+								"model_version": "0.0.2+2d71fb1",
+								"train_date": "2019-10-31T05:41:32.736334",
+								"backend_id": "api.mercadolibre.com",
+								"has_recommendations": true,
+								"recommended_items": [{
+									"id": "MLB1327925180",
+									"product_id": "MLB6207755"
+								}, {
+									"id": "MLB1296260804",
+									"product_id": "MLB6189841"
+								}],
+								"trigger": {
+									"trigger_type": "product",
+									"item_info": {
+										"id": "MLB6070527",
+										"category_id": "MLB73057"
+									}
+								}
+							}
+						}
+					}
+				}
+			}]
+		}, {
+			"id": "all_features",
+			"type": "all_features",
+			"state": "VISIBLE",
+			"main_features": {
+				"title": "Características principais",
+				"type": "LIST",
+				"attributes": ["Capacidade de 21 litros. ", "Potência de 700 watts. ", "Dimensões: 41.6cm de largura, 28.8cm de altura, 33.7cm de profundidade."]
+			},
+			"specs": [{
+				"title": "Informações do produto",
+				"type": "STRIPED",
+				"attributes": [{
+					"id": "Marca",
+					"text": "Panasonic"
+				}, {
+					"id": "Linha",
+					"text": "Dia-a-Dia"
+				}, {
+					"id": "Modelo",
+					"text": "NN-ST254WRU"
+				}, {
+					"id": "Cor",
+					"text": "Branco"
+				}, {
+					"id": "Voltagem",
+					"text": "110V"
+				}]
+			}],
+			"action": {
+				"target": "meli://products/MLB6070527/specifications",
+				"label": {
+					"text": "Ver mais características",
+					"color": "BLUE"
+				}
+			},
+			"bullet": "•"
+		}, {
+			"id": "description",
+			"type": "description",
+			"state": "VISIBLE",
+			"title": "Descrição",
+			"content": "Variedade de funções e programas\nPara destacar, este microondas tem diferentes níveis de cozimento e programas, o que lhe permitirá desfrutar de todas as suas refeições com o mínimo de esforço e máximo sabor.\n\nDesenho inovador e acessórios\nPor sua vez, possui uma mesa giratória para cozinhar ou aquecer alimentos uniformemente no menor tempo possível.\n\nCapacidade e eficiência\nCom um volume de 21 litros, você pode desfrutar de refeições para compartilhar com amigos e familiares. Oferece uma potência máxima de 700 watts, que pode ser ajustada em diferentes níveis dependendo do tipo de alimento, por exemplo, para evitar secar alguns pratos mais delicados, como massas. Além disso, este produto se destaca por seu baixo consumo, o que contribui para a economia de energia da casa. Com seu fácil uso, você pode selecionar e programar convenientemente o tipo de alimento que deseja aquecer para personalizar seus pratos favoritos.",
+			"max_pages": 1.5,
+			"action": {
+				"label": {
+					"text": "Ver descrição completa"
+				}
+			}
+		}, {
+			"id": "comparator_product",
+			"type": "comparator_product",
+			"state": "VISIBLE",
+			"tabs": [{
+				"attributes_list": [{
+					"id": "REVIEWS",
+					"title": "Opiniões",
+					"type": "reviews"
+				}, {
+					"id": "PRICE",
+					"title": "Preço",
+					"type": "price"
+				}, {
+					"id": "SELLER",
+					"title": "Vendedor",
+					"type": "link"
+				}, {
+					"id": "COLOR",
+					"title": "Cor",
+					"type": "standard"
+				}, {
+					"id": "VOLTAGE",
+					"title": "Voltagem",
+					"type": "standard"
+				}, {
+					"id": "WITH_MIRRORED_DOOR",
+					"title": "Com porta espelhada",
+					"type": "standard"
+				}, {
+					"id": "DETAILED_MODEL",
+					"title": "Modelo detalhado",
+					"type": "standard"
+				}, {
+					"id": "VOLUME_CAPACITY",
+					"title": "Capacidade em volume",
+					"type": "standard"
+				}, {
+					"id": "WITH_GRILL",
+					"title": "Com grill",
+					"type": "standard"
+				}, {
+					"id": "POWER",
+					"title": "Potência",
+					"type": "standard"
+				}],
+				"recommended_products": [{
+					"id": "MLB6070527",
+					"status": "active",
+					"trigger": true,
+					"site_id": "MLB",
+					"domain_id": "MLB-MICROWAVES",
+					"permalink": "meli://products/MLB6070527/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=0&reco_backend_type=low_level&reco_id=adda3b31-5dcc-485e-b5b9-e2310a7c9335",
+					"name": "Microondas Panasonic Dia-a-Dia NN-ST254WRU Branco 110V",
+					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_626544-MLA31455757296_072019-V.jpg",
+					"img_max_width": 1024,
+					"img_max_height": 607,
+					"item_id": "MLB1347231388",
+					"parent_id": "MLB6051802",
+					"product_details": {
+						"REVIEWS": {
+							"count_reviews": 910,
+							"rating_average": 4.7
+						},
+						"PRICE": {
+							"value": 459,
+							"currency_symbol": "R$",
+							"decimal_separator": ",",
+							"thousand_separator": "."
+						},
+						"SELLER": {
+							"link": "",
+							"id": "193200465",
+							"name": "LOJAS XAVIER"
+						},
+						"COLOR": {
+							"text": "Branco"
+						},
+						"VOLTAGE": {
+							"text": "110V"
+						},
+						"WITH_MIRRORED_DOOR": {
+							"text": "Não"
+						},
+						"DETAILED_MODEL": {
+							"text": "NN-ST254WRUN"
+						},
+						"VOLUME_CAPACITY": {
+							"text": "21 L"
+						},
+						"WITH_GRILL": {
+							"text": "Não"
+						},
+						"POWER": {
+							"text": "700 W"
+						}
+					}
+				}, {
+					"id": "MLB14058414",
+					"status": "active",
+					"trigger": false,
+					"site_id": "MLB",
+					"domain_id": "MLB-MICROWAVES",
+					"permalink": "meli://products/MLB14058414/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=1&reco_backend_type=low_level&reco_id=adda3b31-5dcc-485e-b5b9-e2310a7c9335",
+					"name": "Microondas Electrolux MB37R branco 110V",
+					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_732533-MLA31912245495_082019-V.jpg",
+					"img_max_width": 1531,
+					"img_max_height": 888,
+					"item_id": "MLB1315639828",
+					"parent_id": "MLB14058413",
+					"product_details": {
+						"REVIEWS": {
+							"count_reviews": 48,
+							"rating_average": 4.7
+						},
+						"PRICE": {
+							"value": 429,
+							"currency_symbol": "R$",
+							"decimal_separator": ",",
+							"thousand_separator": "."
+						},
+						"SELLER": {
+							"link": "",
+							"id": "138235844",
+							"name": "MEGAMAMUTE OFICIAL"
+						},
+						"COLOR": {
+							"text": "Branco"
+						},
+						"VOLTAGE": {
+							"text": "110V"
+						},
+						"WITH_MIRRORED_DOOR": {
+							"text": "Não"
+						},
+						"VOLUME_CAPACITY": {
+							"text": "27 L"
+						},
+						"WITH_GRILL": {
+							"text": "Não"
+						},
+						"POWER": {
+							"text": "1400 W"
+						},
+						"MOUNTING_TYPE": {
+							"text": "De bancada"
+						}
+					}
+				}, {
+					"id": "MLB8742315",
+					"status": "active",
+					"trigger": false,
+					"site_id": "MLB",
+					"domain_id": "MLB-MICROWAVES",
+					"permalink": "meli://products/MLB8742315/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=2&reco_backend_type=low_level&reco_id=adda3b31-5dcc-485e-b5b9-e2310a7c9335",
+					"name": "Microondas Consul CMS45 Aço inoxidável 110V",
+					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_745386-MLA31455075793_072019-V.jpg",
+					"img_max_width": 986,
+					"img_max_height": 564,
+					"item_id": "MLB1360821321",
+					"parent_id": "MLB8742312",
+					"product_details": {
+						"REVIEWS": {
+							"count_reviews": 20,
+							"rating_average": 4.4
+						},
+						"PRICE": {
+							"value": 539.9,
+							"currency_symbol": "R$",
+							"decimal_separator": ",",
+							"thousand_separator": "."
+						},
+						"SELLER": {
+							"link": "",
+							"id": "190161270",
+							"name": "CONTINENTALCENTER"
+						},
+						"ALPHANUMERIC_MODEL": {
+							"text": "CMS45AR"
+						},
+						"COLOR": {
+							"text": "Aço inoxidável"
+						},
+						"VOLTAGE": {
+							"text": "110V"
+						},
+						"WITH_MIRRORED_DOOR": {
+							"text": "Sim"
+						},
+						"DETAILED_MODEL": {
+							"text": "CMS45ARANA"
+						},
+						"VOLUME_CAPACITY": {
+							"text": "32 L"
+						},
+						"WITH_GRILL": {
+							"text": "Não"
+						}
+					}
+				}, {
+					"id": "MLB6051851",
+					"status": "active",
+					"trigger": false,
+					"site_id": "MLB",
+					"domain_id": "MLB-MICROWAVES",
+					"permalink": "meli://products/MLB6051851/#reco_backend=products-different-parent&reco_client=pdp_comparator&reco_product_pos=3&reco_backend_type=low_level&reco_id=adda3b31-5dcc-485e-b5b9-e2310a7c9335",
+					"name": "Microondas LG EasyClean MS3052R(A) Branco/Prata 110V",
+					"img_url": "https://http2.mlstatic.com/D_NQ_NP_2X_826155-MLA31455075611_072019-V.jpg",
+					"img_max_width": 1181,
+					"img_max_height": 712,
+					"item_id": "MLB1360896363",
+					"parent_id": "MLB6051850",
+					"product_details": {
+						"REVIEWS": {
+							"count_reviews": 193,
+							"rating_average": 4.7
+						},
+						"PRICE": {
+							"value": 479.9,
+							"currency_symbol": "R$",
+							"decimal_separator": ",",
+							"thousand_separator": "."
+						},
+						"SELLER": {
+							"link": "",
+							"id": "190161270",
+							"name": "CONTINENTALCENTER"
+						},
+						"COLOR": {
+							"text": "Branco"
+						},
+						"VOLTAGE": {
+							"text": "110V"
+						},
+						"WITH_MIRRORED_DOOR": {
+							"text": "Não"
+						},
+						"DETAILED_MODEL": {
+							"text": "MS3052R"
+						},
+						"VOLUME_CAPACITY": {
+							"text": "30 L"
+						},
+						"WITH_GRILL": {
+							"text": "Não"
+						},
+						"POWER": {
+							"text": "800 W"
+						}
+					}
+				}],
+				"tracking": {
+					"event_data": {
+						"recommendations": {
+							"backend_id": "prod.recommendations-algorithm-product",
+							"client": "pdp_comparator",
+							"recommendation_id": "adda3b31-5dcc-485e-b5b9-e2310a7c9335",
+							"track_info": {
+								"has_recommendations": true,
+								"backend_id": "prod.recommendations-algorithm-product",
+								"model_id": "products-different-parent",
+								"model_version": "V1",
+								"trigger": {
+									"trigger_type": "product",
+									"product": {
+										"id": "MLB6070527",
+										"status": "active",
+										"domain_id": "MLB-MICROWAVES",
+										"item_id": "MLB1347231388",
+										"parent_id": "MLB6051802"
+									}
+								},
+								"recommended_products": [{
+									"item_id": "MLB1347231388",
+									"id": "MLB6070527"
+								}, {
+									"item_id": "MLB1315639828",
+									"id": "MLB14058414"
+								}, {
+									"item_id": "MLB1360821321",
+									"id": "MLB8742315"
+								}, {
+									"item_id": "MLB1360896363",
+									"id": "MLB6051851"
+								}]
+							}
+						}
+					},
+					"path": "/recommendations/print"
+				},
+				"title": "Compare com outros produtos similares",
+				"labels": {
+					"this_product": "(Este produto)",
+					"see_product": "Ver produto",
+					"more_details": "Ver mais detalhes",
+					"tab": "Produtos semelhantes",
+					"empty_column": "-"
+				},
+				"max_attribute_init": 6,
+				"priority": 1
+			}, {
+				"recommended_products": [],
+				"tracking": {
+					"event_data": {
+						"recommendations": {
+							"client": "pdp_comparator_navigation",
+							"recommendation_id": "9c242255-3751-4c0e-8857-209deb51cceb",
+							"track_info": {
+								"has_recommendations": false,
+								"trigger": {
+									"trigger_type": "product",
+									"product": {
+										"id": "MLB6070527"
+									}
+								},
+								"empty_result_cause": "RECOS_WINNER_NOT_FOUND"
+							}
+						}
+					},
+					"path": "/recommendations/print"
+				},
+				"labels": {
+					"this_product": "(Este produto)",
+					"see_product": "Ver produto",
+					"more_details": "Ver mais detalhes",
+					"tab": "Vistos recentemente",
+					"empty_column": "-"
+				},
+				"max_attribute_init": 6,
+				"priority": 2
+			}]
+		}, {
+			"id": "reviews",
+			"type": "reviews",
+			"state": "VISIBLE",
+			"title": "Opiniões sobre Panasonic Dia-a-Dia NN-ST254WRU",
+			"rating": "4.7",
+			"stars": "4.5",
+			"subtitle": "Média entre 910 opiniões",
+			"rating_levels": [{
+				"value": 706,
+				"percentage": 77,
+				"label": {
+					"text": "5 estrelas"
+				}
+			}, {
+				"value": 143,
+				"percentage": 15,
+				"label": {
+					"text": "4 estrelas"
+				}
+			}, {
+				"value": 38,
+				"percentage": 4,
+				"label": {
+					"text": "3 estrelas"
+				}
+			}, {
+				"value": 11,
+				"percentage": 1,
+				"label": {
+					"text": "2 estrelas"
+				}
+			}, {
+				"value": 12,
+				"percentage": 1,
+				"label": {
+					"text": "1 estrela"
+				}
+			}],
+			"tabs": [{
+				"label": {
+					"text": "Todos",
+					"color": "BLACK"
+				},
+				"preview_reviews": [{
+					"id": 20201954,
+					"title": "Muito bom , excelente ",
+					"content": "Muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente.",
+					"rate": 5,
+					"likes": 1,
+					"dislikes": 0
+				}, {
+					"id": 36443899,
+					"title": "Mandaram voltagem errada",
+					"version": "Branco",
+					"content": "Quero trocar o  produto ele veio com voltagem 220 que não e compatível com minha rede. Está na caixa com nota fiscal eletrônica como posso fazer pra devolver recebei ontem e não estava em casa.",
+					"rate": 1,
+					"likes": 1,
+					"dislikes": 0
+				}, {
+					"id": 23293133,
+					"title": "Qualidade Indiscutível.",
+					"version": "Branco",
+					"content": "Prós: prático de manusear; silencioso no aviso sonoro de alimento pronto e ao processar o alimento também; econômico no tempo de preparo, como por exemplo para pipoca bastou 2:30min para estourar todo o pacote, salvo uns 3 a 5 grãos que sempre ficam, observando que não utilizei a função pré programada para pipoca e nem usei a tecla de potência!!! boa iluminação para visualização do prato sendo processado. A lasanha ficou assada por igual. O meu anterior era panasonic picolo e durou oito anos. \nContras: a trava da porta poderia ter menos pressão para destravar. O anel de rolamento do prato é muito frágil. O interior do forno poderia ser grafite para facilitar a limpeza. O teclado numérico de 0 a 9 sempre facilita na programação do tempo, o que não é o caso deste modelo.",
+					"rate": 5,
+					"likes": 11,
+					"dislikes": 0
+				}],
+				"action": {
+					"target": "/products/MLB6051802/reviews?limit=10&offset=3&reviews_product_id=MLB6051802"
+				}
+			}, {
+				"label": {
+					"text": "Positivas",
+					"color": "BLACK"
+				},
+				"preview_reviews": [{
+					"id": 23293133,
+					"title": "Qualidade Indiscutível.",
+					"version": "Branco",
+					"content": "Prós: prático de manusear; silencioso no aviso sonoro de alimento pronto e ao processar o alimento também; econômico no tempo de preparo, como por exemplo para pipoca bastou 2:30min para estourar todo o pacote, salvo uns 3 a 5 grãos que sempre ficam, observando que não utilizei a função pré programada para pipoca e nem usei a tecla de potência!!! boa iluminação para visualização do prato sendo processado. A lasanha ficou assada por igual. O meu anterior era panasonic picolo e durou oito anos. \nContras: a trava da porta poderia ter menos pressão para destravar. O anel de rolamento do prato é muito frágil. O interior do forno poderia ser grafite para facilitar a limpeza. O teclado numérico de 0 a 9 sempre facilita na programação do tempo, o que não é o caso deste modelo.",
+					"rate": 5,
+					"likes": 11,
+					"dislikes": 0
+				}, {
+					"id": 20201954,
+					"title": "Muito bom , excelente ",
+					"content": "Muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente ,muito bom , excelente.",
+					"rate": 5,
+					"likes": 1,
+					"dislikes": 0
+				}, {
+					"id": 19826521,
+					"title": " \"SEM MÊDO DE SER FELIZ\",,,,.,SALVE 2018 !!!,,,,,,",
+					"content": "O produto é excelente e de acôrdo com as descrições-fotos-e funcionalidade propostas. Muito importante  sua graduação de tempos em circunstâncias mais curtas de uso habituai  e necessário. {praticidade}. O problema  segue apenas relativo aos correios que andam querendo \"um vigia 24hs na porta de nossas casas\" esquecendo-se da \"fila preferencial\" dos mais idosos,ou,portadores de alguma deficiência física;. Sem nenhuma  alusiva à loja virtual em questão (gregóriobelgrado)  se não me falha memória. Atte !. \nAté próxima compra. Feliz festas/ano novo ! !. \n****marcos valério fernandes. ****.",
+					"rate": 5,
+					"likes": 2,
+					"dislikes": 0
+				}],
+				"action": {
+					"target": "/products/MLB6051802/reviews?relevance=positive&limit=10&offset=3&reviews_product_id=MLB6051802"
+				}
+			}, {
+				"label": {
+					"text": "Negativas",
+					"color": "BLACK"
+				},
+				"preview_reviews": [{
+					"id": 7060068,
+					"title": "Não posso opininar, pois não funcionava.",
+					"version": "Branco",
+					"content": "Infelizmento tive que devolvê-lo, pois estava queimado. Agora estou apenas esperando os trâmites da loja onde comprei para receber de volta o dinheiro que paguei por ele. Mas a firma é atenciosa, mandou recolhê-lo na minha casa e acho que dentro de alguns dias tudo estará resolvido e o dinheiro devolvido. Obrigada pela atenção e pela assistência de  vocês. \n. \nCatherine.",
+					"rate": 2,
+					"likes": 7,
+					"dislikes": 5
+				}, {
+					"id": 22635714,
+					"title": "Atendimento péssimo ",
+					"version": "Branco",
+					"content": "O problema não é o produto em si, mas sim a loja (ou vendefor) estou a uma semana tentando entrar em contato para fazer uma troca, pois o. Produto veio com a voltagem diferente da minha residência, e até agora não obtive retorno. Não recomendo.",
+					"rate": 1,
+					"likes": 9,
+					"dislikes": 0
+				}, {
+					"id": 36443899,
+					"title": "Mandaram voltagem errada",
+					"version": "Branco",
+					"content": "Quero trocar o  produto ele veio com voltagem 220 que não e compatível com minha rede. Está na caixa com nota fiscal eletrônica como posso fazer pra devolver recebei ontem e não estava em casa.",
+					"rate": 1,
+					"likes": 1,
+					"dislikes": 0
+				}],
+				"action": {
+					"target": "/products/MLB6051802/reviews?relevance=negative&limit=10&offset=3&reviews_product_id=MLB6051802"
+				}
+			}],
+			"all_reviews": {
+				"type": "url",
+				"label": {
+					"text": "Ver todas as opiniões",
+					"color": "BLUE"
+				}
+			}
+		}, {
+			"id": "questions",
+			"type": "questions",
+			"state": "VISIBLE",
+			"title": {
+				"text": "Perguntas"
+			},
+			"quick_access": {
+				"title": {
+					"text": "Qual informação você precisa?"
+				},
+				"actions": [{
+					"target": "meli://generic_landing?url=https%3A%2F%2Fproduto.mercadolivre.com.br%2Fnoindex%2Fservices%2FMLB1347231388%2Fshipping%3Fwebview%3Dtrue",
+					"label": {
+						"text": "Formas de envio"
+					},
+					"modal_title": "Formas de envio"
+				}, {
+					"target": "meli://generic_landing?url=https%3A%2F%2Fproduto.mercadolivre.com.br%2Fnoindex%2Fservices%2FMLB1347231388%2Fpayments%3Fwebview%3Dtrue",
+					"label": {
+						"text": "Formas de pagamento"
+					},
+					"modal_title": "Formas de pagamento"
+				}, {
+					"target": "meli://generic_landing?url=https%3A%2F%2Fproduto.mercadolivre.com.br%2Fnoindex%2Fwarranty%2FMLB1347231388%3Fwebview%3Dtrue",
+					"label": {
+						"text": "Garantia"
+					},
+					"modal_title": "Garantia"
+				}]
+			},
+			"form": {
+				"title": {
+					"text": "Pergunte para Lojas Xavier"
+				},
+				"confirm": {
+					"target": "/products/question/MLB1347231388?site_id=MLB",
+					"label": {
+						"text": "Perguntar"
+					},
+					"item_id": "MLB1347231388"
+				},
+				"subtitles": [],
+				"placeholder": {
+					"text": "Escreva a sua pergunta..."
+				},
+				"max_length": 2000
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/questions/ask/post",
+					"event_data": {
+						"catalog_product_id": "MLB6070527",
+						"item_id": "MLB1347231388",
+						"context": "/pdp"
+					}
+				},
+				"analytics_event": {
+					"section": "/PDP/",
+					"action": "QUESTION",
+					"category": "ITEM",
+					"label": "PDP"
+				}
+			}
+		}
+	],
+	"share": {
+		"id": "share",
+		"type": "share",
+		"state": "VISIBLE",
+		"share_title": {
+			"text": "Compartilhe este produto",
+			"color": "BLACK"
+		},
+		"permalink": "https://www.mercadolivre.com.br/p/MLB6070527",
+		"action": {
+			"label": {
+				"text": "Compartilhar"
+			},
+			"icon": {
+				"id": "SHARE"
+			}
+		},
+		"share_actions": []
+	},
+	"bookmark": {
+		"id": "bookmark",
+		"type": "bookmark",
+		"state": "VISIBLE",
+		"item_id": "MLB1347231388",
+		"is_bookmarked": false,
+		"add": {
+			"label": {
+				"text": "Adicionar aos favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/bookmarks/action/post",
+					"event_data": {
+						"item_id": "MLB1347231388",
+						"catalog_product_id": "MLB6070527",
+						"context": "/pdp"
+					}
+				}
+			}
+		},
+		"delete": {
+			"label": {
+				"text": "Excluir dos favoritos"
+			},
+			"icon": {
+				"id": "BOOKMARK"
+			},
+			"track": {
+				"melidata_event": {
+					"path": "/bookmarks/action/delete",
+					"event_data": {
+						"item_id": "MLB1347231388",
+						"catalog_product_id": "MLB6070527",
+						"context": "/pdp"
+					}
+				}
+			}
+		}
+	},
+	"history": {
+		"id": "MLB1347231388"
+	},
+	"track": {
+		"melidata_event": {
+			"path": "/pdp",
+			"event_data": {
+				"catalog_parent_id": "MLB6051802",
+				"catalog_product_id": "MLB6070527",
+				"item_id": "MLB1347231388",
+				"category_id": "MLB73057",
+				"vertical": "core",
+				"domain_id": "MLB-MICROWAVES",
+				"review_rate": 4,
+				"item_condition": "new",
+				"listing_type_id": "gold_pro",
+				"cart_content": true,
+				"price": 459,
+				"currency_id": "BRL",
+				"seller_id": 193200465,
+				"seller_name": "Lojas Xavier",
+				"reputation_level": "5_green",
+				"power_seller_status": "platinum",
+				"official_store_id": 492,
+				"installment_info": "12f",
+				"free_shipping": false,
+				"shipping_mode": "me1",
+				"local_pick_up": false,
+				"store_pick_up": false,
+				"logistic_type": "default",
+				"shipping_conditions": "me_non_free",
+				"pushing_puis": false,
+				"showing_puis": false,
+				"bo_pick_up_conditions": "no_bo_pick_up",
+				"loyalty_level": 1,
+				"pickers": {
+					"VOLTAGE": [{
+						"catalog_product_id": "MLB6070527",
+						"selected": true,
+						"picker_type": "normal"
+					}, {
+						"catalog_product_id": "MLB6051803",
+						"selected": false,
+						"picker_type": "normal"
+					}]
+				}
+			}
+		},
+		"analytics_event": {
+			"section": "/PDP/",
+			"custom_dimensions": {
+				"129": "Microondas Panasonic Dia-a-Dia NN-ST254WRU Branco 110V",
+				"130": "MLB6070527",
+				"3": "{'MLB5726':'Eletrodomésticos'}",
+				"132": "me_non_free",
+				"4": "{'MLB5726':'Eletrodomésticos','MLB1580':'Forno e Fogões'}",
+				"5": "{'MLB5726':'Eletrodomésticos','MLB1580':'Forno e Fogões','MLB73057':'Microondas'}",
+				"7": "MARKETPLACE",
+				"71": "platinum",
+				"8": "core",
+				"72": "5_green",
+				"73": "NO",
+				"19": "gold_pro",
+				"85": "NO",
+				"86": "MLB-MICROWAVES",
+				"35": "brand",
+				"37": "me1",
+				"39": "active",
+				"106": "NO",
+				"42": "1x",
+				"43": "NO",
+				"45": "NO",
+				"49": "MLB1347231388",
+				"51": "new",
+				"119": "193200465",
+				"120": "Lojas Xavier",
+				"58": "brand",
+				"63": "1"
+			}
+		},
+		"gtm_event": {
+			"page_id": "PDP",
+			"site_id": "MLB",
+			"item_id": "MLB1347231388",
+			"catalog_parent_id": "MLB6051802",
+			"catalog_product_id": "MLB6070527",
+			"vertical": "core",
+			"domain_id": "MLB-MICROWAVES",
+			"root_category_id": "MLB5726",
+			"path_to_root": "MLB5726,MLB1580,MLB73057",
+			"category_id": "MLB73057",
+			"review_rate": 4,
+			"brand_id": "Panasonic",
+			"cart_content": true,
+			"item_price": 109.9,
+			"local_item_price": 459,
+			"currency_id": "BRL",
+			"seller_id": 193200465,
+			"reputation_level": "5_green",
+			"installment_info": "12f",
+			"free_shipping": false,
+			"loyalty_level": 1
+		},
+		"firebase_event": {
+			"event_name": "view_product",
+			"event_data": {
+				"item_id": "MLB1347231388",
+				"catalog_product_id": "MLB6070527",
+				"catalog_product_name": "Microondas Panasonic Dia-a-Dia NN-ST254WRU Branco 110V",
+				"vertical": "core",
+				"domain_id": "MLB-MICROWAVES",
+				"root_category_id": "MLB5726",
+				"category_id": "MLB73057"
+			}
+		}
+	},
+	"picture_config": {
+		"template": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-O.png",
+		"template_thumbnail": "https://http2.mlstatic.com/D_Q_NP_2X_{id}-R.png",
+		"template_zoom": "https://http2.mlstatic.com/D_NQ_NP_2X_{id}-F.png",
+		"template_icon": "https://http2.mlstatic.com/resources/frontend/vpp-backend/assets/3x/{id}.png"
+	},
+	"recommendations_context": {
+		"item_id": "MLB1347231388",
+		"product_id": "MLB6070527",
+		"category_id": "MLB73057"
+	}
+}
