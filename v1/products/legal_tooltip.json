@@ -138,6 +138,7 @@
 		{
 			"id": "generic_tooltip",
 			"type": "generic_tooltip",
+			"state": "VISIBLE",
 			"label": {
 				"text": "Un texto de prueba",
 				"color": "BLACK",
