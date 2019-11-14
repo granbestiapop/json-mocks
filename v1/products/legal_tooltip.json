@@ -138,7 +138,6 @@
 		{
 			"id": "generic_tooltip",
 			"type": "generic_tooltip",
-			"state": "VISIBLE",
 			"label": {
 				"text": "Un texto de prueba",
 				"color": "BLACK",
@@ -222,7 +221,36 @@
 					"id": "LOCATION",
 					"color": "BLUE"
 				}
+			},
+			"information_tooltip": {
+				"label": {
+					"text": "Un texto de prueba",
+					"color": "BLACK",
+					"font_size": "SMALL",
+					"font_family": "BOLD"
+				},
+				"primary_button": {
+					"action_type": "CONFIRM_SHIPPING_TOOLTIP",
+					"disabled": false,
+					"label": {
+						"text": "Entendido",
+						"color": "WHITE",
+						"font_size": "XSMALL",
+						"font_family": "BOLD"
+					}
+				},
+				"primary_link": {
+					"target": "https://www.mercadolivre.com.br/ajuda/Como-o-meu-beneficio-de-frete-gratis-funciona_4603",
+					"label": {
+						"text": "Saiba mais",
+						"color": "BLUE",
+						"font_size": "XSMALL",
+						"font_family": "BOLD"
+					}
+				},
+				"time_frequency": 86400
 			}
+
 		}, {
 			"id": "pick_up_summary",
 			"type": "generic_summary",
